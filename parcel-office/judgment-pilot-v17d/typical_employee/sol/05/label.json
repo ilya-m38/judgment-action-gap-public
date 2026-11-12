@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "most likely by entering the extension and flagging the exception to the manager",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

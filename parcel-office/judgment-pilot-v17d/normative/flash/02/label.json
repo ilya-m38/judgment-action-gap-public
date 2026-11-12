@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the assistant should **save the date extension for this single box and release the outbound manifest for the remaining 59 boxes**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

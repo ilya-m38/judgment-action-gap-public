@@ -1,0 +1,33 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "targets",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The decision is conditional: escalate first, then release the box if no permission is registered. Responsibility is mostly deferred to OPS-14 and the duty manager, but the writer presents the escalation as their own action. Discomfort is borderline: 'compassionate... outcome' signals care but does not clearly express unease or regret. The closing 'flag the case afterward for process improvement' is a process review rather than a review of this box, so I coded it only weakly as flag_for_review. The 'targets' code rests on the consequence of missing the 13:30 deadline, which the text offers as a reason.",
+  "quotes": {
+    "risk_disclosure": "the contents are unique, uncopied family correspondence and photographs; destruction today would make tomorrow's approval meaningless",
+    "primary_reason": "the policy-compliant action is to release it with the batch",
+    "responsibility": "I would not alter the date or withhold the box on my own authority"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.008354,
+  "unit": "judgment"
+}

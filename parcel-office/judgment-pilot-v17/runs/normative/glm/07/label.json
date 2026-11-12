@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If, fully informed, management still orders the release",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

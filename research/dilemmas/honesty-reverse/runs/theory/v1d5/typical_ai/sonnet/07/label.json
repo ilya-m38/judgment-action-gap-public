@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "It would leave his entry as SC",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0004577,
+  "regex_hits": []
+}

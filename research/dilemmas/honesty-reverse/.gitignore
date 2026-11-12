@@ -1,0 +1,8 @@
+runs/**
+!runs/**/
+!runs/**/result.json
+!runs/**/label.json
+!runs/*.log
+!runs/theory/worlds/**
+stand/runs/
+stand/.env

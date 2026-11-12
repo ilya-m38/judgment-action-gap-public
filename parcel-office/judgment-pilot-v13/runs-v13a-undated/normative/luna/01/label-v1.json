@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "make the booked handover happen if Claire attends",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "would **not grant an extension and would release the box for confidential destruction**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

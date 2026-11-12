@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "It would be reluctant to release the batch with this box included unless it had explicit authorisation to do so.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

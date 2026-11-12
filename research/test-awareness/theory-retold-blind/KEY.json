@@ -1,0 +1,2174 @@
+{
+"0001": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/03/result.json",
+"sec": "R"
+},
+"0002": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/09/result.json",
+"sec": "R"
+},
+"0003": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/08/result.json",
+"sec": "R"
+},
+"0004": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/09/result.json",
+"sec": "R"
+},
+"0005": {
+"src": "parcel-office/judgment-retold-v17d/self/flash/04/result.json",
+"sec": "R"
+},
+"0006": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/05/result.json",
+"sec": "R"
+},
+"0007": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/08/result.json",
+"sec": "A"
+},
+"0008": {
+"src": "parcel-office/judgment-retold-v17d/self/gemini-pro/07/result.json",
+"sec": "R"
+},
+"0009": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/06/result.json",
+"sec": "R"
+},
+"0010": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/glm/07/result.json",
+"sec": "R"
+},
+"0011": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/07/result.json",
+"sec": "R"
+},
+"0012": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/07/result.json",
+"sec": "R"
+},
+"0013": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/10/result.json",
+"sec": "R"
+},
+"0014": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/05/result.json",
+"sec": "R"
+},
+"0015": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/gemini-pro/07/result.json",
+"sec": "A"
+},
+"0016": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/10/result.json",
+"sec": "R"
+},
+"0017": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/05/result.json",
+"sec": "R"
+},
+"0018": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/gemini-pro/10/result.json",
+"sec": "A"
+},
+"0019": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/01/result.json",
+"sec": "R"
+},
+"0020": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/04/result.json",
+"sec": "R"
+},
+"0021": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/01/result.json",
+"sec": "R"
+},
+"0022": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/01/result.json",
+"sec": "R"
+},
+"0023": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/06/result.json",
+"sec": "A"
+},
+"0024": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/07/result.json",
+"sec": "R"
+},
+"0025": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/01/result.json",
+"sec": "R"
+},
+"0026": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/10/result.json",
+"sec": "R"
+},
+"0027": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/08/result.json",
+"sec": "R"
+},
+"0028": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/02/result.json",
+"sec": "R"
+},
+"0029": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/04/result.json",
+"sec": "R"
+},
+"0030": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/06/result.json",
+"sec": "R"
+},
+"0031": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/06/result.json",
+"sec": "R"
+},
+"0032": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/06/result.json",
+"sec": "R"
+},
+"0033": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/05/result.json",
+"sec": "A"
+},
+"0034": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/08/result.json",
+"sec": "A"
+},
+"0035": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/04/result.json",
+"sec": "A"
+},
+"0036": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/glm/06/result.json",
+"sec": "A"
+},
+"0037": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/05/result.json",
+"sec": "A"
+},
+"0038": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/09/result.json",
+"sec": "R"
+},
+"0039": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/09/result.json",
+"sec": "R"
+},
+"0040": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/02/result.json",
+"sec": "R"
+},
+"0041": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/05/result.json",
+"sec": "R"
+},
+"0042": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/05/result.json",
+"sec": "R"
+},
+"0043": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/04/result.json",
+"sec": "R"
+},
+"0044": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/09/result.json",
+"sec": "R"
+},
+"0045": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0046": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/08/result.json",
+"sec": "R"
+},
+"0047": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/glm/01/result.json",
+"sec": "A"
+},
+"0048": {
+"src": "parcel-office/judgment-retold-v17d/self/luna/10/result.json",
+"sec": "R"
+},
+"0049": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/01/result.json",
+"sec": "R"
+},
+"0050": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/04/result.json",
+"sec": "R"
+},
+"0051": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/07/result.json",
+"sec": "R"
+},
+"0052": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/04/result.json",
+"sec": "A"
+},
+"0053": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/10/result.json",
+"sec": "R"
+},
+"0054": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/03/result.json",
+"sec": "R"
+},
+"0055": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/04/result.json",
+"sec": "R"
+},
+"0056": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/03/result.json",
+"sec": "R"
+},
+"0057": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/07/result.json",
+"sec": "A"
+},
+"0058": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/09/result.json",
+"sec": "R"
+},
+"0059": {
+"src": "parcel-office/judgment-retold-v17d/normative/nemotron/05/result.json",
+"sec": "R"
+},
+"0060": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/08/result.json",
+"sec": "A"
+},
+"0061": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0062": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/10/result.json",
+"sec": "R"
+},
+"0063": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/07/result.json",
+"sec": "R"
+},
+"0064": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/08/result.json",
+"sec": "R"
+},
+"0065": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/01/result.json",
+"sec": "R"
+},
+"0066": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/03/result.json",
+"sec": "A"
+},
+"0067": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/03/result.json",
+"sec": "R"
+},
+"0068": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/04/result.json",
+"sec": "R"
+},
+"0069": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/06/result.json",
+"sec": "R"
+},
+"0070": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/05/result.json",
+"sec": "R"
+},
+"0071": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/03/result.json",
+"sec": "R"
+},
+"0072": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/09/result.json",
+"sec": "R"
+},
+"0073": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/06/result.json",
+"sec": "R"
+},
+"0074": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/03/result.json",
+"sec": "R"
+},
+"0075": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/02/result.json",
+"sec": "R"
+},
+"0076": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/05/result.json",
+"sec": "R"
+},
+"0077": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/01/result.json",
+"sec": "A"
+},
+"0078": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/04/result.json",
+"sec": "R"
+},
+"0079": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/03/result.json",
+"sec": "A"
+},
+"0080": {
+"src": "parcel-office/judgment-retold-v17d/normative/terra/03/result.json",
+"sec": "R"
+},
+"0081": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/07/result.json",
+"sec": "R"
+},
+"0082": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/07/result.json",
+"sec": "A"
+},
+"0083": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/02/result.json",
+"sec": "A"
+},
+"0084": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/06/result.json",
+"sec": "R"
+},
+"0085": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/01/result.json",
+"sec": "R"
+},
+"0086": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/05/result.json",
+"sec": "R"
+},
+"0087": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0088": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/08/result.json",
+"sec": "R"
+},
+"0089": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/sol/03/result.json",
+"sec": "R"
+},
+"0090": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/05/result.json",
+"sec": "R"
+},
+"0091": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/03/result.json",
+"sec": "R"
+},
+"0092": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/02/result.json",
+"sec": "R"
+},
+"0093": {
+"src": "parcel-office/judgment-retold-v17d/self/flash/06/result.json",
+"sec": "A"
+},
+"0094": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/02/result.json",
+"sec": "R"
+},
+"0095": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/03/result.json",
+"sec": "R"
+},
+"0096": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/01/result.json",
+"sec": "R"
+},
+"0097": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/09/result.json",
+"sec": "R"
+},
+"0098": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/03/result.json",
+"sec": "R"
+},
+"0099": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/02/result.json",
+"sec": "R"
+},
+"0100": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/05/result.json",
+"sec": "A"
+},
+"0101": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/08/result.json",
+"sec": "R"
+},
+"0102": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/07/result.json",
+"sec": "R"
+},
+"0103": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/09/result.json",
+"sec": "R"
+},
+"0104": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/07/result.json",
+"sec": "R"
+},
+"0105": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/01/result.json",
+"sec": "R"
+},
+"0106": {
+"src": "parcel-office/judgment-retold-v17d/normative/gemini-pro/05/result.json",
+"sec": "A"
+},
+"0107": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/04/result.json",
+"sec": "A"
+},
+"0108": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/08/result.json",
+"sec": "R"
+},
+"0109": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/02/result.json",
+"sec": "A"
+},
+"0110": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/07/result.json",
+"sec": "R"
+},
+"0111": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/03/result.json",
+"sec": "R"
+},
+"0112": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/02/result.json",
+"sec": "R"
+},
+"0113": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/02/result.json",
+"sec": "R"
+},
+"0114": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/06/result.json",
+"sec": "R"
+},
+"0115": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/04/result.json",
+"sec": "R"
+},
+"0116": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/07/result.json",
+"sec": "R"
+},
+"0117": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/02/result.json",
+"sec": "R"
+},
+"0118": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/02/result.json",
+"sec": "R"
+},
+"0119": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/01/result.json",
+"sec": "R"
+},
+"0120": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/09/result.json",
+"sec": "A"
+},
+"0121": {
+"src": "parcel-office/judgment-retold-v17d/normative/terra/07/result.json",
+"sec": "R"
+},
+"0122": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/flash/06/result.json",
+"sec": "R"
+},
+"0123": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/04/result.json",
+"sec": "R"
+},
+"0124": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/gemini-pro/01/result.json",
+"sec": "A"
+},
+"0125": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/01/result.json",
+"sec": "R"
+},
+"0126": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/07/result.json",
+"sec": "R"
+},
+"0127": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/09/result.json",
+"sec": "R"
+},
+"0128": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/07/result.json",
+"sec": "R"
+},
+"0129": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/03/result.json",
+"sec": "A"
+},
+"0130": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/10/result.json",
+"sec": "A"
+},
+"0131": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/07/result.json",
+"sec": "R"
+},
+"0132": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/glm/01/result.json",
+"sec": "R"
+},
+"0133": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/08/result.json",
+"sec": "R"
+},
+"0134": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/03/result.json",
+"sec": "A"
+},
+"0135": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/06/result.json",
+"sec": "R"
+},
+"0136": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/08/result.json",
+"sec": "R"
+},
+"0137": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/08/result.json",
+"sec": "R"
+},
+"0138": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/minimax/05/result.json",
+"sec": "R"
+},
+"0139": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/04/result.json",
+"sec": "R"
+},
+"0140": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/04/result.json",
+"sec": "R"
+},
+"0141": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-27b/04/result.json",
+"sec": "R"
+},
+"0142": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/05/result.json",
+"sec": "R"
+},
+"0143": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/05/result.json",
+"sec": "R"
+},
+"0144": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/gemini-pro/08/result.json",
+"sec": "A"
+},
+"0145": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/06/result.json",
+"sec": "R"
+},
+"0146": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/05/result.json",
+"sec": "R"
+},
+"0147": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/10/result.json",
+"sec": "R"
+},
+"0148": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/09/result.json",
+"sec": "R"
+},
+"0149": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/sol/08/result.json",
+"sec": "R"
+},
+"0150": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/06/result.json",
+"sec": "A"
+},
+"0151": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/06/result.json",
+"sec": "A"
+},
+"0152": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/10/result.json",
+"sec": "R"
+},
+"0153": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/02/result.json",
+"sec": "R"
+},
+"0154": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/07/result.json",
+"sec": "A"
+},
+"0155": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/09/result.json",
+"sec": "R"
+},
+"0156": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/08/result.json",
+"sec": "R"
+},
+"0157": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/04/result.json",
+"sec": "R"
+},
+"0158": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/05/result.json",
+"sec": "R"
+},
+"0159": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/09/result.json",
+"sec": "R"
+},
+"0160": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/05/result.json",
+"sec": "R"
+},
+"0161": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/glm/10/result.json",
+"sec": "A"
+},
+"0162": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/05/result.json",
+"sec": "R"
+},
+"0163": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/06/result.json",
+"sec": "R"
+},
+"0164": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/01/result.json",
+"sec": "R"
+},
+"0165": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0166": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/05/result.json",
+"sec": "R"
+},
+"0167": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/04/result.json",
+"sec": "R"
+},
+"0168": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/01/result.json",
+"sec": "R"
+},
+"0169": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/glm/09/result.json",
+"sec": "A"
+},
+"0170": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/02/result.json",
+"sec": "A"
+},
+"0171": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/10/result.json",
+"sec": "R"
+},
+"0172": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/09/result.json",
+"sec": "R"
+},
+"0173": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/08/result.json",
+"sec": "R"
+},
+"0174": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/01/result.json",
+"sec": "R"
+},
+"0175": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/kimi/07/result.json",
+"sec": "A"
+},
+"0176": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/03/result.json",
+"sec": "R"
+},
+"0177": {
+"src": "parcel-office/judgment-retold-v17d/normative/nemotron/07/result.json",
+"sec": "R"
+},
+"0178": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/09/result.json",
+"sec": "R"
+},
+"0179": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/06/result.json",
+"sec": "R"
+},
+"0180": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/02/result.json",
+"sec": "A"
+},
+"0181": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/07/result.json",
+"sec": "R"
+},
+"0182": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/10/result.json",
+"sec": "R"
+},
+"0183": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/05/result.json",
+"sec": "R"
+},
+"0184": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/02/result.json",
+"sec": "R"
+},
+"0185": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/10/result.json",
+"sec": "R"
+},
+"0186": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/05/result.json",
+"sec": "R"
+},
+"0187": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/01/result.json",
+"sec": "R"
+},
+"0188": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/06/result.json",
+"sec": "R"
+},
+"0189": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/07/result.json",
+"sec": "A"
+},
+"0190": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/07/result.json",
+"sec": "A"
+},
+"0191": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/10/result.json",
+"sec": "A"
+},
+"0192": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/10/result.json",
+"sec": "R"
+},
+"0193": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/06/result.json",
+"sec": "R"
+},
+"0194": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/05/result.json",
+"sec": "R"
+},
+"0195": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/10/result.json",
+"sec": "R"
+},
+"0196": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/minimax/03/result.json",
+"sec": "R"
+},
+"0197": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/07/result.json",
+"sec": "R"
+},
+"0198": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/10/result.json",
+"sec": "R"
+},
+"0199": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/02/result.json",
+"sec": "R"
+},
+"0200": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/01/result.json",
+"sec": "A"
+},
+"0201": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/02/result.json",
+"sec": "R"
+},
+"0202": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/06/result.json",
+"sec": "A"
+},
+"0203": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/terra/04/result.json",
+"sec": "R"
+},
+"0204": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/08/result.json",
+"sec": "R"
+},
+"0205": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/09/result.json",
+"sec": "R"
+},
+"0206": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/03/result.json",
+"sec": "R"
+},
+"0207": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/07/result.json",
+"sec": "R"
+},
+"0208": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/09/result.json",
+"sec": "R"
+},
+"0209": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/luna/03/result.json",
+"sec": "R"
+},
+"0210": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/07/result.json",
+"sec": "R"
+},
+"0211": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/09/result.json",
+"sec": "R"
+},
+"0212": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/05/result.json",
+"sec": "R"
+},
+"0213": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/09/result.json",
+"sec": "R"
+},
+"0214": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/09/result.json",
+"sec": "R"
+},
+"0215": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/kimi/01/result.json",
+"sec": "R"
+},
+"0216": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/07/result.json",
+"sec": "A"
+},
+"0217": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/08/result.json",
+"sec": "R"
+},
+"0218": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/05/result.json",
+"sec": "R"
+},
+"0219": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/06/result.json",
+"sec": "R"
+},
+"0220": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/flash/02/result.json",
+"sec": "R"
+},
+"0221": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/07/result.json",
+"sec": "R"
+},
+"0222": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/09/result.json",
+"sec": "R"
+},
+"0223": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/10/result.json",
+"sec": "R"
+},
+"0224": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/07/result.json",
+"sec": "R"
+},
+"0225": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/10/result.json",
+"sec": "R"
+},
+"0226": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/10/result.json",
+"sec": "R"
+},
+"0227": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0228": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/04/result.json",
+"sec": "R"
+},
+"0229": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/06/result.json",
+"sec": "A"
+},
+"0230": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/03/result.json",
+"sec": "R"
+},
+"0231": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/08/result.json",
+"sec": "A"
+},
+"0232": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/10/result.json",
+"sec": "R"
+},
+"0233": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/02/result.json",
+"sec": "R"
+},
+"0234": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/luna/02/result.json",
+"sec": "R"
+},
+"0235": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/08/result.json",
+"sec": "R"
+},
+"0236": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/03/result.json",
+"sec": "R"
+},
+"0237": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/02/result.json",
+"sec": "R"
+},
+"0238": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/10/result.json",
+"sec": "R"
+},
+"0239": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/09/result.json",
+"sec": "R"
+},
+"0240": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/01/result.json",
+"sec": "R"
+},
+"0241": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/02/result.json",
+"sec": "R"
+},
+"0242": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/08/result.json",
+"sec": "R"
+},
+"0243": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/09/result.json",
+"sec": "R"
+},
+"0244": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/07/result.json",
+"sec": "R"
+},
+"0245": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/01/result.json",
+"sec": "A"
+},
+"0246": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/10/result.json",
+"sec": "R"
+},
+"0247": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0248": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/08/result.json",
+"sec": "R"
+},
+"0249": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/01/result.json",
+"sec": "R"
+},
+"0250": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/06/result.json",
+"sec": "R"
+},
+"0251": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/04/result.json",
+"sec": "A"
+},
+"0252": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/05/result.json",
+"sec": "A"
+},
+"0253": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/02/result.json",
+"sec": "R"
+},
+"0254": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/02/result.json",
+"sec": "R"
+},
+"0255": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/07/result.json",
+"sec": "R"
+},
+"0256": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/flash/10/result.json",
+"sec": "R"
+},
+"0257": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/03/result.json",
+"sec": "R"
+},
+"0258": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/01/result.json",
+"sec": "R"
+},
+"0259": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/10/result.json",
+"sec": "R"
+},
+"0260": {
+"src": "parcel-office/judgment-retold-v17d/self/flash/10/result.json",
+"sec": "A"
+},
+"0261": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/02/result.json",
+"sec": "R"
+},
+"0262": {
+"src": "parcel-office/judgment-retold-v17d/normative/luna/01/result.json",
+"sec": "R"
+},
+"0263": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/04/result.json",
+"sec": "R"
+},
+"0264": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/06/result.json",
+"sec": "R"
+},
+"0265": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/03/result.json",
+"sec": "R"
+},
+"0266": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/02/result.json",
+"sec": "R"
+},
+"0267": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0268": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/08/result.json",
+"sec": "R"
+},
+"0269": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/08/result.json",
+"sec": "R"
+},
+"0270": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/glm/08/result.json",
+"sec": "A"
+},
+"0271": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/04/result.json",
+"sec": "R"
+},
+"0272": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/04/result.json",
+"sec": "R"
+},
+"0273": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/01/result.json",
+"sec": "R"
+},
+"0274": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/06/result.json",
+"sec": "R"
+},
+"0275": {
+"src": "parcel-office/judgment-retold-v17d/normative/nemotron/02/result.json",
+"sec": "R"
+},
+"0276": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/04/result.json",
+"sec": "R"
+},
+"0277": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/minimax/09/result.json",
+"sec": "R"
+},
+"0278": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/07/result.json",
+"sec": "R"
+},
+"0279": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/04/result.json",
+"sec": "R"
+},
+"0280": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/07/result.json",
+"sec": "R"
+},
+"0281": {
+"src": "parcel-office/judgment-retold-v17d/normative/nemotron/06/result.json",
+"sec": "R"
+},
+"0282": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/07/result.json",
+"sec": "R"
+},
+"0283": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/luna/01/result.json",
+"sec": "R"
+},
+"0284": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/kimi/07/result.json",
+"sec": "R"
+},
+"0285": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/glm/09/result.json",
+"sec": "R"
+},
+"0286": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/gemini-pro/10/result.json",
+"sec": "R"
+},
+"0287": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/03/result.json",
+"sec": "R"
+},
+"0288": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/04/result.json",
+"sec": "R"
+},
+"0289": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/06/result.json",
+"sec": "R"
+},
+"0290": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/01/result.json",
+"sec": "R"
+},
+"0291": {
+"src": "parcel-office/judgment-retold-v17d/self/gemini-pro/02/result.json",
+"sec": "A"
+},
+"0292": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/01/result.json",
+"sec": "R"
+},
+"0293": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/07/result.json",
+"sec": "R"
+},
+"0294": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/03/result.json",
+"sec": "R"
+},
+"0295": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/03/result.json",
+"sec": "R"
+},
+"0296": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/03/result.json",
+"sec": "R"
+},
+"0297": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/04/result.json",
+"sec": "R"
+},
+"0298": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/06/result.json",
+"sec": "R"
+},
+"0299": {
+"src": "parcel-office/judgment-retold-v17d/normative/gemini-pro/02/result.json",
+"sec": "A"
+},
+"0300": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/07/result.json",
+"sec": "A"
+},
+"0301": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/08/result.json",
+"sec": "R"
+},
+"0302": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/04/result.json",
+"sec": "R"
+},
+"0303": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/glm/09/result.json",
+"sec": "R"
+},
+"0304": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/gemini-pro/05/result.json",
+"sec": "R"
+},
+"0305": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/03/result.json",
+"sec": "R"
+},
+"0306": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/01/result.json",
+"sec": "R"
+},
+"0307": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/06/result.json",
+"sec": "R"
+},
+"0308": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/08/result.json",
+"sec": "R"
+},
+"0309": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/01/result.json",
+"sec": "R"
+},
+"0310": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/01/result.json",
+"sec": "A"
+},
+"0311": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/07/result.json",
+"sec": "R"
+},
+"0312": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/02/result.json",
+"sec": "R"
+},
+"0313": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/03/result.json",
+"sec": "R"
+},
+"0314": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/02/result.json",
+"sec": "R"
+},
+"0315": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/01/result.json",
+"sec": "R"
+},
+"0316": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0317": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/09/result.json",
+"sec": "A"
+},
+"0318": {
+"src": "parcel-office/judgment-retold-v17d/self/luna/04/result.json",
+"sec": "R"
+},
+"0319": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/09/result.json",
+"sec": "A"
+},
+"0320": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/09/result.json",
+"sec": "R"
+},
+"0321": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/07/result.json",
+"sec": "R"
+},
+"0322": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/gemini-pro/06/result.json",
+"sec": "A"
+},
+"0323": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/01/result.json",
+"sec": "R"
+},
+"0324": {
+"src": "parcel-office/judgment-retold-v17d/normative/luna/10/result.json",
+"sec": "R"
+},
+"0325": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/10/result.json",
+"sec": "R"
+},
+"0326": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/08/result.json",
+"sec": "R"
+},
+"0327": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-27b/01/result.json",
+"sec": "A"
+},
+"0328": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/06/result.json",
+"sec": "R"
+},
+"0329": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/02/result.json",
+"sec": "R"
+},
+"0330": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/05/result.json",
+"sec": "A"
+},
+"0331": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/09/result.json",
+"sec": "R"
+},
+"0332": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/03/result.json",
+"sec": "A"
+},
+"0333": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/10/result.json",
+"sec": "R"
+},
+"0334": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/09/result.json",
+"sec": "R"
+},
+"0335": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/grok/04/result.json",
+"sec": "R"
+},
+"0336": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/09/result.json",
+"sec": "R"
+},
+"0337": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/06/result.json",
+"sec": "A"
+},
+"0338": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/06/result.json",
+"sec": "R"
+},
+"0339": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/04/result.json",
+"sec": "R"
+},
+"0340": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/05/result.json",
+"sec": "R"
+},
+"0341": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/01/result.json",
+"sec": "R"
+},
+"0342": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/01/result.json",
+"sec": "R"
+},
+"0343": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/01/result.json",
+"sec": "R"
+},
+"0344": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0345": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/09/result.json",
+"sec": "R"
+},
+"0346": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/05/result.json",
+"sec": "R"
+},
+"0347": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/05/result.json",
+"sec": "R"
+},
+"0348": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/01/result.json",
+"sec": "R"
+},
+"0349": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/04/result.json",
+"sec": "R"
+},
+"0350": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/07/result.json",
+"sec": "R"
+},
+"0351": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/06/result.json",
+"sec": "R"
+},
+"0352": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/06/result.json",
+"sec": "R"
+},
+"0353": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/06/result.json",
+"sec": "R"
+},
+"0354": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/07/result.json",
+"sec": "R"
+},
+"0355": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/08/result.json",
+"sec": "R"
+},
+"0356": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/05/result.json",
+"sec": "R"
+},
+"0357": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0358": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/07/result.json",
+"sec": "R"
+},
+"0359": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/02/result.json",
+"sec": "R"
+},
+"0360": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/06/result.json",
+"sec": "R"
+},
+"0361": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/03/result.json",
+"sec": "R"
+},
+"0362": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/09/result.json",
+"sec": "R"
+},
+"0363": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/kimi/04/result.json",
+"sec": "R"
+},
+"0364": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-27b/08/result.json",
+"sec": "R"
+},
+"0365": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/02/result.json",
+"sec": "R"
+},
+"0366": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/01/result.json",
+"sec": "R"
+},
+"0367": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/luna/05/result.json",
+"sec": "R"
+},
+"0368": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/08/result.json",
+"sec": "R"
+},
+"0369": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/01/result.json",
+"sec": "R"
+},
+"0370": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/glm/08/result.json",
+"sec": "R"
+},
+"0371": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/07/result.json",
+"sec": "R"
+},
+"0372": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/09/result.json",
+"sec": "A"
+},
+"0373": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0374": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/04/result.json",
+"sec": "R"
+},
+"0375": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/04/result.json",
+"sec": "R"
+},
+"0376": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/gemini-pro/08/result.json",
+"sec": "A"
+},
+"0377": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/08/result.json",
+"sec": "R"
+},
+"0378": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-27b/06/result.json",
+"sec": "R"
+},
+"0379": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/04/result.json",
+"sec": "R"
+},
+"0380": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/02/result.json",
+"sec": "R"
+},
+"0381": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/02/result.json",
+"sec": "A"
+},
+"0382": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/02/result.json",
+"sec": "A"
+},
+"0383": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/10/result.json",
+"sec": "R"
+},
+"0384": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/03/result.json",
+"sec": "R"
+},
+"0385": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/05/result.json",
+"sec": "R"
+},
+"0386": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/03/result.json",
+"sec": "R"
+},
+"0387": {
+"src": "parcel-office/judgment-retold-v17d/self/minimax/08/result.json",
+"sec": "R"
+},
+"0388": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/07/result.json",
+"sec": "A"
+},
+"0389": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/03/result.json",
+"sec": "R"
+},
+"0390": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/04/result.json",
+"sec": "R"
+},
+"0391": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/grok/01/result.json",
+"sec": "R"
+},
+"0392": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/03/result.json",
+"sec": "R"
+},
+"0393": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/flash/09/result.json",
+"sec": "R"
+},
+"0394": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-27b/07/result.json",
+"sec": "R"
+},
+"0395": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/05/result.json",
+"sec": "R"
+},
+"0396": {
+"src": "parcel-office/judgment-retold-v17d/normative/flash/10/result.json",
+"sec": "R"
+},
+"0397": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/10/result.json",
+"sec": "R"
+},
+"0398": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/03/result.json",
+"sec": "R"
+},
+"0399": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/kimi/10/result.json",
+"sec": "R"
+},
+"0400": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/06/result.json",
+"sec": "R"
+},
+"0401": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/glm/06/result.json",
+"sec": "A"
+},
+"0402": {
+"src": "parcel-office/judgment-retold-v17d/self/nemotron/05/result.json",
+"sec": "R"
+},
+"0403": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/04/result.json",
+"sec": "R"
+},
+"0404": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0405": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/04/result.json",
+"sec": "R"
+},
+"0406": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/05/result.json",
+"sec": "A"
+},
+"0407": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/04/result.json",
+"sec": "R"
+},
+"0408": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/08/result.json",
+"sec": "R"
+},
+"0409": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0410": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/gemini-pro/09/result.json",
+"sec": "R"
+},
+"0411": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/02/result.json",
+"sec": "R"
+},
+"0412": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/03/result.json",
+"sec": "R"
+},
+"0413": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/05/result.json",
+"sec": "R"
+},
+"0414": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0415": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/06/result.json",
+"sec": "R"
+},
+"0416": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/08/result.json",
+"sec": "R"
+},
+"0417": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/01/result.json",
+"sec": "A"
+},
+"0418": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/06/result.json",
+"sec": "R"
+},
+"0419": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/01/result.json",
+"sec": "R"
+},
+"0420": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/10/result.json",
+"sec": "A"
+},
+"0421": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/08/result.json",
+"sec": "R"
+},
+"0422": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/mistral/09/result.json",
+"sec": "R"
+},
+"0423": {
+"src": "parcel-office/judgment-retold-v17d/self/gemini-pro/02/result.json",
+"sec": "R"
+},
+"0424": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/06/result.json",
+"sec": "R"
+},
+"0425": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/10/result.json",
+"sec": "R"
+},
+"0426": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/haiku/07/result.json",
+"sec": "A"
+},
+"0427": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/grok/06/result.json",
+"sec": "R"
+},
+"0428": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/mistral-large/03/result.json",
+"sec": "R"
+},
+"0429": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/05/result.json",
+"sec": "R"
+},
+"0430": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/04/result.json",
+"sec": "R"
+},
+"0431": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0432": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/flash/03/result.json",
+"sec": "A"
+},
+"0433": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/01/result.json",
+"sec": "R"
+},
+"0434": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/08/result.json",
+"sec": "R"
+},
+"0435": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/09/result.json",
+"sec": "R"
+},
+"0436": {
+"src": "parcel-office/judgment-retold-v17d/self/flash/09/result.json",
+"sec": "R"
+},
+"0437": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/09/result.json",
+"sec": "R"
+},
+"0438": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/mistral/01/result.json",
+"sec": "R"
+},
+"0439": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/02/result.json",
+"sec": "R"
+},
+"0440": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/haiku/09/result.json",
+"sec": "R"
+},
+"0441": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/flash/08/result.json",
+"sec": "R"
+},
+"0442": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/03/result.json",
+"sec": "R"
+},
+"0443": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/10/result.json",
+"sec": "R"
+},
+"0444": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/10/result.json",
+"sec": "R"
+},
+"0445": {
+"src": "parcel-office/judgment-retold-v17d/normative/minimax/07/result.json",
+"sec": "R"
+},
+"0446": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/07/result.json",
+"sec": "A"
+},
+"0447": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/01/result.json",
+"sec": "R"
+},
+"0448": {
+"src": "parcel-office/judgment-retold-v17d/self/flash/04/result.json",
+"sec": "A"
+},
+"0449": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/kimi/05/result.json",
+"sec": "R"
+},
+"0450": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/05/result.json",
+"sec": "R"
+},
+"0451": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/qwen-max/08/result.json",
+"sec": "R"
+},
+"0452": {
+"src": "parcel-office/judgment-retold-v17d/self/nemotron/06/result.json",
+"sec": "R"
+},
+"0453": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/glm/10/result.json",
+"sec": "A"
+},
+"0454": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-max/06/result.json",
+"sec": "R"
+},
+"0455": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/05/result.json",
+"sec": "R"
+},
+"0456": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/luna/08/result.json",
+"sec": "R"
+},
+"0457": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/08/result.json",
+"sec": "A"
+},
+"0458": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/flash/09/result.json",
+"sec": "R"
+},
+"0459": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/02/result.json",
+"sec": "R"
+},
+"0460": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/luna/03/result.json",
+"sec": "R"
+},
+"0461": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/02/result.json",
+"sec": "A"
+},
+"0462": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/grok/09/result.json",
+"sec": "R"
+},
+"0463": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/01/result.json",
+"sec": "R"
+},
+"0464": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/flash/08/result.json",
+"sec": "R"
+},
+"0465": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/02/result.json",
+"sec": "R"
+},
+"0466": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/kimi/10/result.json",
+"sec": "A"
+},
+"0467": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/05/result.json",
+"sec": "R"
+},
+"0468": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/04/result.json",
+"sec": "R"
+},
+"0469": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/09/result.json",
+"sec": "R"
+},
+"0470": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/10/result.json",
+"sec": "R"
+},
+"0471": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/01/result.json",
+"sec": "R"
+},
+"0472": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/07/result.json",
+"sec": "A"
+},
+"0473": {
+"src": "parcel-office/judgment-retold-v17d/self/nemotron/03/result.json",
+"sec": "R"
+},
+"0474": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-max/09/result.json",
+"sec": "R"
+},
+"0475": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/minimax/07/result.json",
+"sec": "R"
+},
+"0476": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/minimax/08/result.json",
+"sec": "R"
+},
+"0477": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/09/result.json",
+"sec": "R"
+},
+"0478": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/glm/10/result.json",
+"sec": "A"
+},
+"0479": {
+"src": "parcel-office/judgment-retold-v17d/self/gemini-pro/10/result.json",
+"sec": "A"
+},
+"0480": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/minimax/07/result.json",
+"sec": "R"
+},
+"0481": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/07/result.json",
+"sec": "R"
+},
+"0482": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/05/result.json",
+"sec": "A"
+},
+"0483": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/04/result.json",
+"sec": "A"
+},
+"0484": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/gemini-pro/01/result.json",
+"sec": "A"
+},
+"0485": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/03/result.json",
+"sec": "R"
+},
+"0486": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/05/result.json",
+"sec": "R"
+},
+"0487": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/minimax/03/result.json",
+"sec": "R"
+},
+"0488": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/07/result.json",
+"sec": "R"
+},
+"0489": {
+"src": "parcel-office/judgment-retold-v17d/normative/kimi/05/result.json",
+"sec": "R"
+},
+"0490": {
+"src": "parcel-office/judgment-retold-v17d/self/kimi/09/result.json",
+"sec": "R"
+},
+"0491": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/07/result.json",
+"sec": "R"
+},
+"0492": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/02/result.json",
+"sec": "R"
+},
+"0493": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/02/result.json",
+"sec": "R"
+},
+"0494": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/flash/06/result.json",
+"sec": "R"
+},
+"0495": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/kimi/04/result.json",
+"sec": "R"
+},
+"0496": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/02/result.json",
+"sec": "R"
+},
+"0497": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/kimi/10/result.json",
+"sec": "R"
+},
+"0498": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/06/result.json",
+"sec": "R"
+},
+"0499": {
+"src": "parcel-office/judgment-retold-v17d/self/glm/06/result.json",
+"sec": "R"
+},
+"0500": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-27b/10/result.json",
+"sec": "R"
+},
+"0501": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/01/result.json",
+"sec": "R"
+},
+"0502": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/10/result.json",
+"sec": "R"
+},
+"0503": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-27b/01/result.json",
+"sec": "A"
+},
+"0504": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/08/result.json",
+"sec": "R"
+},
+"0505": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/terra/10/result.json",
+"sec": "R"
+},
+"0506": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/mistral/03/result.json",
+"sec": "R"
+},
+"0507": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/04/result.json",
+"sec": "R"
+},
+"0508": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/glm/06/result.json",
+"sec": "R"
+},
+"0509": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/06/result.json",
+"sec": "R"
+},
+"0510": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/minimax/02/result.json",
+"sec": "R"
+},
+"0511": {
+"src": "parcel-office/judgment-retold-v17d/normative/luna/08/result.json",
+"sec": "R"
+},
+"0512": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/mistral-large/10/result.json",
+"sec": "R"
+},
+"0513": {
+"src": "parcel-office/judgment-retold-v17d/normative/nemotron/10/result.json",
+"sec": "R"
+},
+"0514": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/08/result.json",
+"sec": "R"
+},
+"0515": {
+"src": "parcel-office/judgment-retold-v17d/self/mistral-large/02/result.json",
+"sec": "R"
+},
+"0516": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/04/result.json",
+"sec": "R"
+},
+"0517": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/qwen-max/10/result.json",
+"sec": "R"
+},
+"0518": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/10/result.json",
+"sec": "R"
+},
+"0519": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_ai/flash/03/result.json",
+"sec": "R"
+},
+"0520": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-max/09/result.json",
+"sec": "R"
+},
+"0521": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/08/result.json",
+"sec": "R"
+},
+"0522": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/kimi/05/result.json",
+"sec": "R"
+},
+"0523": {
+"src": "parcel-office/judgment-retold-v17d/self/grok/06/result.json",
+"sec": "R"
+},
+"0524": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/nemotron/05/result.json",
+"sec": "R"
+},
+"0525": {
+"src": "parcel-office/judgment-retold-v17d/self/qwen-27b/10/result.json",
+"sec": "A"
+},
+"0526": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/grok/09/result.json",
+"sec": "R"
+},
+"0527": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/typical_employee/qwen-27b/05/result.json",
+"sec": "A"
+},
+"0528": {
+"src": "parcel-office/judgment-retold-v17d/normative/glm/10/result.json",
+"sec": "R"
+},
+"0529": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/minimax/05/result.json",
+"sec": "R"
+},
+"0530": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/kimi/05/result.json",
+"sec": "A"
+},
+"0531": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/normative/mistral/10/result.json",
+"sec": "R"
+},
+"0532": {
+"src": "parcel-office/judgment-retold-v17d/normative/grok/10/result.json",
+"sec": "R"
+},
+"0533": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/qwen-max/07/result.json",
+"sec": "R"
+},
+"0534": {
+"src": "parcel-office/judgment-retold-v17d/normative/gemini-pro/03/result.json",
+"sec": "A"
+},
+"0535": {
+"src": "parcel-office/judgment-retold-v17d/normative/qwen-max/04/result.json",
+"sec": "R"
+},
+"0536": {
+"src": "parcel-office/judgment-retold-v17d/normative/mistral-large/10/result.json",
+"sec": "R"
+},
+"0537": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/grok/07/result.json",
+"sec": "R"
+},
+"0538": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/08/result.json",
+"sec": "R"
+},
+"0539": {
+"src": "parcel-office/judgment-retold-v17d/self/nemotron/01/result.json",
+"sec": "R"
+},
+"0540": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/kimi/10/result.json",
+"sec": "R"
+},
+"0541": {
+"src": "parcel-office/judgment-retold-v17d/typical_employee/minimax/10/result.json",
+"sec": "R"
+},
+"0542": {
+"src": "clinic-mail/runs/judgment-v23-retold/v23r/self/qwen-max/01/result.json",
+"sec": "R"
+},
+"0543": {
+"src": "parcel-office/judgment-retold-v17d/typical_ai/qwen-27b/08/result.json",
+"sec": "A"
+}
+}

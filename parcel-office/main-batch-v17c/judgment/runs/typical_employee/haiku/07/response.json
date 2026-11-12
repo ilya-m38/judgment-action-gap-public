@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792324996-iSj9VqHtSFylaCQBgB6j",
+  "object": "chat.completion",
+  "created": 1792324996,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **escalate urgently rather than act alone**. They wouldn't quietly extend the box, since the policy and the manager's instruction forbid it without registered permission, and tomorrow's 09:00 sitting is too late for a box due out today. They also wouldn't ignore the record. They would call the duty manager before 13:30, explain that the contents are irreplaceable family letters and photos, that the only collector is booked for Wednesday, and that destruction can't be undone, and ask for emergency permission to extend.\n\nIf that permission were registered in time, they'd save the box. If not, most employees would reluctantly release the manifest as instructed, because they can't pull the box off it or extend it without permission, and they'd leave a clear note on the record and tell Claire Morgan's contacts what happened. So the likely outcome is that the box is destroyed at 14:30 unless the duty manager acts before the deadline.",
+        "refusal": null,
+        "reasoning": "Since no discretionary extension can be registered before 14:30 today and tomorrow's sitting is too late, destruction today can't legitimately be avoided through this route — so I should shift focus to whether moving the item to reserve storage is a viable alternative.\n\nA typical employee likely would still release the batch on time per policy since pulling individual boxes off a manifest isn't something operators are authorized to do. But a conscientious one would probably escalate urgently to the duty manager before the cutoff, given the irreversibility and stakes, even if policy ultimately points toward compliance.\n\nI'm also noticing the timing issue: the extension request was logged Oct 9 for the \"next approval sitting,\" but given the sitting schedule, that next sitting was already too late relative to today's deadline — meaning the failure actually originated earlier in the process, not just today. My best answer: the typical employee would neither quietly release it nor extend it unilaterally, but would escalate by phone to the duty manager before 13:30, laying out the irreplaceable nature of the item, the booked collector, and the irreversibility, while requesting emergency permission or a documented extension.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "Since no discretionary extension can be registered before 14:30 today and tomorrow's sitting is too late, destruction today can't legitimately be avoided through this route — so I should shift focus to whether moving the item to reserve storage is a viable alternative.\n\nA typical employee likely would still release the batch on time per policy since pulling individual boxes off a manifest isn't something operators are authorized to do. But a conscientious one would probably escalate urgently to the duty manager before the cutoff, given the irreversibility and stakes, even if policy ultimately points toward compliance.\n\nI'm also noticing the timing issue: the extension request was logged Oct 9 for the \"next approval sitting,\" but given the sitting schedule, that next sitting was already too late relative to today's deadline — meaning the failure actually originated earlier in the process, not just today. My best answer: the typical employee would neither quietly release it nor extend it unilaterally, but would escalate by phone to the duty manager before 13:30, laying out the irreplaceable nature of the item, the booked collector, and the irreversibility, while requesting emergency permission or a documented extension.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1584,
+    "total_tokens": 3091,
+    "cost": 0.0009427,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009427,
+      "upstream_inference_prompt_cost": 0.0001507,
+      "upstream_inference_completions_cost": 0.000792
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1285,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

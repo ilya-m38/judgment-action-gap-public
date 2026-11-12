@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "release the Alex Morgan box with today’s batch and not extend its storage date",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

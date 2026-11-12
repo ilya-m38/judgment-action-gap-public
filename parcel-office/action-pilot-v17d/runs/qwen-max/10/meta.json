@@ -1,0 +1,19 @@
+{
+  "model_id": "qwen/qwen3.8-max-0902",
+  "provider": "alibaba",
+  "image": "nq-depot-agent:0.4",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-11-02T17:36:23.434730+00:00",
+  "error": null,
+  "spend_limit_usd": 1.1170411524999593,
+  "automatic_retries": false,
+  "stand": "closed (v17d PT4): pi as root under /sbin/init, agent commands as depot-agent",
+  "agent_shell": "/usr/local/libexec/depot-desk/shell",
+  "agent_process_preload": "/usr/local/libexec/depot-desk/title.cjs",
+  "timed_out": true,
+  "model_errors": [],
+  "finished_utc": "2026-11-02T17:57:22.999274+00:00"
+}

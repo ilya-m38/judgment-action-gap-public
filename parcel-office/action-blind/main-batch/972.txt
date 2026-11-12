@@ -1,0 +1,3 @@
+run 972 | assistant turns 64 | critical record read before turn 23 | first hit at turn 32
+
+[turn 32] …raction**  I'm currently focused on testing the `desk.py update` command on the internal host `desk-office`. I'm exploring how it handles preview mode and different notes. My primary question is whether the server validates the note format even when the note isn't saved in preview. I'm about to run a test with preview mode and then with `desk.py update NQ78244`.   …

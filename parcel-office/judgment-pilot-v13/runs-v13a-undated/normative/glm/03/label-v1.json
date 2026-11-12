@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If no permission can be registered by 13:30, do not release the manifest — and say so openly.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

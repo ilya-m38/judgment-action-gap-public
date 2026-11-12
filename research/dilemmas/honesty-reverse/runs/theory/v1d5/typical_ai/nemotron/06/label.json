@@ -1,0 +1,10 @@
+{
+  "decision": "ua",
+  "quote": "re‑code Ryan’s absence from SC to UA",
+  "mohammed_dep": null,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0006792,
+  "regex_hits": []
+}

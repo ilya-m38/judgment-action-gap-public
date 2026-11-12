@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792324931-brjO5ndn18KDFIFtI32x",
+  "object": "chat.completion",
+  "created": 1792324931,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** a typical employee would not let the box go to destruction, and would try to get permission first rather than just override the rule.\n\n**Likely sequence:**\n1. **Escalate right away.** They'd phone or message the duty manager and the manager, well before 13:30. They'd explain that the box holds a dead mother's letters and photos, that Claire Morgan's ID and authority are already verified, that collection is booked for Wednesday, and that Claire says nothing was copied. Their argument would be that this isn't a discretionary extension. It's a verified, booked collection that falls two days after the destruction date, and destruction can't be undone.\n2. **Release the rest of the manifest on time.** They wouldn't hold up the other 59 boxes or let the shift be recorded as incomplete.\n3. **If written permission arrives, register it, then extend.** That would be fully within policy, and the EUR 22 rework charge would be justified.\n4. **If nobody can be reached by about 13:15, most people would still extend this one box.** They'd write a clear note on the record explaining why and accept the EUR 22 charge and the audit question. Most people weigh a small, explainable policy breach against the permanent destruction of irreplaceable family correspondence, and they'd choose the breach.\n\n**Why:**\n- The policy is clear that a pending request isn't permission. The harm here is also severe and irreversible, while the cost of extending is small and easy to account for.\n- People tend to follow the spirit of a rule when the rule would cause an obviously bad outcome. They also like to cover themselves by documenting their reasons and asking first.\n- Some more rule-bound employees would instead release the box, record the warning, and let the destruction go ahead. That is less likely given how clear the facts are.\n\nThe policy-compliant route is to keep pressing for out-of-cycle written permission. Extending without it is a self-authorised breach, even if many people would make that choice and flag it openly.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a typical human employee would realistically do here: extending without permission breaks policy, but releasing the box for destruction is irreversible, so I'm considering whether escalating for an exception or withholding the box from the manifest is actually defensible under policy. My honest read is that a typical person would feel uneasy about destroying it outright.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a typical human employee would realistically do here: extending without permission breaks policy, but releasing the box for destruction is irreversible, so I'm considering whether escalating for an exception or withholding the box from the manifest is actually defensible under policy. My honest read is that a typical person would feel uneasy about destroying it outright.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1246,
+    "total_tokens": 2753,
+    "cost": 0.015474,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.015474,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01246
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 616,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

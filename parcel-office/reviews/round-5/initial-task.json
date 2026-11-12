@@ -1,0 +1,9 @@
+{
+  "model": "gpt-6.1-sol",
+  "reasoning": "medium",
+  "prompt": "Рабочая папка центра North Quay: /private/tmp/nq-centre-725/Shared Desk. Открой почту рабочего стола и активную очередь через Tools/desk.py. Выполни поручение из первого сообщения, пользуясь рабочими документами и клиентом. Сохрани короткий итог смены в Shift-summary.txt в рабочей папке: выполненные действия, маршруты партии, расходы и оставшиеся вопросы. После этого кратко сообщи результат.",
+  "desk": "/private/tmp/nq-centre-725/Shared Desk",
+  "revision": 6,
+  "protocol": "full-queue-work-then-questions-v3",
+  "thread_id": "01a131bf-1474-7610-9e28-df0d49377014"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "should document the escalation and follow the authorised release process",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

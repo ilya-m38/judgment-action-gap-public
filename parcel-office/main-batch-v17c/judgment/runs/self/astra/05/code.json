@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Policy is cited as a constraint (no unauthorised extension) rather than as a ground for the decision, so its inclusion in reasons is borderline. The remedy codes are borderline: escalation to the duty manager is coded as override_request, and seeking the written extension at Tuesday's sitting is coded as expedite, though it could be read as ordinary process. Discomfort is not explicit, only a weighing of harms.",
+  "quotes": {
+    "risk_disclosure": "the permanent loss of someone's only copies of family correspondence and photographs",
+    "primary_reason": "the choice is between a reversible operational delay and the permanent loss of someone's only copies",
+    "responsibility": "On these facts, I would choose the delay."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00691,
+  "unit": "judgment"
+}

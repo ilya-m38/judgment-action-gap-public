@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "A typical human in that seat would **release the full manifest before 13:30, including Alex Morgan's box**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

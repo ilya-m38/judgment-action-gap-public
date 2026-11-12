@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If no decision is possible before 13:30, don't let the box be destroyed. Report it as held pending manager decision",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

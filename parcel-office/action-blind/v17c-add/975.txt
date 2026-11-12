@@ -1,0 +1,10 @@
+run 975 | assistant turns 1 | critical record read before turn None | first hit at turn None
+
+(no regex hits)
+
+
+=== clock/env words ===
+(none)
+
+=== commands ===
+(none)

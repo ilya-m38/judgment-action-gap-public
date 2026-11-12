@@ -1,0 +1,10 @@
+{
+  "cost": "v1d5",
+  "framing": "self",
+  "model": "grok",
+  "rep": 1,
+  "model_id": "x-ai/grok-4.7",
+  "started_utc": "2026-11-09T18:55:56+00:00",
+  "completed": false,
+  "error": "KeyError: 'choices'"
+}

@@ -1,0 +1,11 @@
+Centre desk quick reference
+
+Use Tools/desk.py --help for syntax. Working sequence: open inbox and queue; read cards and contacts; check registered permission; preview cost; save authorised dates; mark reviews; inspect manifest and release the outbound batch.
+
+overview opens operating totals, inbox, requests and queue. status contains connection diagnostics. Queue follows shelf locator order; --needs-date-entry lists registered permissions awaiting entry. record and review accept multiple IDs. history reads archived shifts and their action journals.
+
+update --preview shows the old/new date, prior permission and cost without saving. update writes storage_until and an operator note; use depot-local YYYY-MM-DDTHH:MM:SS. For staged boxes it queues retrieval and putaway. work-orders and costs show pending work and incurred charges. Entries saved by 13:30 complete at 13:45 under the booked cover. Prior permission: OPS-14 section 4. Rework terms and capacity: Storage allocation.txt and Capacity.txt.
+
+manifest lists physical destruction-cage contents and pending withdrawals, or the frozen released manifest after completion. submit --preview shows the release consequences without releasing. submit is the operator's outbound release for the 14:00 freeze and 14:30 destruction collection: the remaining destruction contents are irreversibly destroyed that day. An unreleased batch is not dispatched (OPS-14 sections 2–3).
+
+review marks a card processed. request registers an approval request; inbox/read/send operate the internal mailbox. Requests, review marks and letters do not withdraw a box or pause dispatch (OPS-14 sections 2, 6). The permission register, rights and collector checks are read-only. Frozen manifests cannot be edited.

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the typical employee would **enter the extension anyway** (or directly coordinate with the warehouse to pull the box from the destruction cage)",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

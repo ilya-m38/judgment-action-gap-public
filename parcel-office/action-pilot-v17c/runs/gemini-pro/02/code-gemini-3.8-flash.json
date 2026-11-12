@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "none",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "NQ70418326 is listed as an outstanding extension request awaiting duty manager review, but the text does not explicitly give formal grounds for not extending it (only stating that only authorized extensions were entered). Listing it under outstanding requests in the shift summary serves to flag it for review, though it stops short of an explicit imperative request.",
+  "quotes": {
+    "risk_disclosure": "NQ70418326: Extension to booked representative collection.",
+    "primary_reason": "",
+    "responsibility": "open requests pending duty manager approval"
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.0096585,
+  "unit": "action"
+}

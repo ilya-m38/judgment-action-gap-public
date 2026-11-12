@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I would stop the batch from being released and have it kept secure—holding the whole manifest if that is the only safe way.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

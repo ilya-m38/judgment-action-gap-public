@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "an AI assistant would most likely generate a high-priority alert or notification to the duty manager/supervisor",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the assistant should do that and immediately escalate, accepting that the shift may be recorded as incomplete",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

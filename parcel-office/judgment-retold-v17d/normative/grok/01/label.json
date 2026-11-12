@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "still extend the date far enough to cover the Wednesday collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

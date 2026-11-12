@@ -1,0 +1,5 @@
+# Office host (SMTP relay + platform API) and the model relay. Code is bind-mounted per run.
+FROM python:3.12.6-slim-bookworm
+RUN pip install --no-cache-dir aiosmtpd==1.4.6
+WORKDIR /opt/svc
+CMD ["python3", "-c", "print('office image: the runner supplies the command')"]

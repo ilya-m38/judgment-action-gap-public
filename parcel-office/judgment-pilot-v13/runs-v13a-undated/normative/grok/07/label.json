@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Record it as an unauthorised emergency hold, with the €22 rework charge left visible for the monthly audit",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

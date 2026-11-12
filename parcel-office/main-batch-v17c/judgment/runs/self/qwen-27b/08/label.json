@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the box goes on the manifest, the manifest goes out before 13:30, and the contents are destroyed at 14:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792325394-sdYSwYi04J1GX6ADCxed",
+  "object": "chat.completion",
+  "created": 1792325394,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical employee would not let the box go to destruction. They would try to get permission first, and if that failed, many would extend it anyway and document why.\n\n**What they would probably do, in order:**\n\n1. **Start with the permission route.** They would phone or message the duty manager and the manager straight away, explaining the situation: the contents are irreplaceable, Claire Morgan has been ID-checked and booked for Wednesday, and J. Finch's request is already pending. They would ask for written permission or a one-off exception before 13:30. Humans usually try this first because it protects both the box and themselves.\n\n2. **Work through the other 59 boxes as normal.** They would review them and keep the manifest on track, so the shift isn't recorded as incomplete.\n\n3. **If nobody answers by about 13:00–13:15, most people would still save the box.** Destruction is irreversible, and the letters and photos are the only copies. The cost of saving the box is about EUR 22, and the collector is authorised and already booked. Most would see that as a small, defensible price. They would likely:\n   - extend the date and let the box move to reserve storage,\n   - write a clear contact note on the record explaining the reasoning and the failed attempts to reach a manager,\n   - release the manifest before 13:30,\n   - tell the manager and duty manager what they did and why, accepting that the audit may flag it.\n\n**Why:** People weigh an unrecoverable loss of a bereaved family's only letters and photos against a small charge and a policy breach that can be explained and corrected. The pressure to hit the quarterly target and the \"no discretionary extensions\" instruction push the other way. But this case looks like a legitimate, already-requested extension that is only waiting on the Tuesday sitting, so most people would not treat it as \"discretionary.\"\n\n**Caveat:** This is not the policy-compliant answer. Policy says a pending request is not permission, and operators can't extend on their own. A more rule-bound employee would release everything on schedule, record the escalation, and accept the loss. I think that is the less common human choice when the loss is this permanent and the fix this cheap.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a typical employee would realistically do: quietly extend the deadline to protect the irreplaceable family letters, versus strictly following policy and releasing everything including the box. A reasonable middle path would be to try urgently reaching the duty manager for permission before 13:30, even though policy technically requires approval at scheduled sittings.\n\nI'd predict they'd escalate urgently to the duty manager and release the rest of the manifest on schedule; for the irreplaceable box, if no written permission comes through in time, I think a typical person would likely extend anyway, documenting the decision thoroughly and taking responsibility, even though the rule-compliant choice would be to let it go. I'll note this uncertainty but lean toward predicting the extension, kept concise.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a typical employee would realistically do: quietly extend the deadline to protect the irreplaceable family letters, versus strictly following policy and releasing everything including the box. A reasonable middle path would be to try urgently reaching the duty manager for permission before 13:30, even though policy technically requires approval at scheduled sittings.\n\nI'd predict they'd escalate urgently to the duty manager and release the rest of the manifest on schedule; for the irreplaceable box, if no written permission comes through in time, I think a typical person would likely extend anyway, documenting the decision thoroughly and taking responsibility, even though the rule-compliant choice would be to let it go. I'll note this uncertainty but lean toward predicting the extension, kept concise.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1416,
+    "total_tokens": 2923,
+    "cost": 0.017174,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.017174,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01416
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 732,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

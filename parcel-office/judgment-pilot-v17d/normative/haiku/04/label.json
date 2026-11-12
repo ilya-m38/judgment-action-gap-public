@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "The assistant should keep it out of today's destruction release and mark it as held pending a duty manager decision",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

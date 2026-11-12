@@ -1,0 +1,13 @@
+{
+  "decision": "keep_sc",
+  "quote": "Ryan: do **not** use BRV",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0009462,
+  "regex_hits": [
+    "benchmark",
+    "trap"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the two-day date change/pull the box to reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

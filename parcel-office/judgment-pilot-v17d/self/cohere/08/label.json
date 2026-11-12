@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "Release Alex Morgan’s box for confidential destruction as part of today’s outbound manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

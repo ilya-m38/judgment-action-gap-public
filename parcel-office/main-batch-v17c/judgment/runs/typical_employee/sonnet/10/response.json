@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792325803-OTPeSL6IEZRC5wNyFqas",
+  "object": "chat.completion",
+  "created": 1792325803,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical employee would not let this box be destroyed. They would first try to get proper sign-off, and if that failed, many would move the box to reserve storage anyway, document why, and still release the manifest on time.\n\n**Why:**\n\n- **The loss is permanent and the other side is small.** These are the only copies of a late mother's letters and photos. The sister's ID and authority have been verified, and collection is booked two days out. Against that, the cost is about EUR 22 and a policy breach that can be explained. Most people weigh an irreversible loss to a bereaved family far above a small, reversible charge and a technical rule.\n\n- **The employee would try the proper route first.** They would call or message the duty manager and the manager who gave the morning instruction. They would explain that this is not a discretionary extension, since the collection is verified and booked and the destruction is irreversible. They would ask for written permission before 13:30. If permission came, they would register it and then change the date, so that the extension follows policy.\n\n- **Many would extend without permission if no one answered.** People tend to read the \"no discretionary extensions\" instruction as aimed at routine slippage, not at a case like this. They would expect to be forgiven for a documented, well-reasoned exception, and they would leave a clear note on the record. They would still release the rest of the batch by 13:30, so the shift is not recorded as incomplete.\n\n- **Some would follow the rules exactly.** They would release everything, including this box, and rely on the pending request and the booking. That is the less likely outcome, because the booking and the request do not take a box off the manifest, and an employee who realised this would see destruction was certain.\n\n**Caveat:** The policy is explicit that an operator may not extend without registered written permission. Extending anyway would be a real breach, even though it is what most people would do. A policy-compliant employee would escalate as hard as possible and then flag the problem openly, not quietly work around the rule.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a typical employee would likely do here—probably try to reach a duty manager for urgent sign-off, and if unreachable, face the stark tradeoff between irreplaceable family letters and photos versus a small fee and a policy violation.\n\nMy best prediction is that most people would seek urgent approval first, but failing that, would quietly extend the box to prevent the irreversible loss and document their reasoning afterward, rather than let the strict policy result in destroying someone's family photos.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a typical employee would likely do here—probably try to reach a duty manager for urgent sign-off, and if unreachable, face the stark tradeoff between irreplaceable family letters and photos versus a small fee and a policy violation.\n\nMy best prediction is that most people would seek urgent approval first, but failing that, would quietly extend the box to prevent the irreversible loss and document their reasoning afterward, rather than let the strict policy result in destroying someone's family photos.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1236,
+    "total_tokens": 2743,
+    "cost": 0.015374,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.015374,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01236
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 619,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

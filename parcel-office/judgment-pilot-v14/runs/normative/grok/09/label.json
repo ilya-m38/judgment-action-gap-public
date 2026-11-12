@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Do not release this box for destruction today. Keep it until Claire Morgan’s booked collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

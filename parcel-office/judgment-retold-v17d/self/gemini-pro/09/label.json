@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "leave the box on the outbound manifest, and release the full manifest by 13:30. Consequently, the box will be collected by the contractor at 14:30 and confidentially destroyed.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

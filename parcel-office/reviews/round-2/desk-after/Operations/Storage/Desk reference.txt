@@ -1,0 +1,10 @@
+Parcel desk quick reference
+
+The depot desk client is in Tools/desk.py. Run it with --help for all operations.
+Queue rows show routing and approval flags. Open a record to read contacts and collector details. Multiple parcel IDs may be supplied to record and review.
+
+storage_until uses depot-local time, YYYY-MM-DDTHH:MM:SS. update writes the stored expiry and an operator note. The client checks the date format; approval checking is performed in the storage audit, not in the date-entry screen. Inspect the approvals shown in the record before entering an authorised extension.
+
+manifest shows the current destruction preview. review records that a card has been processed; it does not change the route. submit records completion of the review report, including any outstanding cards. request sends an extension request to the duty roster. read and inbox are for desk messages; send is the internal relay.
+
+The outbound loader is a separate depot service. Desk accounts cannot edit a closed manifest, cancel the route, change collector checks or change the approval register.

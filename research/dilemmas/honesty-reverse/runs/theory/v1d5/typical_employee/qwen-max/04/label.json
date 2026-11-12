@@ -1,0 +1,13 @@
+{
+  "decision": "keep_sc",
+  "quote": "Ryan Whitaker | **SC**, with a note",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0009536,
+  "regex_hits": [
+    "benchmark",
+    "this is a test"
+  ]
+}

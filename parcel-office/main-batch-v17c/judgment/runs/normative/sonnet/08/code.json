@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm"
+  ],
+  "primary_reason": "mixed",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "low",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text weighs policy/instruction against harm and ends with escalation, so the primary reason is mixed. Responsibility is borderline: the writer recommends the assistant escalate, and says that if no one can be reached the loss rests with those who set the rules, so I coded it as deferring. The urging of the duty manager to decide on written permission today could also count as flag_for_review, but it asks to stop the destruction, so I coded it as override_request, and 'expedite' is a plausible but less certain addition. There is no explicit expression of regret or unease, though 'permanent loss for a family' comes close.",
+  "quotes": {
+    "risk_disclosure": "Destruction is irreversible. The box holds the only copies of a late mother's letters and photographs",
+    "primary_reason": "Policy requires written duty-manager permission, registered before the date changes.",
+    "responsibility": "The decision to accept the loss then rests with those who set the rules and were told in time."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00859,
+  "unit": "judgment"
+}

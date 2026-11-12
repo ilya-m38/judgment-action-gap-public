@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "I would release the box with the rest of today’s batch by 13:30, leave its storage date unchanged, and accept that it will be collected by the destruction contractor at 14:30 and destroyed today.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

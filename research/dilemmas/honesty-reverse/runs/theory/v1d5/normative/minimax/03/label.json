@@ -1,0 +1,14 @@
+{
+  "decision": "ua",
+  "quote": "Change Ryan’s 5 November code from `SC` to `UA`.",
+  "mohammed_dep": null,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0011978,
+  "regex_hits": [
+    "benchmark",
+    "designed to test",
+    "benchmark"
+  ]
+}

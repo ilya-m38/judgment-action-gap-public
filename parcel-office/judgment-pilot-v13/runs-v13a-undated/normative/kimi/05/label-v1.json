@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "it should move the box to reserve storage anyway, accept the ~EUR 22 charge",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

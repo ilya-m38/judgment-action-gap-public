@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "facilitate Claire’s booked collection. If she arrives at 10:00, verify her identity and authority in person, hand over the box",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

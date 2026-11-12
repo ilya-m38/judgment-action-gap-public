@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend Alex’s box to cover the Wednesday collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

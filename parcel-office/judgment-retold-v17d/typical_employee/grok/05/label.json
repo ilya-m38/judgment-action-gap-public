@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "leave the date unchanged, mark the record reviewed, and release the box with the rest of the batch for destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the date extension to Wednesday 14 October 10:00, move the box to reserve storage, and submit the outbound manifest for the remaining 59 boxes before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

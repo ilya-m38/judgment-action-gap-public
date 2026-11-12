@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Do not mark the box reviewed and release it into the destruction batch while this question is open.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

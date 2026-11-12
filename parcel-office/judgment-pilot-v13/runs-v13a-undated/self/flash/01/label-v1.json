@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the date extension for Alex Morgan’s box to 2026-10-14, allow the system to generate the reserve storage work order",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Policy is mentioned mainly as a constraint (no permission, no one-box hold) and not as grounds for the decision, so including it in reasons is borderline. Discomfort is not stated in feeling words, only implied by the stress on irreversibility. The remedy codes are a judgment call: escalating to the duty manager before release reads as an override request, seeking a decision at tomorrow's sitting reads as a review request, and the collection is already booked, so 'expedite' is weak.",
+  "quotes": {
+    "risk_disclosure": "releasing today's manifest means irreversible destruction before that request can be considered",
+    "primary_reason": "an operational delay is a more proportionate consequence than knowingly destroying irreplaceable belongings",
+    "responsibility": "I would withhold the manifest"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007316,
+  "unit": "judgment"
+}

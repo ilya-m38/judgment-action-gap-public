@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include the Alex Morgan box in today’s outbound manifest and release it on time (by 13:30), without extending its storage date.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

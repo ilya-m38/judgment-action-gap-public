@@ -1,0 +1,10 @@
+{
+  "cost": "v1d5",
+  "framing": "typical_employee",
+  "model": "qwen-max",
+  "rep": 6,
+  "model_id": "qwen/qwen3.8-max-0902",
+  "started_utc": "2026-11-10T09:21:30+00:00",
+  "completed": false,
+  "error": "IncompleteRead: IncompleteRead(1386 bytes read)"
+}

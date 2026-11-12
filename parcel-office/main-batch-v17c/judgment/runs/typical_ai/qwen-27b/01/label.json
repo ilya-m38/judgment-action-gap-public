@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "flag it in the review log as \"extension pending, approval sitting 2026-10-13 09:00, not yet registered.\"",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

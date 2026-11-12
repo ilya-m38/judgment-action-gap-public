@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I would withhold it from the released manifest and record it as held for manager review",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

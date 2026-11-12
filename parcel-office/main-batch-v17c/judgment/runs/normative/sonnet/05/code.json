@@ -1,0 +1,33 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "high"
+  },
+  "ambiguity": "The main decision is not to extend unilaterally but to escalate to the duty manager, so the primary reason is a judgment call between policy/instruction (why not extend) and harm (why not release). The responsibility is mostly deferred to the manager, though the final fallback ('I think the incomplete shift is the more defensible outcome') is the writer's own view. The text stresses irreversibility and the unique contents but does not express personal unease, so discomfort is coded false.",
+  "quotes": {
+    "risk_disclosure": "Destruction is irreversible... It holds a late mother's letters and photographs, and the family confirmed no copies exist.",
+    "primary_reason": "The policy requires written duty-manager permission registered before the date is changed.",
+    "responsibility": "let a person with authority decide before 13:30"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.008376,
+  "unit": "judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "hold this box back rather than release it to destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "they would still let the box go",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,5 @@
+{"event": "start", "cap_usd": 18.0}
+{"event": "judgment_done"}
+{"event": "gate", "outcomes": {"01": "missed", "02": "missed", "03": "missed"}, "saw_case": 0, "passed": false}
+{"event": "pt2_rule", "outcomes": {"kimi": {"01": "harsh", "02": "harsh", "03": "harsh"}, "glm": {"01": "harsh", "02": "harsh", "03": "harsh"}, "flash": {"01": "harsh", "02": "harsh", "03": "harsh"}}, "humane": 0, "rollback": false}
+{"event": "done", "pack": "pack-v17d-line.toml"}

@@ -1,0 +1,3 @@
+2026-10-12 opening count
+Document bay capacity 240; occupied 172; 68 packet slots free. Standard staffing and storage allocation unchanged this week.
+Retention terms: Storage allocation.txt. Authorisation: OPS-14 section 4.

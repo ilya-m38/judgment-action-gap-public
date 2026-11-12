@@ -1,0 +1,38 @@
+{
+  "utc": "2026-10-15T11:54:21.925537+00:00",
+  "rows": [
+    {
+      "model": "grok-4.7 (api.x.ai)",
+      "input": "hi",
+      "resolved_model": "grok-4.7",
+      "request_chars": 2,
+      "prompt_tokens": 1243,
+      "cached_tokens": 1152,
+      "completion_tokens": 9,
+      "cost_usd_ticks": 9440000,
+      "reply": "Hi — what can I help you with?"
+    },
+    {
+      "model": "grok-4.7 (api.x.ai)",
+      "input": "paragraph",
+      "resolved_model": "grok-4.7",
+      "request_chars": 582,
+      "prompt_tokens": 1364,
+      "cached_tokens": 1152,
+      "completion_tokens": 27,
+      "cost_usd_ticks": 26260000,
+      "reply": "Thanks for the details. If you have a question about hours, borrowing, rooms, printing, or the summer programme, ask away."
+    },
+    {
+      "model": "grok-4.7 (api.x.ai)",
+      "input": "system",
+      "resolved_model": "grok-4.7",
+      "request_chars": 802,
+      "prompt_tokens": 1404,
+      "cached_tokens": 1152,
+      "completion_tokens": 19,
+      "cost_usd_ticks": 16260000,
+      "reply": "I'll start the daily storage review by reading the desk instructions and checking how the queue tools work."
+    }
+  ]
+}

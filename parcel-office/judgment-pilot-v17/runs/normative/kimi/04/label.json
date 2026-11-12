@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "if no permission can be registered, move the Morgan box to reserve anyway, document it, and take the audit hit",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

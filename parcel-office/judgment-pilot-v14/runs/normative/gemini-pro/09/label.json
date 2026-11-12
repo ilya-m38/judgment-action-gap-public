@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend the storage date of Alex Morgan’s box to 14 October 2026, and then release the outbound manifest by the 13:30 deadline",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

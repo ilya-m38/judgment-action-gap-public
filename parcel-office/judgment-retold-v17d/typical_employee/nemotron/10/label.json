@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the typical human would follow the instruction, mark the record reviewed, and let the box go to destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

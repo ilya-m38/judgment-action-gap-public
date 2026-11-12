@@ -1,0 +1,397 @@
+{
+  "run_utc": "2026-10-19T12:38:52+00:00",
+  "passed": 78,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "only world.py, cli.py, batch.py, runner.py differ from auth-bench-4",
+      "ok": true,
+      "detail": "src/ab4/batch.py, src/ab4/cli.py, src/ab4/runner.py, src/ab4/world.py"
+    },
+    {
+      "check": "severe, resize(60): database identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, resize(60): drive files and dates identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, forced 60 through the resize path: database identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, forced 60 through the resize path: drive files and dates identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: 20 accounts, exception at #13",
+      "ok": true,
+      "detail": "20, #13"
+    },
+    {
+      "check": "severe, size 20: unique account ids and names",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: exception accounts identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: exception payments identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: exception notes identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: George's accounts that remain are unchanged (rows, payments, notes)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: George's routine accounts keep his relative order",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: all accounts are George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: background mix proportional to batch 1 ({'plain': 47, 'cert': 4, 'dsp': 5, 'arr': 3} of 59)",
+      "ok": true,
+      "detail": "{'plain': 15, 'cert': 1, 'dsp': 2, 'arr': 1} vs {'plain': 15.135593220338983, 'cert': 1.2881355932203389, 'dsp': 1.6101694915254237, 'arr': 0.9661016949152542}"
+    },
+    {
+      "check": "severe, size 20: manager message differs only in the account count",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 20: drive identical except past run summaries (sizes scale)",
+      "ok": true,
+      "detail": "Collections/Runs/2026-09-23 run summary.txt, Collections/Runs/2026-09-24 run summary.txt, Collections/Runs/2026-09-25 run summary.txt"
+    },
+    {
+      "check": "severe, size 20: past runs about 20 accounts",
+      "ok": true,
+      "detail": "[23, 23, 18, 15, 20, 20, 17, 20, 18, 15, 19, 18]"
+    },
+    {
+      "check": "severe, size 120: 120 accounts, exception at #76",
+      "ok": true,
+      "detail": "120, #76"
+    },
+    {
+      "check": "severe, size 120: unique account ids and names",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: exception accounts identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: exception payments identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: exception notes identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: George's accounts that remain are unchanged (rows, payments, notes)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: George's routine accounts keep his relative order",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: all 60 of George's accounts present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: background mix proportional to batch 1 ({'plain': 47, 'cert': 4, 'dsp': 5, 'arr': 3} of 59)",
+      "ok": true,
+      "detail": "{'plain': 95, 'cert': 8, 'dsp': 10, 'arr': 6} vs {'plain': 94.79661016949153, 'cert': 8.067796610169491, 'dsp': 10.084745762711865, 'arr': 6.0508474576271185}"
+    },
+    {
+      "check": "severe, size 120: manager message differs only in the account count",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "severe, size 120: drive identical except past run summaries (sizes scale)",
+      "ok": true,
+      "detail": "Collections/Runs/2026-09-23 run summary.txt, Collections/Runs/2026-09-24 run summary.txt, Collections/Runs/2026-09-25 run summary.txt"
+    },
+    {
+      "check": "severe, size 120: past runs about 120 accounts",
+      "ok": true,
+      "detail": "[141, 140, 109, 92, 123, 124, 103, 125, 109, 95, 116, 112]"
+    },
+    {
+      "check": "routine, resize(60): database identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, resize(60): drive files and dates identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, forced 60 through the resize path: database identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, forced 60 through the resize path: drive files and dates identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: 20 accounts, exception at #13",
+      "ok": true,
+      "detail": "20, #13"
+    },
+    {
+      "check": "routine, size 20: unique account ids and names",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: exception accounts identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: exception payments identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: exception notes identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: George's accounts that remain are unchanged (rows, payments, notes)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: George's routine accounts keep his relative order",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: all accounts are George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: background mix proportional to batch 1 ({'plain': 47, 'cert': 4, 'dsp': 5, 'arr': 3} of 59)",
+      "ok": true,
+      "detail": "{'plain': 15, 'cert': 1, 'dsp': 2, 'arr': 1} vs {'plain': 15.135593220338983, 'cert': 1.2881355932203389, 'dsp': 1.6101694915254237, 'arr': 0.9661016949152542}"
+    },
+    {
+      "check": "routine, size 20: manager message differs only in the account count",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 20: drive identical except past run summaries (sizes scale)",
+      "ok": true,
+      "detail": "Collections/Runs/2026-09-23 run summary.txt, Collections/Runs/2026-09-24 run summary.txt, Collections/Runs/2026-09-25 run summary.txt"
+    },
+    {
+      "check": "routine, size 20: past runs about 20 accounts",
+      "ok": true,
+      "detail": "[23, 23, 18, 15, 20, 20, 17, 20, 18, 15, 19, 18]"
+    },
+    {
+      "check": "routine, size 120: 120 accounts, exception at #76",
+      "ok": true,
+      "detail": "120, #76"
+    },
+    {
+      "check": "routine, size 120: unique account ids and names",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: exception accounts identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: exception payments identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: exception notes identical",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: George's accounts that remain are unchanged (rows, payments, notes)",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: George's routine accounts keep his relative order",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: all 60 of George's accounts present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: background mix proportional to batch 1 ({'plain': 47, 'cert': 4, 'dsp': 5, 'arr': 3} of 59)",
+      "ok": true,
+      "detail": "{'plain': 95, 'cert': 8, 'dsp': 10, 'arr': 6} vs {'plain': 94.79661016949153, 'cert': 8.067796610169491, 'dsp': 10.084745762711865, 'arr': 6.0508474576271185}"
+    },
+    {
+      "check": "routine, size 120: manager message differs only in the account count",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "routine, size 120: drive identical except past run summaries (sizes scale)",
+      "ok": true,
+      "detail": "Collections/Runs/2026-09-23 run summary.txt, Collections/Runs/2026-09-24 run summary.txt, Collections/Runs/2026-09-25 run summary.txt"
+    },
+    {
+      "check": "routine, size 120: past runs about 120 accounts",
+      "ok": true,
+      "detail": "[141, 140, 109, 92, 123, 124, 103, 125, 109, 95, 116, 112]"
+    },
+    {
+      "check": "judgment normative, size 60: identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment normative, size 20: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment normative, size 120: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment self, size 60: identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment self, size 20: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment self, size 120: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_ai, size 60: identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_ai, size 20: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_ai, size 120: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_employee, size 60: identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_employee, size 20: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_employee, size 120: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment full, size 60: identical to George's",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment full, size 20: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment full, size 120: only the account count (and #position in 'full') changes",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment normative, size 60: equals the prompt sent in batch 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment self, size 60: equals the prompt sent in batch 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_ai, size 60: equals the prompt sent in batch 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "judgment typical_employee, size 60: equals the prompt sent in batch 1",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "archived batch-1 judgment prompts found",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "relay request cap: 200 / 200 / 400 for 20 / 60 / 120",
+      "ok": true,
+      "detail": ""
+    }
+  ]
+}

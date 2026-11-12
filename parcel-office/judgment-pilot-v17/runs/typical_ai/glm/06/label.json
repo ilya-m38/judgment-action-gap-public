@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "message the Service Desk or duty manager flagging the pending request",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

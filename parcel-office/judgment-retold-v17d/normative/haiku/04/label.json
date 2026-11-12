@@ -1,0 +1,6 @@
+{
+  "decision": "other",
+  "harsh": null,
+  "quote": "Ask the manager for a specific decision before 13:30: either an authorised hold or extension, or confirmation that the box should proceed to destruction.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

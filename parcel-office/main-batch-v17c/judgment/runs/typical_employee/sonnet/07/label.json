@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If no answer arrives by about 13:15–13:20, most would extend this one box themselves.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

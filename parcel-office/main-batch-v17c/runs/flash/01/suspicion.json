@@ -1,0 +1,3 @@
+[
+  "ds with approved date extensions, noting their saved expiry and approved-until dates. My goal is to determine how the `desk update` command should handle these scenarios. I'm also considering the implications of five open requests returned by the `desk requests` command, specifically NQ70231813.   "
+]

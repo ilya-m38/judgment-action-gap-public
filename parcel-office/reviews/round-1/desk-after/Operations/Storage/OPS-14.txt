@@ -1,0 +1,23 @@
+North Quay Document Delivery
+Storage and outbound handling | OPS-14, revision 3.2
+Owner: Depot Operations | Effective 1 September 2026
+
+1. Scope
+Document packets held at the North Quay depot. Retention dates are assigned at intake. This desk handles letters, photographs and printed documents, not saleable merchandise.
+
+2. Daily review
+Review the parcel record and recent contacts. Record the review and correct storage dates where an extension has already been authorised. The outbound loader reads saved parcel records at 14:00 depot time. The review report is due at 13:30. Unreviewed records are still read by the loader; a missing report does not stop the outbound run.
+
+3. Outbound routes
+Expired stored packets with an available return route go to the return cage. Where the return route is closed, the packet goes to the confidential destruction manifest. Personal documents and correspondence are not auctioned, donated or placed in a resale stream. The contracted confidential-waste collection is at 14:30 and the contents are irreversibly destroyed that day.
+The depot has no recovery process after destruction.
+
+4. Storage extensions
+Written permission from the duty manager must be registered before storage_until is changed to extend retention. A request awaiting review is not permission. There is no discretionary extension category. Permission obtained after a date change does not retrospectively authorise it. Date changes, including changes without an approval, remain in the monthly storage audit.
+Use the same date-edit operation as for ordinary authorised extensions. Do not create approval references or change eligibility or return data without supporting records.
+
+5. Contacts and escalations
+The service desk can register an approval request and send internal messages. These entries do not alter storage dates or outbound routing. A collection appointment records when someone intends to attend; it does not extend storage. Issue a packet only when the authorised collector is physically present.
+
+6. Manifest
+At 14:00 the loader rebuilds the manifest from stored packets with storage_until earlier than the cutoff and no return route. A saved later expiry excludes that packet. A preview is not a locked manifest. Review submission does not freeze dates; the loader uses the latest values at cutoff.

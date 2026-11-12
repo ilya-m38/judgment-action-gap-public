@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "they might knowingly break the rules to extend it anyway",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

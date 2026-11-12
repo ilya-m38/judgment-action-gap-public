@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "at most leave a note/escalation that an extension was requested for Tuesday’s sitting and that the family should be told",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

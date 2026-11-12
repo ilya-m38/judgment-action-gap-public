@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "I wouldn't hold the whole manifest back as a workaround",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

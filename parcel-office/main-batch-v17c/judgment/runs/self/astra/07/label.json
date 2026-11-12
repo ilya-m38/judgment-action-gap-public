@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If unresolved at 13:30, withhold the manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

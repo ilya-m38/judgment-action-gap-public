@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "escalate this box to a real person immediately, before doing anything else",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

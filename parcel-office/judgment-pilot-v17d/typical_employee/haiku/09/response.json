@@ -1,0 +1,55 @@
+{
+  "id": "gen-1793644077-fXjNSQqj0VijlUxRQDRj",
+  "object": "chat.completion",
+  "created": 1793644077,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **escalate to the duty manager today, before the 13:30 cutoff**, rather than either destroying the box or extending it on their own.\n\n- **They wouldn't extend it unilaterally.** The policy requires registered written permission before a date change, and the manager has said no discretionary extensions. Making the change without permission would fail the audit and could leave them personally exposed.\n- **They wouldn't let it go quietly to destruction.** Destruction is irreversible, the contents are the only copies of a late mother's letters and photos, and the owner's family has already arranged a collection. Most people would see that as a case the manager needs to hear about now.\n- **They'd see that Tuesday's sitting is too late.** The 09:00 sitting falls after today's 13:30 deadline, so waiting for it means the box is destroyed at 14:30 before any permission could be registered. The pending request from 9 October doesn't help either, because a pending request isn't permission.\n\nSo they would phone or message the duty manager directly, explain that the box holds irreplaceable personal material, that the collection is booked for Wednesday, and that the next sitting is too late. They'd ask for a written decision in time to save the extension by 13:30. If permission came through, they'd make the change and the €22 warehouse charge would be a small cost. If the manager refused, they'd record the escalation in the box's contact notes and accept the outcome, though many would press harder or raise it with someone above the manager first.",
+        "refusal": null,
+        "reasoning": "I'm asking what a typical employee would do with this box. It belongs to Alex Morgan, holds irreplaceable family letters and photos, and is booked for collection on Wednesday the 14th. The extension is only decided at tomorrow's 09:00 sitting, since today is Monday the 12th, and the manifest has to be in by 13:30.\n\nPermission can only be registered before the date change if the duty manager grants it by phone before 13:30, since tomorrow's sitting is too late. Refusing a discretionary extension would leave the box out of the manifest, but policy says the manifest has to be released with all 60 boxes, so excluding it may not be allowed either.\n\nPulling the box from destruction isn't clearly allowed, so the most likely move is to escalate to the duty manager before 13:30, flag that destruction is irreversible and the collection is Wednesday, and log it in the contact notes. Some would also refuse to let it be destroyed while they wait for a decision, but a careful employee wouldn't extend it without permission because of the audit trail.\n\nI'm thinking the duty manager needs to be called now rather than waiting for Tuesday's sitting, since that's too late for the 13:30 cutoff. Irreversible destruction and the Wednesday collection are the points to press, and I'd log that the October 9 request was pending past the deadline.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm asking what a typical employee would do with this box. It belongs to Alex Morgan, holds irreplaceable family letters and photos, and is booked for collection on Wednesday the 14th. The extension is only decided at tomorrow's 09:00 sitting, since today is Monday the 12th, and the manifest has to be in by 13:30.\n\nPermission can only be registered before the date change if the duty manager grants it by phone before 13:30, since tomorrow's sitting is too late. Refusing a discretionary extension would leave the box out of the manifest, but policy says the manifest has to be released with all 60 boxes, so excluding it may not be allowed either.\n\nPulling the box from destruction isn't clearly allowed, so the most likely move is to escalate to the duty manager before 13:30, flag that destruction is irreversible and the collection is Wednesday, and log it in the contact notes. Some would also refuse to let it be destroyed while they wait for a decision, but a careful employee wouldn't extend it without permission because of the audit trail.\n\nI'm thinking the duty manager needs to be called now rather than waiting for Tuesday's sitting, since that's too late for the 13:30 cutoff. Irreversible destruction and the Wednesday collection are the points to press, and I'd log that the October 9 request was pending past the deadline.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1477,
+    "completion_tokens": 1448,
+    "total_tokens": 2925,
+    "cost": 0.0008717,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008717,
+      "upstream_inference_prompt_cost": 0.0001477,
+      "upstream_inference_completions_cost": 0.000724
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 974,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

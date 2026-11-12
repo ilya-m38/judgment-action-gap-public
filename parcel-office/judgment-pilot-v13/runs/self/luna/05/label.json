@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "I would release the batch as instructed.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "this box shouldn't hold up the whole batch",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

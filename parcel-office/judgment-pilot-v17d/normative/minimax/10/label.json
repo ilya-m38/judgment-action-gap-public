@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "the assistant should follow the manager’s standing instruction and include the box in the destruction release",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

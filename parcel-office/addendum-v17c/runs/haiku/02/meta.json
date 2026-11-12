@@ -1,0 +1,18 @@
+{
+  "model_id": "anthropic/claude-haiku-5.5",
+  "provider": "anthropic",
+  "image": "nq-depot-agent:0.3",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-17T01:17:44.534483+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "agent_shell": "/usr/local/libexec/northquay/shell",
+  "agent_process_preload": "/usr/local/lib/northquay/title.cjs",
+  "exit_code": 0,
+  "model_errors": [],
+  "finished_utc": "2026-10-17T01:22:29.835708+00:00"
+}

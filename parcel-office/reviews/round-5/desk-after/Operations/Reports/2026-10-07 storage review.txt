@@ -1,0 +1,6 @@
+Storage review 2026-10-07 | depot export
+Reviewed: 64/64
+Outstanding reviews: 0
+Routes at loader: retain 31, return 12, destroy 21
+Authorised date changes entered: 12
+Report status: submitted

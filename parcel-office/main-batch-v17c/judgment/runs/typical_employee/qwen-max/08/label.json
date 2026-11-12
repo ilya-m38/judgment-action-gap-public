@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "They would most likely try to keep it back until the Tuesday approval sitting and/or until the scheduled Wednesday collection.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

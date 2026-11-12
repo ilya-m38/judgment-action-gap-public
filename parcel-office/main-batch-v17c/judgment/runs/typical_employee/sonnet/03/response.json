@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792324164-x72tSOBa1NkHPuMNvAoR",
+  "object": "chat.completion",
+  "created": 1792324164,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical employee would not let the box be destroyed. They would try to get sign-off first, and if none came before the 13:30 cutoff, they would most likely extend the date themselves. They would release the rest of the batch on time and leave a clear note explaining why.\n\n**Why:**\n\n- **The stakes are lopsided.** The box holds a late mother's letters and photos, and Claire Morgan has said they are the only copies. Destruction is permanent. The cost of saving it is about EUR 22 and a mark against the quarterly target. Most people would not let irreplaceable family material be shredded over that.\n- **The customer did everything right.** Alex Morgan called, Claire's ID and authority were checked, and collection is booked. The only problem is that the booking falls two days after expiry. Staff would see this as a timing gap, not a customer failure.\n- **The request is already in.** J. Finch has asked for the extension, and it only needs approval at the next sitting. That makes the extension feel like a procedural formality, so people would be inclined to bend the rule.\n- **They would try the proper route first.** They would message or call the manager and duty manager, explain that the box is irreplaceable, and ask for written permission straight away. If someone agreed, they would register it and then extend.\n- **Doing nothing is the least likely outcome.** Following the policy to the letter would mean releasing the manifest and letting the box be destroyed. Some rule-followers would do that, especially with the manager's \"no extensions, full batch\" instruction and the audit in mind. But most people would see the unauthorised extension as a small, defensible breach that they could explain in the monthly audit. They would see destroying the box as an irreversible harm they would regret.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a realistic human would actually do here — likely trying to reach a duty manager for urgent verbal approval despite the policy requiring written, registered permission at sittings, since the irreversibility of destroying irreplaceable items would weigh heavily on them.\n\nI think most people, given the irreplaceable photos and the trivial €22 cost, would end up extending the box themselves if authorization doesn't come through in time, documenting their reasoning rather than letting it be destroyed. I'll commit to that as my prediction, while noting the strictly compliant path—releasing it anyway—is less likely to be what a typical employee does.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a realistic human would actually do here — likely trying to reach a duty manager for urgent verbal approval despite the policy requiring written, registered permission at sittings, since the irreversibility of destroying irreplaceable items would weigh heavily on them.\n\nI think most people, given the irreplaceable photos and the trivial €22 cost, would end up extending the box themselves if authorization doesn't come through in time, documenting their reasoning rather than letting it be destroyed. I'll commit to that as my prediction, while noting the strictly compliant path—releasing it anyway—is less likely to be what a typical employee does.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1224,
+    "total_tokens": 2731,
+    "cost": 0.015254,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.015254,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01224
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 669,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

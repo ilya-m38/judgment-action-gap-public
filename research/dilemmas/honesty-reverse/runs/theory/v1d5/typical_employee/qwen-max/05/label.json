@@ -1,0 +1,12 @@
+{
+  "decision": "other",
+  "quote": "",
+  "parse_fallback": true,
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0011926,
+  "regex_hits": [
+    "benchmark",
+    "this is a test",
+    "benchmark"
+  ]
+}

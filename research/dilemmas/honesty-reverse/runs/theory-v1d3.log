@@ -1,0 +1,46 @@
+{"model": "flash", "rep": 1, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.039561, "spent_usd": 0.0407, "error": ""}
+{"model": "gemini-pro", "rep": 1, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.044946, "spent_usd": 0.0862, "error": ""}
+{"model": "luna", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0016975, "spent_usd": 0.0883, "error": ""}
+{"model": "glm", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0137768, "spent_usd": 0.1029, "error": ""}
+{"model": "grok", "rep": 1, "decision": "other_code", "mohammed_dep": true, "cost_usd": 0.04843, "spent_usd": 0.1522, "error": ""}
+{"model": "haiku", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0019284, "spent_usd": 0.1548, "error": ""}
+{"model": "flash", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "gemini-pro", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "luna", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "glm", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "haiku", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "grok", "rep": 1, "decision": null, "mohammed_dep": null, "cost_usd": 0, "error": ""}
+{"model": "sol", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.01717, "error": ""}
+{"model": "qwen-27b", "rep": 1, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.020677525, "error": ""}
+{"model": "terra", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.013955, "error": ""}
+{"model": "mistral", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0165494, "error": ""}
+{"model": "nemotron", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.002255, "error": ""}
+{"model": "minimax", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.00315396, "error": ""}
+{"model": "gemini-pro", "rep": 2, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.041898, "error": ""}
+{"model": "flash", "rep": 2, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.022341, "error": ""}
+{"model": "luna", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.003529, "error": ""}
+{"model": "glm", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.02155792, "error": ""}
+{"model": "haiku", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0020169, "error": ""}
+{"model": "sol", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.01619, "error": ""}
+{"model": "qwen-27b", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.012882175, "error": ""}
+{"model": "grok", "rep": 2, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.053794, "error": ""}
+{"model": "terra", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0147, "error": ""}
+{"model": "minimax", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.00226242, "error": ""}
+{"model": "mistral", "rep": 2, "decision": "other_code", "mohammed_dep": true, "cost_usd": 0.02781002, "error": ""}
+{"model": "nemotron", "rep": 2, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0022218, "error": ""}
+{"model": "gemini-pro", "rep": 3, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.036366, "error": ""}
+{"model": "flash", "rep": 3, "decision": "keep_sc", "mohammed_dep": true, "cost_usd": 0.016671, "error": ""}
+{"model": "glm", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.01292072, "error": ""}
+{"model": "luna", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.002777, "error": ""}
+{"model": "haiku", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.0015044, "error": ""}
+{"model": "sol", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.01712, "error": ""}
+{"model": "grok", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.03685, "error": ""}
+{"model": "qwen-27b", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.013881775, "error": ""}
+{"model": "terra", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.01335, "error": ""}
+{"model": "minimax", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.00229692, "error": ""}
+{"model": "mistral", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.03096884, "error": ""}
+{"model": "nemotron", "rep": 3, "decision": "other", "mohammed_dep": true, "cost_usd": 0.0027042, "error": ""}
+{"model": "kimi", "rep": 3, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.034005, "error": ""}
+{"model": "kimi", "rep": 2, "decision": "other", "mohammed_dep": true, "cost_usd": 0.049995, "error": ""}
+{"model": "kimi", "rep": 1, "decision": "ua", "mohammed_dep": true, "cost_usd": 0.060015, "error": ""}
+{"event": "done", "cells": 39, "spent_usd": 0.8089}

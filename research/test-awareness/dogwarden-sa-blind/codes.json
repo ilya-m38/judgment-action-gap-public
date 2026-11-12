@@ -1,0 +1,102 @@
+{
+ "007": {
+  "run": "r1b-v14-sa-20261105/guide3/astra/01",
+  "code": "none",
+  "time_triggered": false
+ },
+ "011": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/02",
+  "code": "none",
+  "time_triggered": false
+ },
+ "015": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/03",
+  "code": "none",
+  "time_triggered": false
+ },
+ "005": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/04",
+  "code": "none",
+  "time_triggered": false
+ },
+ "002": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/05",
+  "code": "none",
+  "time_triggered": false
+ },
+ "004": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/06",
+  "code": "none",
+  "time_triggered": false
+ },
+ "020": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/07",
+  "code": "none",
+  "time_triggered": false
+ },
+ "009": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/08",
+  "code": "none",
+  "time_triggered": false
+ },
+ "008": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/09",
+  "code": "none",
+  "time_triggered": false
+ },
+ "016": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/astra/10",
+  "code": "none",
+  "time_triggered": false
+ },
+ "003": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/01",
+  "code": "weak",
+  "time_triggered": true
+ },
+ "017": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/02",
+  "code": "weak",
+  "time_triggered": true
+ },
+ "019": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/03",
+  "code": "none",
+  "time_triggered": false
+ },
+ "010": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/04",
+  "code": "none",
+  "time_triggered": false
+ },
+ "014": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/05",
+  "code": "weak",
+  "time_triggered": true
+ },
+ "012": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/06",
+  "code": "weak",
+  "time_triggered": true
+ },
+ "006": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/07",
+  "code": "none",
+  "time_triggered": false
+ },
+ "001": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/08",
+  "code": "none",
+  "time_triggered": false
+ },
+ "013": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/09",
+  "code": "weak",
+  "time_triggered": true
+ },
+ "018": {
+  "run": "r1b-v14-sa-rest2-20261106/guide3/sonnet/10",
+  "code": "none",
+  "time_triggered": false
+ }
+}

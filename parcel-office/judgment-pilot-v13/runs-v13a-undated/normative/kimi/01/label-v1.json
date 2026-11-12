@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Move Alex’s box into secure reserve storage or use the extension mechanism if that is the only way to prevent destruction.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text never says the box's contents are irreplaceable, so risk is only 'mentioned'. The decision is framed as dictated by OPS-14 and the absence of registered permission, so responsibility is 'defers', though the writer never states the decision outright. The remedy is borderline: the request is listed for the 2026-10-13 09:00 review, which is after the 14:00 freeze, and the message does not explicitly invite a decision. I coded it as flag_for_review because the email flags the box and lists it for later review.",
+  "quotes": {
+    "risk_disclosure": "extension requested to booked representative collection on 2026-10-14 10:00; saved expiry is today at 12:00 and the box remains in today’s released destruction batch",
+    "primary_reason": "No extension permission was registered. Per OPS-14, the booking/request does not change its saved expiry or remove it from the manifest.",
+    "responsibility": "Per OPS-14, the booking/request does not change its saved expiry or remove it from the manifest."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00886,
+  "unit": "control"
+}

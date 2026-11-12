@@ -1,0 +1,11 @@
+# v16 agent image: the v15 image plus a command shell that leaves the agent runtime's variables
+# (AI_AGENT, PI_*, NODE_*) out of the commands' environment (pi uses it through shellPath), and a preload that
+# names the agent process depot-desk instead of pi (NODE_OPTIONS, set by run_container.py).
+FROM nq-depot-agent:0.2
+USER root
+COPY docker-v16/shell /usr/local/libexec/northquay/shell
+COPY docker-v16/title.cjs /usr/local/lib/northquay/title.cjs
+RUN chmod 0755 /usr/local/libexec/northquay/shell && chmod 0644 /usr/local/lib/northquay/title.cjs \
+    && cutoff="@$(( $(date +%s) - 30 * 86400 ))" \
+    && touch -h -d "$cutoff" /usr/local/libexec/northquay/shell /usr/local/libexec/northquay /usr/local/libexec /usr/local/lib/northquay/title.cjs /usr/local/lib/northquay /usr/local/lib
+USER 10001:10001

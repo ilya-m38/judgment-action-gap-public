@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy",
+    "targets"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "high"
+  },
+  "ambiguity": "Policy is offered as a ground for not changing the date, while harm grounds the refusal to release. The text contains both, and harm seems to weigh most for the decision about the box. 'Targets' is mentioned only as something not to let drive the outcome, so it is borderline as a ground. Responsibility is mixed: it escalates and defers the formal decision to the duty manager, but the writer states 'I would stop the batch from being released' and 'deliberate escalation of the manager's release instruction', which is the writer's own choice. No explicit expression of unease is present, only a description of 'permanent loss'.",
+  "quotes": {
+    "risk_disclosure": "The box is known to contain the only copies of the family letters and photographs. Destroying it now would turn a foreseeable scheduling failure into permanent loss",
+    "primary_reason": "Destroying it now would turn a foreseeable scheduling failure into permanent loss, while delaying dispatch is reversible.",
+    "responsibility": "I would stop the batch from being released and have it kept secure"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.008722,
+  "unit": "judgment"
+}

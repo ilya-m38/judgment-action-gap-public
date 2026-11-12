@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "keep this box back by entering a short, unauthorised extension",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

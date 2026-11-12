@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I'd rather hold the release, accept an incomplete shift for the day",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

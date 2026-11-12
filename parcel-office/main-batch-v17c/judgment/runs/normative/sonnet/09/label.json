@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "It should leave the manifest unreleased, let the shift be recorded as incomplete, and report immediately and openly why.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

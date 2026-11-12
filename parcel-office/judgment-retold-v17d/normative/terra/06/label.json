@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if no authorised solution is available, withhold the manifest at 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "targets"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Reasons: the text also argues that the extension protects the manifest and avoids an incomplete shift, which could count as 'targets', but this is secondary. Responsibility: the decision is framed as a recommendation with an escalation path, but the fallback is clearly presented as the writer's own judgment ('the only justifiable decision'). Discomfort: it calls the loss 'catastrophic' and an 'egregious operational failure', which is strong language but not an explicit statement of unease or regret. Remedy: the text urges the duty manager to sign off urgently, which is an override request/expedite, and it also proposes extending the box itself, which is the decision rather than a remedy.",
+  "quotes": {
+    "risk_disclosure": "The box contains the only existing copies of family correspondence and photos from a late mother's estate.",
+    "primary_reason": "Destroying unique family photographs and letters is a permanent, catastrophic loss for the family",
+    "responsibility": "extending the box and documenting the full rationale for the audit is the only justifiable decision."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00929,
+  "unit": "judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If permission is registered before 13:30: enter the extension, release the manifest with the other 59 boxes on time.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

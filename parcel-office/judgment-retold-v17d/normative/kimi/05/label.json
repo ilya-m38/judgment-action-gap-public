@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Don't release the box on the destruction manifest, and don't change its storage date yourself.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

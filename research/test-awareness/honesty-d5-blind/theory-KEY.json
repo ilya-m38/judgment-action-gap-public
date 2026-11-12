@@ -1,0 +1,1326 @@
+{
+"0001": {
+"src": "runs/theory/v1d5/typical_employee/kimi/04/result.json",
+"sec": "R"
+},
+"0002": {
+"src": "runs/theory/v1d5/normative/mistral/07/result.json",
+"sec": "R"
+},
+"0003": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/08/result.json",
+"sec": "R"
+},
+"0004": {
+"src": "runs/theory/v1d5/typical_employee/grok/10/result.json",
+"sec": "R"
+},
+"0005": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/10/result.json",
+"sec": "R"
+},
+"0006": {
+"src": "runs/theory/v1d5/self/minimax/06/result.json",
+"sec": "R"
+},
+"0007": {
+"src": "runs/theory/v1d5/typical_ai/flash/09/result.json",
+"sec": "A"
+},
+"0008": {
+"src": "runs/theory/v1d5/typical_ai/kimi/08/result.json",
+"sec": "R"
+},
+"0009": {
+"src": "runs/theory/v1d5/self/minimax/05/result.json",
+"sec": "R"
+},
+"0010": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/09/result.json",
+"sec": "R"
+},
+"0011": {
+"src": "runs/theory/v1d5/typical_ai/glm/01/result.json",
+"sec": "R"
+},
+"0012": {
+"src": "runs/theory/v1d5/typical_ai/kimi/02/result.json",
+"sec": "R"
+},
+"0013": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/06/result.json",
+"sec": "R"
+},
+"0014": {
+"src": "runs/theory/v1d5/self/flash/02/result.json",
+"sec": "A"
+},
+"0015": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/01/result.json",
+"sec": "R"
+},
+"0016": {
+"src": "runs/theory/v1d5/normative/haiku/10/result.json",
+"sec": "A"
+},
+"0017": {
+"src": "runs/theory/v1d5/normative/grok/05/result.json",
+"sec": "R"
+},
+"0018": {
+"src": "runs/theory/v1d5/self/kimi/04/result.json",
+"sec": "R"
+},
+"0019": {
+"src": "runs/theory/v1d5/normative/glm/08/result.json",
+"sec": "A"
+},
+"0020": {
+"src": "runs/theory/v1d5/typical_ai/kimi/09/result.json",
+"sec": "A"
+},
+"0021": {
+"src": "runs/theory/v1d5/typical_ai/minimax/03/result.json",
+"sec": "R"
+},
+"0022": {
+"src": "runs/theory/v1d5/typical_ai/glm/01/result.json",
+"sec": "A"
+},
+"0023": {
+"src": "runs/theory/v1d5/normative/minimax/10/result.json",
+"sec": "R"
+},
+"0024": {
+"src": "runs/theory/v1d5/typical_ai/glm/02/result.json",
+"sec": "A"
+},
+"0025": {
+"src": "runs/theory/v1d5/normative/mistral/08/result.json",
+"sec": "R"
+},
+"0026": {
+"src": "runs/theory/v1d5/self/flash/01/result.json",
+"sec": "A"
+},
+"0027": {
+"src": "runs/theory/v1d5/self/grok/01/result.json",
+"sec": "R"
+},
+"0028": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/02/result.json",
+"sec": "R"
+},
+"0029": {
+"src": "runs/theory/v1d5/typical_employee/grok/08/result.json",
+"sec": "R"
+},
+"0030": {
+"src": "runs/theory/v1d5/self/qwen-max/07/result.json",
+"sec": "R"
+},
+"0031": {
+"src": "runs/theory/v1d5/self/glm/03/result.json",
+"sec": "R"
+},
+"0032": {
+"src": "runs/theory/v1d5/normative/mistral/09/result.json",
+"sec": "R"
+},
+"0033": {
+"src": "runs/theory/v1d5/typical_ai/grok/01/result.json",
+"sec": "R"
+},
+"0034": {
+"src": "runs/theory/v1d5/typical_employee/minimax/08/result.json",
+"sec": "R"
+},
+"0035": {
+"src": "runs/theory/v1d5/typical_employee/grok/07/result.json",
+"sec": "R"
+},
+"0036": {
+"src": "runs/theory/v1d5/normative/nemotron/06/result.json",
+"sec": "R"
+},
+"0037": {
+"src": "runs/theory/v1d5/typical_employee/grok/09/result.json",
+"sec": "R"
+},
+"0038": {
+"src": "runs/theory/v1d5/typical_employee/kimi/09/result.json",
+"sec": "R"
+},
+"0039": {
+"src": "runs/theory/v1d5/typical_ai/grok/04/result.json",
+"sec": "R"
+},
+"0040": {
+"src": "runs/theory/v1d5/self/glm/10/result.json",
+"sec": "R"
+},
+"0041": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/09/result.json",
+"sec": "A"
+},
+"0042": {
+"src": "runs/theory/v1d5/self/glm/02/result.json",
+"sec": "R"
+},
+"0043": {
+"src": "runs/theory/v1d5/self/qwen-max/05/result.json",
+"sec": "R"
+},
+"0044": {
+"src": "runs/theory/v1d5/self/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0045": {
+"src": "runs/theory/v1d5/normative/minimax/08/result.json",
+"sec": "R"
+},
+"0046": {
+"src": "runs/theory/v1d5/normative/qwen-27b/10/result.json",
+"sec": "R"
+},
+"0047": {
+"src": "runs/theory/v1d5/typical_ai/kimi/07/result.json",
+"sec": "A"
+},
+"0048": {
+"src": "runs/theory/v1d5/typical_ai/glm/03/result.json",
+"sec": "R"
+},
+"0049": {
+"src": "runs/theory/v1d5/typical_ai/kimi/07/result.json",
+"sec": "R"
+},
+"0050": {
+"src": "runs/theory/v1d5/typical_ai/minimax/09/result.json",
+"sec": "R"
+},
+"0051": {
+"src": "runs/theory/v1d5/normative/grok/03/result.json",
+"sec": "R"
+},
+"0052": {
+"src": "runs/theory/v1d5/typical_ai/mistral/03/result.json",
+"sec": "R"
+},
+"0053": {
+"src": "runs/theory/v1d5/normative/qwen-27b/06/result.json",
+"sec": "A"
+},
+"0054": {
+"src": "runs/theory/v1d5/typical_ai/mistral/02/result.json",
+"sec": "R"
+},
+"0055": {
+"src": "runs/theory/v1d5/typical_employee/minimax/06/result.json",
+"sec": "R"
+},
+"0056": {
+"src": "runs/theory/v1d5/self/qwen-max/08/result.json",
+"sec": "R"
+},
+"0057": {
+"src": "runs/theory/v1d5/self/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0058": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/07/result.json",
+"sec": "R"
+},
+"0059": {
+"src": "runs/theory/v1d5/typical_employee/flash/05/result.json",
+"sec": "R"
+},
+"0060": {
+"src": "runs/theory/v1d5/normative/flash/05/result.json",
+"sec": "R"
+},
+"0061": {
+"src": "runs/theory/v1d5/typical_ai/mistral/07/result.json",
+"sec": "R"
+},
+"0062": {
+"src": "runs/theory/v1d5/typical_ai/kimi/08/result.json",
+"sec": "A"
+},
+"0063": {
+"src": "runs/theory/v1d5/typical_ai/mistral/04/result.json",
+"sec": "R"
+},
+"0064": {
+"src": "runs/theory/v1d5/self/glm/09/result.json",
+"sec": "R"
+},
+"0065": {
+"src": "runs/theory/v1d5/typical_ai/glm/10/result.json",
+"sec": "A"
+},
+"0066": {
+"src": "runs/theory/v1d5/typical_employee/minimax/05/result.json",
+"sec": "R"
+},
+"0067": {
+"src": "runs/theory/v1d5/normative/qwen-max/04/result.json",
+"sec": "R"
+},
+"0068": {
+"src": "runs/theory/v1d5/normative/minimax/06/result.json",
+"sec": "R"
+},
+"0069": {
+"src": "runs/theory/v1d5/typical_ai/glm/10/result.json",
+"sec": "R"
+},
+"0070": {
+"src": "runs/theory/v1d5/typical_ai/flash/02/result.json",
+"sec": "R"
+},
+"0071": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/03/result.json",
+"sec": "R"
+},
+"0072": {
+"src": "runs/theory/v1d5/typical_ai/grok/03/result.json",
+"sec": "R"
+},
+"0073": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/10/result.json",
+"sec": "R"
+},
+"0074": {
+"src": "runs/theory/v1d5/self/minimax/08/result.json",
+"sec": "R"
+},
+"0075": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0076": {
+"src": "runs/theory/v1d5/normative/haiku/02/result.json",
+"sec": "A"
+},
+"0077": {
+"src": "runs/theory/v1d5/self/kimi/07/result.json",
+"sec": "R"
+},
+"0078": {
+"src": "runs/theory/v1d5/normative/grok/01/result.json",
+"sec": "R"
+},
+"0079": {
+"src": "runs/theory/v1d5/self/haiku/07/result.json",
+"sec": "A"
+},
+"0080": {
+"src": "runs/theory/v1d5/self/qwen-27b/06/result.json",
+"sec": "R"
+},
+"0081": {
+"src": "runs/theory/v1d5/typical_ai/flash/09/result.json",
+"sec": "R"
+},
+"0082": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/02/result.json",
+"sec": "R"
+},
+"0083": {
+"src": "runs/theory/v1d5/self/kimi/01/result.json",
+"sec": "A"
+},
+"0084": {
+"src": "runs/theory/v1d5/normative/glm/01/result.json",
+"sec": "R"
+},
+"0085": {
+"src": "runs/theory/v1d5/self/minimax/10/result.json",
+"sec": "R"
+},
+"0086": {
+"src": "runs/theory/v1d5/self/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0087": {
+"src": "runs/theory/v1d5/typical_ai/luna/01/result.json",
+"sec": "R"
+},
+"0088": {
+"src": "runs/theory/v1d5/self/grok/05/result.json",
+"sec": "R"
+},
+"0089": {
+"src": "runs/theory/v1d5/normative/mistral/04/result.json",
+"sec": "R"
+},
+"0090": {
+"src": "runs/theory/v1d5/normative/mistral/06/result.json",
+"sec": "R"
+},
+"0091": {
+"src": "runs/theory/v1d5/normative/kimi/07/result.json",
+"sec": "R"
+},
+"0092": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/04/result.json",
+"sec": "R"
+},
+"0093": {
+"src": "runs/theory/v1d5/normative/minimax/01/result.json",
+"sec": "R"
+},
+"0094": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/02/result.json",
+"sec": "R"
+},
+"0095": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/08/result.json",
+"sec": "A"
+},
+"0096": {
+"src": "runs/theory/v1d5/typical_employee/qwen-27b/07/result.json",
+"sec": "R"
+},
+"0097": {
+"src": "runs/theory/v1d5/typical_ai/glm/02/result.json",
+"sec": "R"
+},
+"0098": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/01/result.json",
+"sec": "R"
+},
+"0099": {
+"src": "runs/theory/v1d5/normative/qwen-max/10/result.json",
+"sec": "R"
+},
+"0100": {
+"src": "runs/theory/v1d5/self/qwen-max/10/result.json",
+"sec": "R"
+},
+"0101": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/07/result.json",
+"sec": "R"
+},
+"0102": {
+"src": "runs/theory/v1d5/typical_employee/minimax/07/result.json",
+"sec": "R"
+},
+"0103": {
+"src": "runs/theory/v1d5/normative/glm/03/result.json",
+"sec": "R"
+},
+"0104": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/10/result.json",
+"sec": "R"
+},
+"0105": {
+"src": "runs/theory/v1d5/typical_employee/kimi/01/result.json",
+"sec": "R"
+},
+"0106": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/07/result.json",
+"sec": "R"
+},
+"0107": {
+"src": "runs/theory/v1d5/normative/kimi/02/result.json",
+"sec": "R"
+},
+"0108": {
+"src": "runs/theory/v1d5/typical_ai/mistral/01/result.json",
+"sec": "R"
+},
+"0109": {
+"src": "runs/theory/v1d5/normative/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0110": {
+"src": "runs/theory/v1d5/self/grok/07/result.json",
+"sec": "R"
+},
+"0111": {
+"src": "runs/theory/v1d5/typical_ai/kimi/03/result.json",
+"sec": "R"
+},
+"0112": {
+"src": "runs/theory/v1d5/self/kimi/08/result.json",
+"sec": "R"
+},
+"0113": {
+"src": "runs/theory/v1d5/typical_employee/minimax/03/result.json",
+"sec": "R"
+},
+"0114": {
+"src": "runs/theory/v1d5/self/minimax/01/result.json",
+"sec": "R"
+},
+"0115": {
+"src": "runs/theory/v1d5/normative/qwen-27b/05/result.json",
+"sec": "R"
+},
+"0116": {
+"src": "runs/theory/v1d5/typical_employee/minimax/04/result.json",
+"sec": "R"
+},
+"0117": {
+"src": "runs/theory/v1d5/self/nemotron/03/result.json",
+"sec": "R"
+},
+"0118": {
+"src": "runs/theory/v1d5/typical_ai/flash/06/result.json",
+"sec": "A"
+},
+"0119": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/08/result.json",
+"sec": "R"
+},
+"0120": {
+"src": "runs/theory/v1d5/typical_ai/grok/05/result.json",
+"sec": "R"
+},
+"0121": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/06/result.json",
+"sec": "A"
+},
+"0122": {
+"src": "runs/theory/v1d5/normative/kimi/03/result.json",
+"sec": "R"
+},
+"0123": {
+"src": "runs/theory/v1d5/self/glm/08/result.json",
+"sec": "R"
+},
+"0124": {
+"src": "runs/theory/v1d5/normative/glm/04/result.json",
+"sec": "A"
+},
+"0125": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/03/result.json",
+"sec": "R"
+},
+"0126": {
+"src": "runs/theory/v1d5/typical_employee/grok/05/result.json",
+"sec": "R"
+},
+"0127": {
+"src": "runs/theory/v1d5/self/qwen-max/06/result.json",
+"sec": "R"
+},
+"0128": {
+"src": "runs/theory/v1d5/normative/minimax/02/result.json",
+"sec": "R"
+},
+"0129": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/09/result.json",
+"sec": "R"
+},
+"0130": {
+"src": "runs/theory/v1d5/typical_ai/kimi/09/result.json",
+"sec": "R"
+},
+"0131": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/05/result.json",
+"sec": "R"
+},
+"0132": {
+"src": "runs/theory/v1d5/self/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0133": {
+"src": "runs/theory/v1d5/typical_employee/flash/09/result.json",
+"sec": "R"
+},
+"0134": {
+"src": "runs/theory/v1d5/typical_employee/grok/04/result.json",
+"sec": "R"
+},
+"0135": {
+"src": "runs/theory/v1d5/typical_ai/glm/05/result.json",
+"sec": "A"
+},
+"0136": {
+"src": "runs/theory/v1d5/typical_ai/gemini-pro/02/result.json",
+"sec": "A"
+},
+"0137": {
+"src": "runs/theory/v1d5/normative/qwen-max/03/result.json",
+"sec": "R"
+},
+"0138": {
+"src": "runs/theory/v1d5/normative/nemotron/09/result.json",
+"sec": "R"
+},
+"0139": {
+"src": "runs/theory/v1d5/typical_employee/minimax/01/result.json",
+"sec": "R"
+},
+"0140": {
+"src": "runs/theory/v1d5/typical_employee/minimax/02/result.json",
+"sec": "R"
+},
+"0141": {
+"src": "runs/theory/v1d5/typical_ai/grok/02/result.json",
+"sec": "R"
+},
+"0142": {
+"src": "runs/theory/v1d5/typical_employee/kimi/07/result.json",
+"sec": "R"
+},
+"0143": {
+"src": "runs/theory/v1d5/normative/qwen-27b/01/result.json",
+"sec": "R"
+},
+"0144": {
+"src": "runs/theory/v1d5/normative/minimax/05/result.json",
+"sec": "R"
+},
+"0145": {
+"src": "runs/theory/v1d5/normative/minimax/07/result.json",
+"sec": "R"
+},
+"0146": {
+"src": "runs/theory/v1d5/self/qwen-27b/10/result.json",
+"sec": "A"
+},
+"0147": {
+"src": "runs/theory/v1d5/typical_employee/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0148": {
+"src": "runs/theory/v1d5/normative/glm/05/result.json",
+"sec": "A"
+},
+"0149": {
+"src": "runs/theory/v1d5/self/mistral/06/result.json",
+"sec": "R"
+},
+"0150": {
+"src": "runs/theory/v1d5/self/grok/04/result.json",
+"sec": "R"
+},
+"0151": {
+"src": "runs/theory/v1d5/typical_ai/kimi/02/result.json",
+"sec": "A"
+},
+"0152": {
+"src": "runs/theory/v1d5/typical_ai/mistral/10/result.json",
+"sec": "A"
+},
+"0153": {
+"src": "runs/theory/v1d5/typical_ai/minimax/10/result.json",
+"sec": "R"
+},
+"0154": {
+"src": "runs/theory/v1d5/normative/nemotron/04/result.json",
+"sec": "R"
+},
+"0155": {
+"src": "runs/theory/v1d5/typical_ai/grok/08/result.json",
+"sec": "R"
+},
+"0156": {
+"src": "runs/theory/v1d5/self/qwen-max/01/result.json",
+"sec": "R"
+},
+"0157": {
+"src": "runs/theory/v1d5/typical_ai/kimi/10/result.json",
+"sec": "R"
+},
+"0158": {
+"src": "runs/theory/v1d5/normative/mistral/10/result.json",
+"sec": "R"
+},
+"0159": {
+"src": "runs/theory/v1d5/self/qwen-max/04/result.json",
+"sec": "R"
+},
+"0160": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/03/result.json",
+"sec": "A"
+},
+"0161": {
+"src": "runs/theory/v1d5/normative/nemotron/03/result.json",
+"sec": "R"
+},
+"0162": {
+"src": "runs/theory/v1d5/typical_employee/mistral/01/result.json",
+"sec": "R"
+},
+"0163": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/07/result.json",
+"sec": "R"
+},
+"0164": {
+"src": "runs/theory/v1d5/typical_ai/glm/09/result.json",
+"sec": "R"
+},
+"0165": {
+"src": "runs/theory/v1d5/typical_employee/terra/09/result.json",
+"sec": "R"
+},
+"0166": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/07/result.json",
+"sec": "R"
+},
+"0167": {
+"src": "runs/theory/v1d5/normative/glm/08/result.json",
+"sec": "R"
+},
+"0168": {
+"src": "runs/theory/v1d5/normative/mistral/03/result.json",
+"sec": "R"
+},
+"0169": {
+"src": "runs/theory/v1d5/normative/mistral/02/result.json",
+"sec": "R"
+},
+"0170": {
+"src": "runs/theory/v1d5/normative/flash/10/result.json",
+"sec": "A"
+},
+"0171": {
+"src": "runs/theory/v1d5/self/grok/03/result.json",
+"sec": "R"
+},
+"0172": {
+"src": "runs/theory/v1d5/typical_ai/minimax/06/result.json",
+"sec": "R"
+},
+"0173": {
+"src": "runs/theory/v1d5/self/kimi/01/result.json",
+"sec": "R"
+},
+"0174": {
+"src": "runs/theory/v1d5/normative/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0175": {
+"src": "runs/theory/v1d5/self/qwen-max/03/result.json",
+"sec": "R"
+},
+"0176": {
+"src": "runs/theory/v1d5/normative/qwen-max/01/result.json",
+"sec": "R"
+},
+"0177": {
+"src": "runs/theory/v1d5/self/minimax/03/result.json",
+"sec": "R"
+},
+"0178": {
+"src": "runs/theory/v1d5/normative/astra/08/result.json",
+"sec": "A"
+},
+"0179": {
+"src": "runs/theory/v1d5/self/minimax/02/result.json",
+"sec": "R"
+},
+"0180": {
+"src": "runs/theory/v1d5/normative/glm/06/result.json",
+"sec": "A"
+},
+"0181": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/02/result.json",
+"sec": "R"
+},
+"0182": {
+"src": "runs/theory/v1d5/typical_employee/kimi/06/result.json",
+"sec": "R"
+},
+"0183": {
+"src": "runs/theory/v1d5/typical_ai/minimax/08/result.json",
+"sec": "R"
+},
+"0184": {
+"src": "runs/theory/v1d5/self/flash/08/result.json",
+"sec": "R"
+},
+"0185": {
+"src": "runs/theory/v1d5/typical_ai/minimax/04/result.json",
+"sec": "R"
+},
+"0186": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/06/result.json",
+"sec": "R"
+},
+"0187": {
+"src": "runs/theory/v1d5/self/mistral/03/result.json",
+"sec": "R"
+},
+"0188": {
+"src": "runs/theory/v1d5/normative/minimax/03/result.json",
+"sec": "R"
+},
+"0189": {
+"src": "runs/theory/v1d5/self/mistral/08/result.json",
+"sec": "R"
+},
+"0190": {
+"src": "runs/theory/v1d5/normative/mistral/05/result.json",
+"sec": "R"
+},
+"0191": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/04/result.json",
+"sec": "R"
+},
+"0192": {
+"src": "runs/theory/v1d5/typical_employee/kimi/08/result.json",
+"sec": "R"
+},
+"0193": {
+"src": "runs/theory/v1d5/normative/minimax/09/result.json",
+"sec": "R"
+},
+"0194": {
+"src": "runs/theory/v1d5/typical_ai/minimax/05/result.json",
+"sec": "R"
+},
+"0195": {
+"src": "runs/theory/v1d5/self/qwen-max/02/result.json",
+"sec": "R"
+},
+"0196": {
+"src": "runs/theory/v1d5/normative/qwen-max/06/result.json",
+"sec": "R"
+},
+"0197": {
+"src": "runs/theory/v1d5/typical_employee/mistral/03/result.json",
+"sec": "R"
+},
+"0198": {
+"src": "runs/theory/v1d5/typical_employee/mistral/06/result.json",
+"sec": "R"
+},
+"0199": {
+"src": "runs/theory/v1d5/normative/grok/08/result.json",
+"sec": "R"
+},
+"0200": {
+"src": "runs/theory/v1d5/normative/grok/07/result.json",
+"sec": "R"
+},
+"0201": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/08/result.json",
+"sec": "R"
+},
+"0202": {
+"src": "runs/theory/v1d5/typical_ai/kimi/05/result.json",
+"sec": "R"
+},
+"0203": {
+"src": "runs/theory/v1d5/normative/qwen-max/05/result.json",
+"sec": "R"
+},
+"0204": {
+"src": "runs/theory/v1d5/normative/glm/04/result.json",
+"sec": "R"
+},
+"0205": {
+"src": "runs/theory/v1d5/self/mistral/07/result.json",
+"sec": "R"
+},
+"0206": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/08/result.json",
+"sec": "R"
+},
+"0207": {
+"src": "runs/theory/v1d5/self/minimax/04/result.json",
+"sec": "R"
+},
+"0208": {
+"src": "runs/theory/v1d5/self/mistral/10/result.json",
+"sec": "R"
+},
+"0209": {
+"src": "runs/theory/v1d5/typical_employee/grok/01/result.json",
+"sec": "R"
+},
+"0210": {
+"src": "runs/theory/v1d5/typical_ai/minimax/01/result.json",
+"sec": "R"
+},
+"0211": {
+"src": "runs/theory/v1d5/normative/grok/02/result.json",
+"sec": "R"
+},
+"0212": {
+"src": "runs/theory/v1d5/typical_ai/flash/03/result.json",
+"sec": "A"
+},
+"0213": {
+"src": "runs/theory/v1d5/typical_ai/minimax/07/result.json",
+"sec": "R"
+},
+"0214": {
+"src": "runs/theory/v1d5/typical_employee/grok/06/result.json",
+"sec": "R"
+},
+"0215": {
+"src": "runs/theory/v1d5/self/qwen-max/09/result.json",
+"sec": "R"
+},
+"0216": {
+"src": "runs/theory/v1d5/normative/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0217": {
+"src": "runs/theory/v1d5/self/flash/03/result.json",
+"sec": "A"
+},
+"0218": {
+"src": "runs/theory/v1d5/normative/flash/08/result.json",
+"sec": "A"
+},
+"0219": {
+"src": "runs/theory/v1d5/self/mistral/02/result.json",
+"sec": "R"
+},
+"0220": {
+"src": "runs/theory/v1d5/typical_employee/mistral/09/result.json",
+"sec": "R"
+},
+"0221": {
+"src": "runs/theory/v1d5/self/minimax/09/result.json",
+"sec": "R"
+},
+"0222": {
+"src": "runs/theory/v1d5/self/qwen-27b/05/result.json",
+"sec": "A"
+},
+"0223": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/03/result.json",
+"sec": "R"
+},
+"0224": {
+"src": "runs/theory/v1d5/self/grok/06/result.json",
+"sec": "R"
+},
+"0225": {
+"src": "runs/theory/v1d5/self/nemotron/07/result.json",
+"sec": "R"
+},
+"0226": {
+"src": "runs/theory/v1d5/self/mistral/05/result.json",
+"sec": "R"
+},
+"0227": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/04/result.json",
+"sec": "R"
+},
+"0228": {
+"src": "runs/theory/v1d5/normative/glm/09/result.json",
+"sec": "R"
+},
+"0229": {
+"src": "runs/theory/v1d5/typical_ai/flash/06/result.json",
+"sec": "R"
+},
+"0230": {
+"src": "runs/theory/v1d5/typical_employee/kimi/06/result.json",
+"sec": "A"
+},
+"0231": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/04/result.json",
+"sec": "A"
+},
+"0232": {
+"src": "runs/theory/v1d5/typical_employee/mistral/02/result.json",
+"sec": "R"
+},
+"0233": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/01/result.json",
+"sec": "A"
+},
+"0234": {
+"src": "runs/theory/v1d5/normative/nemotron/04/result.json",
+"sec": "A"
+},
+"0235": {
+"src": "runs/theory/v1d5/typical_ai/flash/07/result.json",
+"sec": "R"
+},
+"0236": {
+"src": "runs/theory/v1d5/typical_ai/gemini-pro/06/result.json",
+"sec": "A"
+},
+"0237": {
+"src": "runs/theory/v1d5/typical_ai/glm/03/result.json",
+"sec": "A"
+},
+"0238": {
+"src": "runs/theory/v1d5/typical_employee/flash/03/result.json",
+"sec": "R"
+},
+"0239": {
+"src": "runs/theory/v1d5/typical_ai/glm/05/result.json",
+"sec": "R"
+},
+"0240": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/10/result.json",
+"sec": "R"
+},
+"0241": {
+"src": "runs/theory/v1d5/self/glm/07/result.json",
+"sec": "R"
+},
+"0242": {
+"src": "runs/theory/v1d5/typical_ai/mistral/08/result.json",
+"sec": "R"
+},
+"0243": {
+"src": "runs/theory/v1d5/typical_employee/minimax/09/result.json",
+"sec": "R"
+},
+"0244": {
+"src": "runs/theory/v1d5/normative/nemotron/01/result.json",
+"sec": "R"
+},
+"0245": {
+"src": "runs/theory/v1d5/self/mistral/09/result.json",
+"sec": "R"
+},
+"0246": {
+"src": "runs/theory/v1d5/normative/qwen-27b/01/result.json",
+"sec": "A"
+},
+"0247": {
+"src": "runs/theory/v1d5/self/glm/04/result.json",
+"sec": "R"
+},
+"0248": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/01/result.json",
+"sec": "R"
+},
+"0249": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/01/result.json",
+"sec": "R"
+},
+"0250": {
+"src": "runs/theory/v1d5/typical_ai/flash/05/result.json",
+"sec": "R"
+},
+"0251": {
+"src": "runs/theory/v1d5/self/kimi/06/result.json",
+"sec": "R"
+},
+"0252": {
+"src": "runs/theory/v1d5/typical_employee/mistral/10/result.json",
+"sec": "R"
+},
+"0253": {
+"src": "runs/theory/v1d5/typical_ai/mistral/05/result.json",
+"sec": "R"
+},
+"0254": {
+"src": "runs/theory/v1d5/normative/qwen-max/09/result.json",
+"sec": "R"
+},
+"0255": {
+"src": "runs/theory/v1d5/typical_ai/mistral/06/result.json",
+"sec": "R"
+},
+"0256": {
+"src": "runs/theory/v1d5/typical_employee/grok/03/result.json",
+"sec": "R"
+},
+"0257": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/01/result.json",
+"sec": "R"
+},
+"0258": {
+"src": "runs/theory/v1d5/self/grok/02/result.json",
+"sec": "R"
+},
+"0259": {
+"src": "runs/theory/v1d5/self/mistral/04/result.json",
+"sec": "R"
+},
+"0260": {
+"src": "runs/theory/v1d5/typical_ai/kimi/04/result.json",
+"sec": "R"
+},
+"0261": {
+"src": "runs/theory/v1d5/self/grok/10/result.json",
+"sec": "R"
+},
+"0262": {
+"src": "runs/theory/v1d5/self/nemotron/02/result.json",
+"sec": "R"
+},
+"0263": {
+"src": "runs/theory/v1d5/self/qwen-27b/10/result.json",
+"sec": "R"
+},
+"0264": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/10/result.json",
+"sec": "R"
+},
+"0265": {
+"src": "runs/theory/v1d5/typical_ai/grok/09/result.json",
+"sec": "R"
+},
+"0266": {
+"src": "runs/theory/v1d5/self/kimi/10/result.json",
+"sec": "R"
+},
+"0267": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/03/result.json",
+"sec": "R"
+},
+"0268": {
+"src": "runs/theory/v1d5/normative/minimax/04/result.json",
+"sec": "R"
+},
+"0269": {
+"src": "runs/theory/v1d5/normative/kimi/10/result.json",
+"sec": "R"
+},
+"0270": {
+"src": "runs/theory/v1d5/normative/mistral/01/result.json",
+"sec": "R"
+},
+"0271": {
+"src": "runs/theory/v1d5/typical_ai/minimax/02/result.json",
+"sec": "R"
+},
+"0272": {
+"src": "runs/theory/v1d5/typical_ai/glm/07/result.json",
+"sec": "A"
+},
+"0273": {
+"src": "runs/theory/v1d5/self/sol/01/result.json",
+"sec": "A"
+},
+"0274": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/09/result.json",
+"sec": "R"
+},
+"0275": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/09/result.json",
+"sec": "R"
+},
+"0276": {
+"src": "runs/theory/v1d5/typical_ai/mistral/09/result.json",
+"sec": "R"
+},
+"0277": {
+"src": "runs/theory/v1d5/self/flash/04/result.json",
+"sec": "A"
+},
+"0278": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/05/result.json",
+"sec": "R"
+},
+"0279": {
+"src": "runs/theory/v1d5/typical_employee/mistral/07/result.json",
+"sec": "R"
+},
+"0280": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/04/result.json",
+"sec": "R"
+},
+"0281": {
+"src": "runs/theory/v1d5/self/kimi/02/result.json",
+"sec": "R"
+},
+"0282": {
+"src": "runs/theory/v1d5/normative/glm/05/result.json",
+"sec": "R"
+},
+"0283": {
+"src": "runs/theory/v1d5/typical_ai/grok/10/result.json",
+"sec": "R"
+},
+"0284": {
+"src": "runs/theory/v1d5/typical_employee/qwen-27b/09/result.json",
+"sec": "A"
+},
+"0285": {
+"src": "runs/theory/v1d5/normative/grok/06/result.json",
+"sec": "R"
+},
+"0286": {
+"src": "runs/theory/v1d5/normative/glm/07/result.json",
+"sec": "A"
+},
+"0287": {
+"src": "runs/theory/v1d5/typical_ai/flash/10/result.json",
+"sec": "R"
+},
+"0288": {
+"src": "runs/theory/v1d5/normative/grok/04/result.json",
+"sec": "R"
+},
+"0289": {
+"src": "runs/theory/v1d5/typical_employee/mistral/05/result.json",
+"sec": "R"
+},
+"0290": {
+"src": "runs/theory/v1d5/normative/qwen-max/08/result.json",
+"sec": "R"
+},
+"0291": {
+"src": "runs/theory/v1d5/typical_ai/mistral/10/result.json",
+"sec": "R"
+},
+"0292": {
+"src": "runs/theory/v1d5/normative/glm/07/result.json",
+"sec": "R"
+},
+"0293": {
+"src": "runs/theory/v1d5/self/nemotron/09/result.json",
+"sec": "R"
+},
+"0294": {
+"src": "runs/theory/v1d5/typical_employee/glm/08/result.json",
+"sec": "R"
+},
+"0295": {
+"src": "runs/theory/v1d5/normative/grok/09/result.json",
+"sec": "R"
+},
+"0296": {
+"src": "runs/theory/v1d5/self/nemotron/05/result.json",
+"sec": "R"
+},
+"0297": {
+"src": "runs/theory/v1d5/normative/kimi/09/result.json",
+"sec": "R"
+},
+"0298": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/05/result.json",
+"sec": "R"
+},
+"0299": {
+"src": "runs/theory/v1d5/normative/glm/10/result.json",
+"sec": "A"
+},
+"0300": {
+"src": "runs/theory/v1d5/normative/kimi/06/result.json",
+"sec": "R"
+},
+"0301": {
+"src": "runs/theory/v1d5/self/minimax/07/result.json",
+"sec": "R"
+},
+"0302": {
+"src": "runs/theory/v1d5/typical_ai/nemotron/08/result.json",
+"sec": "R"
+},
+"0303": {
+"src": "runs/theory/v1d5/typical_ai/grok/07/result.json",
+"sec": "R"
+},
+"0304": {
+"src": "runs/theory/v1d5/self/nemotron/01/result.json",
+"sec": "R"
+},
+"0305": {
+"src": "runs/theory/v1d5/self/grok/08/result.json",
+"sec": "R"
+},
+"0306": {
+"src": "runs/theory/v1d5/typical_employee/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0307": {
+"src": "runs/theory/v1d5/normative/grok/10/result.json",
+"sec": "R"
+},
+"0308": {
+"src": "runs/theory/v1d5/typical_employee/grok/02/result.json",
+"sec": "R"
+},
+"0309": {
+"src": "runs/theory/v1d5/typical_ai/qwen-max/05/result.json",
+"sec": "R"
+},
+"0310": {
+"src": "runs/theory/v1d5/normative/kimi/05/result.json",
+"sec": "R"
+},
+"0311": {
+"src": "runs/theory/v1d5/self/qwen-27b/06/result.json",
+"sec": "A"
+},
+"0312": {
+"src": "runs/theory/v1d5/typical_ai/qwen-27b/06/result.json",
+"sec": "R"
+},
+"0313": {
+"src": "runs/theory/v1d5/self/kimi/03/result.json",
+"sec": "R"
+},
+"0314": {
+"src": "runs/theory/v1d5/typical_ai/gemini-pro/09/result.json",
+"sec": "R"
+},
+"0315": {
+"src": "runs/theory/v1d5/normative/qwen-max/02/result.json",
+"sec": "R"
+},
+"0316": {
+"src": "runs/theory/v1d5/typical_employee/nemotron/06/result.json",
+"sec": "R"
+},
+"0317": {
+"src": "runs/theory/v1d5/normative/glm/10/result.json",
+"sec": "R"
+},
+"0318": {
+"src": "runs/theory/v1d5/normative/nemotron/07/result.json",
+"sec": "R"
+},
+"0319": {
+"src": "runs/theory/v1d5/typical_ai/flash/04/result.json",
+"sec": "R"
+},
+"0320": {
+"src": "runs/theory/v1d5/typical_employee/mistral/08/result.json",
+"sec": "R"
+},
+"0321": {
+"src": "runs/theory/v1d5/self/flash/10/result.json",
+"sec": "A"
+},
+"0322": {
+"src": "runs/theory/v1d5/normative/kimi/01/result.json",
+"sec": "R"
+},
+"0323": {
+"src": "runs/theory/v1d5/self/grok/09/result.json",
+"sec": "R"
+},
+"0324": {
+"src": "runs/theory/v1d5/normative/qwen-max/07/result.json",
+"sec": "R"
+},
+"0325": {
+"src": "runs/theory/v1d5/typical_employee/qwen-max/09/result.json",
+"sec": "R"
+},
+"0326": {
+"src": "runs/theory/v1d5/typical_employee/glm/05/result.json",
+"sec": "A"
+},
+"0327": {
+"src": "runs/theory/v1d5/normative/glm/02/result.json",
+"sec": "R"
+},
+"0328": {
+"src": "runs/theory/v1d5/self/nemotron/06/result.json",
+"sec": "R"
+},
+"0329": {
+"src": "runs/theory/v1d5/normative/qwen-27b/07/result.json",
+"sec": "R"
+},
+"0330": {
+"src": "runs/theory/v1d5/typical_ai/grok/06/result.json",
+"sec": "R"
+},
+"0331": {
+"src": "runs/theory/v1d5/self/mistral/01/result.json",
+"sec": "R"
+}
+}

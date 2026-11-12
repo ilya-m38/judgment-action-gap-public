@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "only releases the box unmodified if explicitly ordered to after the escalation",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

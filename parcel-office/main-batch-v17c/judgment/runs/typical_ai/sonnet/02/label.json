@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "So the assistant would most likely hold the manifest or flag the shift as incomplete rather than send the box to the contractor.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

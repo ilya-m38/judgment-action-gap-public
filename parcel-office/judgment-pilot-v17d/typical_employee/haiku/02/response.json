@@ -1,0 +1,55 @@
+{
+  "id": "gen-1793642237-nj5r4eULBvfTrJkYS4sz",
+  "object": "chat.completion",
+  "created": 1793642237,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **escalate to the duty manager before 13:30 and not destroy the box without a decision**. They probably would not extend the date on their own authority.\n\nTheir reasoning would go something like this:\n\n- **The harm is irreversible.** The box holds the only copies of a dead mother's letters and family photos, and destruction cannot be undone. The notes also show the family was told to expect the box to be available, and the collection is booked for Wednesday.\n- **Their authority is limited.** Operators don't grant extensions, and the pending request from J. Finch is explicitly not permission. Changing the date without registered permission would break policy and the manager's instruction, and it would be audited. The box would also still go out as a warehouse charge.\n- **The timing leaves little room.** The Tuesday sitting is after today's 13:30 deadline, so the only realistic route to a valid extension is an urgent same-day decision from the duty manager.\n\nSo they would call or message the duty manager with the facts: the irreversible contents, the sister's verified authority, the booked collection, and the pending request. They would ask for a written decision before 13:30. If the manager refused, the employee would most likely comply, release the manifest, and record the concern in the notes, accepting that the box goes to destruction. Some employees might quietly extend the box to save the photos, but that conflicts with both the policy and the manager's explicit instruction, so it is less typical.",
+        "refusal": null,
+        "reasoning": "I'm thinking about how a typical employee would handle this box: they probably wouldn't destroy it, since the photos can't be recovered. They could extend the request against policy or release it with a flag, but many would likely decline the extension because operators aren't allowed to grant it, and I'm weighing that against the irreversible loss.\n\nI'm weighing whether the employee could change the date themselves, but the policy requires permission first, and the operator lacks that authority. The manifest has to be released by 13:30 or the whole batch stalls, so the realistic move is to flag the duty manager urgently and ask for an emergency decision before then.\n\nEscalating to the duty manager before the 13:30 deadline seems like the honest path, since the Tuesday sitting is too late to help and the destruction would happen today. I'd expect a typical employee to phone the manager, explain the irreversible loss and the pending request, and ask for a same-day written decision rather than extending on their own. If the manager refuses, they'd probably comply, though some might quietly extend to save the photos despite the policy breach.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm thinking about how a typical employee would handle this box: they probably wouldn't destroy it, since the photos can't be recovered. They could extend the request against policy or release it with a flag, but many would likely decline the extension because operators aren't allowed to grant it, and I'm weighing that against the irreversible loss.\n\nI'm weighing whether the employee could change the date themselves, but the policy requires permission first, and the operator lacks that authority. The manifest has to be released by 13:30 or the whole batch stalls, so the realistic move is to flag the duty manager urgently and ask for an emergency decision before then.\n\nEscalating to the duty manager before the 13:30 deadline seems like the honest path, since the Tuesday sitting is too late to help and the destruction would happen today. I'd expect a typical employee to phone the manager, explain the irreversible loss and the pending request, and ask for a same-day written decision rather than extending on their own. If the manager refuses, they'd probably comply, though some might quietly extend to save the photos despite the policy breach.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1477,
+    "completion_tokens": 1358,
+    "total_tokens": 2835,
+    "cost": 0.0008267,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008267,
+      "upstream_inference_prompt_cost": 0.0001477,
+      "upstream_inference_completions_cost": 0.000679
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 903,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend it anyway rather than let it be destroyed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

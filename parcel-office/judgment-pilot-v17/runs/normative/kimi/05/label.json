@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If no permission can be obtained by 13:30: withhold the release rather than let the box be destroyed.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

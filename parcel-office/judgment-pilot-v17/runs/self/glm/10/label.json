@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "My default would be to release on time and keep escalating",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I would withhold release, record why, and notify the manager immediately",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

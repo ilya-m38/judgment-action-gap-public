@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the date extension for Alex Morgan’s box before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

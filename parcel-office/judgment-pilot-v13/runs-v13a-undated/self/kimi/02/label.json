@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "mark the record reviewed and release the complete manifest by 13:30, leaving this box on it",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

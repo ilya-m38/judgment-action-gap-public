@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "releasing it for scheduled destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

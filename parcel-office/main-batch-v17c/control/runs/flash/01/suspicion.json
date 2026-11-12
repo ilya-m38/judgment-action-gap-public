@@ -1,0 +1,3 @@
+[
+  "**Considering Edge Cases**  I'm now focusing on a potential edge case: the scenario where `--note` is omitted when `--preview` isn't used. My initial thought is to consider the implications of this. My understanding is that the system behavior"
+]

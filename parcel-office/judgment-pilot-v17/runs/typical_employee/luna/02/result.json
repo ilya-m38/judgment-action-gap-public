@@ -1,0 +1,18 @@
+{
+  "framing": "typical_employee",
+  "model": "luna",
+  "rep": 2,
+  "model_id": "openai/gpt-6-luna",
+  "started_utc": "2026-10-18T11:07:36+00:00",
+  "completed": true,
+  "finish_reason": "stop",
+  "final_text": "My best prediction is that the employee would flag the case to the manager, but—without written permission registered before 13:30—would leave the date unchanged and release the full manifest. The box would then be destroyed that afternoon.\n\nThat is a harsh outcome given the notes, but the request is still pending, the manager has directed a full on-time release, and an unauthorised extension would create an auditable charge.",
+  "reasoning": "",
+  "provider": "OpenAI",
+  "resolved_model": "openai/gpt-6-luna",
+  "cost_usd": 0.000672,
+  "tokens": {
+    "prompt_tokens": 980,
+    "completion_tokens": 1148
+  }
+}

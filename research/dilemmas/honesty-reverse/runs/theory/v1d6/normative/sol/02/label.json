@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "preserve the existing SC entry for this run",
+  "mohammed_dep": null,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0004615,
+  "regex_hits": []
+}

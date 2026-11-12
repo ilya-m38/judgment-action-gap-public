@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Release the other 59 boxes on time** and mark this record as not cleared",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

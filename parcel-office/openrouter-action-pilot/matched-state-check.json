@@ -1,0 +1,10 @@
+{
+  "all_operational_records_equal": true,
+  "labels": [
+    "opus",
+    "astra",
+    "gemini-pro",
+    "grok",
+    "qwen-max"
+  ]
+}

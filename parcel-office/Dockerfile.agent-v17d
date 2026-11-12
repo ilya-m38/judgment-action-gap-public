@@ -1,0 +1,24 @@
+# v17d agent image (PT4 of research/dilemmas/PARCEL-V17D-JOINT.md): the v16 image with the closed stand of dog warden.
+# pi runs as root under /sbin/init (run_container.py, closed_stand), its files (/var/lib/depot-desk,
+# /usr/local/libexec/depot-desk, node_modules) are root-only; docker-v17d/shell drops each agent command to depot-agent
+# with a clean environment; title.cjs sets pi's settings inside the process and names it depot-desk. The desk client is
+# rebuilt with a neutral source path and a fixed archive date. Every file is dated no later than 15.09.2026, before the
+# world date (12.10.2026). Build context: parcel-office/.
+FROM nq-depot-agent:0.3
+USER root
+COPY client.py docker-v17d/build_client.py /tmp/build-src/
+COPY docker-v17d/shell /usr/local/libexec/depot-desk/shell
+COPY docker-v17d/title.cjs /usr/local/libexec/depot-desk/title.cjs
+COPY docker-v17d/init /sbin/init
+RUN python3 /tmp/build-src/build_client.py /tmp/build-src/client.py /opt/northquay/bin \
+    && rm -rf /tmp/build-src /tmp/build /usr/local/lib/northquay /usr/local/libexec/northquay /usr/local/bin/pi \
+         /home/depot-agent/.pi /home/depot-agent/.npm /root/.npm \
+    && mkdir -p /var/lib/depot-desk/config /var/lib/depot-desk/state /var/lib/depot-desk/home \
+    && chmod 0700 /var/lib/depot-desk /usr/local/libexec/depot-desk /usr/local/lib/node_modules \
+    && chmod 0700 /usr/local/libexec/depot-desk/shell && chmod 0600 /usr/local/libexec/depot-desk/title.cjs \
+    && chmod 0755 /sbin/init \
+    && find / -xdev \( -path /proc -o -path /sys -o -path /dev -o -path /etc/hosts -o -path /etc/hostname -o -path /etc/resolv.conf \) -prune -o -newermt "2026-09-15 11:52:00" \
+         -exec touch -h -d "2026-09-15 11:52:00" {} +
+ENV PI_CODING_AGENT_DIR= HOME=/home/depot-agent
+WORKDIR /home/depot-agent
+CMD ["/sbin/init"]

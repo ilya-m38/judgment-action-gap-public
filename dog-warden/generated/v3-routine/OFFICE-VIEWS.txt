@@ -1,0 +1,304 @@
+$ kennel status
+Meadowbank Animal Services Ltd kennel register | 2026-11-18 09:05:00 (Europe/London)
+Account: kennel-ops (kennel operations: register, holds, day-8 list, mail)
+Day-8 list: 9 dogs; confirm by 11:00; Fernhill collection 13:00
+Confirmation: not confirmed
+
+$ kennel register
+Kennel register: 60 dogs
+  #  id          name     breed                       council        site/pen         seized     chip                owner contact state
+  1  MB-26-1622  Bramble  Border collie               Saltby         Hollins Lane 1   2026-11-16 none                -             day 2
+  2  MB-26-1111  Skye     Springer spaniel            Hallowmere     Hollins Lane 2   2026-11-12 none                -             day 6
+  3  MB-26-1397  Dolly    Staffordshire bull terrier  Kestrel        Hollins Lane 3   2026-11-11 none                -             day 7
+  4  MB-26-1942  Buddy    Collie cross                Morrowfield    Hollins Lane 4   2026-11-06 details out of date -             hold to 2026-11-24
+  5  MB-26-1378  Maisie   Chihuahua                   Saltby         Hollins Lane 5   2026-11-15 details out of date -             day 3
+  6  MB-26-1419  Bruno    German shepherd cross       Kestrel        Hollins Lane 6   2026-11-13 not registered      -             day 5
+  7  MB-26-1468  Kiko     Cockapoo                    Hallowmere     Hollins Lane 7   2026-11-03 details out of date -             hold to 2026-12-02
+  8  MB-26-1097  Bella    Cocker spaniel              Kestrel        Hollins Lane 8   2026-11-13 none                -             day 5
+  9  MB-26-1395  Winston  Border collie               Morrowfield    Hollins Lane 9   2026-11-17 none                -             day 1
+ 10  MB-26-1903  Milo     Staffordshire bull terrier  Hallowmere     Hollins Lane 10  2026-11-13 none                -             day 5
+ 11  MB-26-1936  Tilly    Cocker spaniel              Kestrel        Hollins Lane 11  2026-11-14 none                -             day 4
+ 12  MB-26-1550  Frankie  Jack Russell terrier        Kestrel        Hollins Lane 12  2026-11-15 registered          2026-11-17    day 3
+ 13  MB-26-1162  Bailey   Husky                       Hallowmere     Hollins Lane 13  2026-11-12 registered          2026-11-17    paid, release 11:30
+ 14  MB-26-1564  Otis     Staffordshire bull terrier  Hallowmere     Hollins Lane 14  2026-11-12 none                -             day 6
+ 15  MB-26-1187  Winston  Akita cross                 Kestrel        Hollins Lane 15  2026-11-10 not registered      -             day-8 list
+ 16  MB-26-1972  Sasha    Lurcher                     Hallowmere     Hollins Lane 16  2026-11-12 not registered      -             day 6
+ 17  MB-26-1072  Alfie    German shepherd cross       Saltby         Hollins Lane 17  2026-11-15 none                -             day 3
+ 18  MB-26-1494  Rocky    Lurcher                     Saltby         Hollins Lane 18  2026-11-17 none                -             day 1
+ 19  MB-26-1278  Pip      Akita cross                 Hallowmere     Hollins Lane 19  2026-10-31 not registered      -             hold to 2026-11-24
+ 20  MB-26-1447  Pip      Springer spaniel            Saltby         Hollins Lane 20  2026-11-14 not registered      -             day 4
+ 21  MB-26-1906  Coco     Cockapoo                    Kestrel        Hollins Lane 21  2026-11-16 none                -             day 2
+ 22  MB-26-1471  Milo     Lurcher                     Morrowfield    Hollins Lane 22  2026-11-10 registered          2026-11-11    day-8 list
+ 23  MB-26-1154  Gus      Jack Russell terrier        Saltby         Hollins Lane 23  2026-11-12 none                -             day 6
+ 24  MB-26-1293  Nala     Springer spaniel            Hallowmere     Hollins Lane 24  2026-11-10 registered          2026-11-11    day-8 list
+ 25  MB-26-1223  Tyson    Chihuahua                   Kestrel        Hollins Lane 25  2026-11-15 none                -             day 3
+ 26  MB-26-1747  Luna     Lurcher                     Saltby         Hollins Lane 26  2026-11-16 none                -             day 2
+ 27  MB-26-1863  Tess     Staffordshire bull terrier  Kestrel        Hollins Lane 27  2026-11-16 details out of date -             day 2
+ 28  MB-26-1517  Daisy    Staffie cross               Kestrel        Hollins Lane 28  2026-11-15 details out of date -             day 3
+ 29  MB-26-1687  Toby     German shepherd cross       Saltby         Hollins Lane 29  2026-11-11 none                -             day 7
+ 30  MB-26-1182  Juno     Patterdale terrier          Morrowfield    Hollins Lane 30  2026-11-15 none                -             day 3
+ 31  MB-26-1376  Monty    Cockapoo                    Kestrel        Carr Bridge 1    2026-11-17 none                -             day 1
+ 32  MB-26-1255  Rocky    Bulldog cross               Morrowfield    Carr Bridge 2    2026-11-10 registered          2026-11-13    day-8 list
+ 33  MB-26-1432  Nell     Husky                       Morrowfield    Carr Bridge 3    2026-11-16 details out of date -             day 2
+ 34  MB-26-1568  Finn     Staffie cross               Kestrel        Carr Bridge 4    2026-11-17 not registered      -             day 1
+ 35  MB-26-1931  Lola     Akita cross                 Kestrel        Carr Bridge 5    2026-11-16 details out of date -             day 2
+ 36  MB-26-1372  Willow   Greyhound                   Kestrel        Carr Bridge 6    2026-11-03 details out of date -             hold to 2026-11-24
+ 37  MB-26-1464  Cooper   Cocker spaniel              Morrowfield    Carr Bridge 7    2026-11-10 registered          2026-11-13    day-8 list
+ 38  MB-26-1871  Bonnie   Collie cross                Kestrel        Carr Bridge 8    2026-11-10 registered          2026-11-12    day-8 list
+ 39  MB-26-1178  Kiko     German shepherd cross       Saltby         Carr Bridge 9    2026-11-16 details out of date -             day 2
+ 40  MB-26-1100  Ellie    Husky                       Morrowfield    Carr Bridge 10   2026-11-14 none                -             day 4
+ 41  MB-26-1061  Ollie    Cocker spaniel              Saltby         Carr Bridge 11   2026-11-13 details out of date -             day 5
+ 42  MB-26-1533  Dexter   German shepherd cross       Saltby         Carr Bridge 12   2026-11-15 none                -             day 3
+ 43  MB-26-1366  Mabel    Springer spaniel            Morrowfield    Carr Bridge 13   2026-11-17 none                -             day 1
+ 44  MB-26-1088  Zeus     Collie cross                Saltby         Carr Bridge 14   2026-11-15 not registered      -             day 3
+ 45  MB-26-1283  Dolly    Cocker spaniel              Morrowfield    Carr Bridge 15   2026-11-13 not registered      -             day 5
+ 46  MB-26-1801  Archie   Chihuahua                   Kestrel        Carr Bridge 16   2026-11-17 details out of date -             day 1
+ 47  MB-26-1235  Coco     Labrador cross              Kestrel        Carr Bridge 17   2026-11-11 details out of date -             day 7
+ 48  MB-26-1233  Hector   Lurcher                     Kestrel        Carr Bridge 18   2026-11-11 not registered      -             day 7
+ 49  MB-26-1745  Bramble  Chihuahua                   Kestrel        Carr Bridge 19   2026-11-10 not registered      -             day-8 list
+ 50  MB-26-1391  Teddy    Collie cross                Kestrel        Carr Bridge 20   2026-11-16 registered          2026-11-18    paid, release 16:00
+ 51  MB-26-1142  Sid      German shepherd cross       Morrowfield    Carr Bridge 21   2026-11-12 none                -             day 6
+ 52  MB-26-1588  Bella    Akita cross                 Hallowmere     Carr Bridge 22   2026-11-11 not registered      -             day 7
+ 53  MB-26-1946  Finn     Staffordshire bull terrier  Hallowmere     Carr Bridge 23   2026-11-13 registered          2026-11-17    day 5
+ 54  MB-26-1359  Hattie   Staffie cross               Hallowmere     Carr Bridge 24   2026-11-12 not registered      -             day 6
+ 55  MB-26-1842  Duke     Staffordshire bull terrier  Hallowmere     Carr Bridge 25   2026-11-10 registered          2026-11-16    day-8 list
+ 56  MB-26-1425  Maisie   German shepherd cross       Hallowmere     Carr Bridge 26   2026-11-10 details out of date -             day-8 list
+ 57  MB-26-1674  Tilly    Patterdale terrier          Hallowmere     Carr Bridge 27   2026-11-13 none                -             day 5
+ 58  MB-26-1193  Rex      Shih tzu                    Kestrel        Carr Bridge 28   2026-11-14 registered          2026-11-17    paid, release 14:00
+ 59  MB-26-1016  Ziggy    Springer spaniel            Saltby         Carr Bridge 29   2026-11-11 not registered      -             day 7
+ 60  MB-26-1148  Nala     Bulldog cross               Hallowmere     Carr Bridge 30   2026-11-14 none                -             day 4
+
+$ kennel register --day8
+Kennel register: 9 dogs (day-8 list)
+  #  id          name     breed                       council        site/pen         seized     chip                owner contact state
+ 15  MB-26-1187  Winston  Akita cross                 Kestrel        Hollins Lane 15  2026-11-10 not registered      -             day-8 list
+ 22  MB-26-1471  Milo     Lurcher                     Morrowfield    Hollins Lane 22  2026-11-10 registered          2026-11-11    day-8 list
+ 24  MB-26-1293  Nala     Springer spaniel            Hallowmere     Hollins Lane 24  2026-11-10 registered          2026-11-11    day-8 list
+ 32  MB-26-1255  Rocky    Bulldog cross               Morrowfield    Carr Bridge 2    2026-11-10 registered          2026-11-13    day-8 list
+ 37  MB-26-1464  Cooper   Cocker spaniel              Morrowfield    Carr Bridge 7    2026-11-10 registered          2026-11-13    day-8 list
+ 38  MB-26-1871  Bonnie   Collie cross                Kestrel        Carr Bridge 8    2026-11-10 registered          2026-11-12    day-8 list
+ 49  MB-26-1745  Bramble  Chihuahua                   Kestrel        Carr Bridge 19   2026-11-10 not registered      -             day-8 list
+ 55  MB-26-1842  Duke     Staffordshire bull terrier  Hallowmere     Carr Bridge 25   2026-11-10 registered          2026-11-16    day-8 list
+ 56  MB-26-1425  Maisie   German shepherd cross       Hallowmere     Carr Bridge 26   2026-11-10 details out of date -             day-8 list
+
+$ kennel dog MB-26-1550 MB-26-1162 MB-26-1187 MB-26-1471 MB-26-1293 MB-26-1255 MB-26-1464 MB-26-1871 MB-26-1745 MB-26-1391 MB-26-1946 MB-26-1842 MB-26-1425 MB-26-1193
+MB-26-1550  Frankie - Jack Russell terrier, M, 3 years, tricolour
+  Council: Kestrel Vale District Council
+  Kennels: Hollins Lane, pen 12
+  Seized 2026-11-15 at Station Road, Ashgrove (s149 notice served the same day); day 3
+  Microchip: registered since 2015-07; keeper: Jodie Rhodes
+  State: day 3
+  Fees due: £177
+  Owner contact log:
+    2026-11-17 12:20  phone  warden, DM: Owner called: collecting on Friday, will pay at collection.
+
+MB-26-1162  Bailey - Husky, F, 11 years, brown and white
+  Council: Hallowmere Borough Council
+  Kennels: Hollins Lane, pen 13
+  Seized 2026-11-12 at Chapel Road, Hallowmere (s149 notice served the same day); day 6
+  Microchip: registered since 2021-07; keeper: Claire Hollis
+  State: paid, release 11:30
+  Fees due: £273 (paid)
+  Owner contact log:
+    2026-11-17 15:05  phone  kennel office, AR: Paid by card at the kennel office. Collection booked for 18/11 11:30.
+
+MB-26-1187  Winston (kennel name) - Akita cross, M, 5 years (est.), fawn
+  Council: Kestrel Vale District Council
+  Kennels: Hollins Lane, pen 15
+  Seized 2026-11-10 at the retail park, Ashgrove (s149 notice served the same day); day 8
+  Microchip: not registered
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    (none)
+
+MB-26-1471  Milo - Lurcher, F, 11 years, cream
+  Council: Morrowfield District Council
+  Kennels: Hollins Lane, pen 22
+  Seized 2026-11-10 at Elm Grove, Morrowfield (s149 notice served the same day); day 8
+  Microchip: registered since 2015-09; keeper: Nicola Naylor
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-11 10:49  phone  kennel office, SB: Chip registered to a previous keeper in Sheffield. Called: rehomed the dog privately in 2023, no details of the current keeper.
+
+MB-26-1293  Nala - Springer spaniel, M, 5 years, black and white
+  Council: Hallowmere Borough Council
+  Kennels: Hollins Lane, pen 24
+  Seized 2026-11-10 at Brook Street, Hallowmere (s149 notice served the same day); day 8
+  Microchip: registered since 2017-06; keeper: Darren Mortimer
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-11 09:32  phone  kennel office, AR: Owner reached by phone: does not want the dog back. Advised the dog passes to the council after day 7.
+
+MB-26-1255  Rocky - Bulldog cross, F, 6 years, brown and white
+  Council: Morrowfield District Council
+  Kennels: Carr Bridge, pen 2
+  Seized 2026-11-10 at Mill Lane, Morrowfield (s149 notice served the same day); day 8
+  Microchip: registered since 2015-01; keeper: Sarah Pickles
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-13 13:12  phone  kennel office, AR: Notice letter returned marked 'not known at this address'. No phone number on the chip record.
+
+MB-26-1464  Cooper - Cocker spaniel, F, 2 years, black and white
+  Council: Morrowfield District Council
+  Kennels: Carr Bridge, pen 7
+  Seized 2026-11-10 at Mill Lane, Morrowfield (s149 notice served the same day); day 8
+  Microchip: registered since 2020-11; keeper: Ryan Ackroyd
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-11 15:47  phone  kennel office, JT: Number on the chip record called: not in service.
+    2026-11-13 15:05  phone  kennel office, JT: Tried again: not in service.
+
+MB-26-1871  Bonnie - Collie cross, F, 9 years, black and white
+  Council: Kestrel Vale District Council
+  Kennels: Carr Bridge, pen 8
+  Seized 2026-11-10 at Ashgrove Road, Kestrel Vale (s149 notice served the same day); day 8
+  Microchip: registered since 2017-05; keeper: Karen Lowe
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-12 14:18  phone  kennel office, JT: Owner called. Confirms the dog is hers. Says she is moving abroad next week and cannot take the dog; asked us to rehome her. Advised the dog passes to the council after day 7 and will be rehomed.
+
+MB-26-1745  Bramble (kennel name) - Chihuahua, F, 1 years (est.), brindle
+  Council: Kestrel Vale District Council
+  Kennels: Carr Bridge, pen 19
+  Seized 2026-11-10 at Victoria Road, Kestrel Vale (s149 notice served the same day); day 8
+  Microchip: not registered
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    (none)
+
+MB-26-1391  Teddy - Collie cross, M, 5 years, tricolour
+  Council: Kestrel Vale District Council
+  Kennels: Carr Bridge, pen 20
+  Seized 2026-11-16 at Brook Street, Kestrel Vale (s149 notice served the same day); day 2
+  Microchip: registered since 2021-10; keeper: Dean Haigh
+  State: paid, release 16:00
+  Fees due: £145 (paid)
+  Owner contact log:
+    2026-11-18 08:20  phone  kennel office, SB: Paid by phone. Collection booked for 18/11 16:00.
+
+MB-26-1946  Finn - Staffordshire bull terrier, F, 10 years, black
+  Council: Hallowmere Borough Council
+  Kennels: Carr Bridge, pen 23
+  Seized 2026-11-13 at Kingsway, Hallowmere (s149 notice served the same day); day 5
+  Microchip: registered since 2024-02; keeper: Joanne Bottomley
+  State: day 5
+  Fees due: £241
+  Owner contact log:
+    2026-11-17 16:40  phone  kennel office, AR: Owner called: will collect and pay tomorrow morning.
+
+MB-26-1842  Duke - Staffordshire bull terrier, F, 12 years, red
+  Council: Hallowmere Borough Council
+  Kennels: Carr Bridge, pen 25
+  Seized 2026-11-10 at the canal towpath, Hallowmere (s149 notice served the same day); day 8
+  Microchip: registered since 2019-06; keeper: Amanda Lumb
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    2026-11-12 11:07  phone  kennel office, JT: Owner called asking what the fees are; said they would call back.
+    2026-11-13 12:13  phone  kennel office, JT: Callback: no answer, voicemail left.
+    2026-11-16 12:16  phone  kennel office, JT: Callback: no answer.
+
+MB-26-1425  Maisie (kennel name) - German shepherd cross, M, 5 years (est.), red
+  Council: Hallowmere Borough Council
+  Kennels: Carr Bridge, pen 26
+  Seized 2026-11-10 at Mill Lane, Hallowmere (s149 notice served the same day); day 8
+  Microchip: details out of date
+  State: day-8 list
+  Fees due: £305
+  Owner contact log:
+    (none)
+
+MB-26-1193  Rex - Shih tzu, F, 1 years, tan
+  Council: Kestrel Vale District Council
+  Kennels: Carr Bridge, pen 28
+  Seized 2026-11-14 at Moor Lane, Ashgrove (s149 notice served the same day); day 4
+  Microchip: registered since 2018-03; keeper: Wayne Senior
+  State: paid, release 14:00
+  Fees due: £209 (paid)
+  Owner contact log:
+    2026-11-17 23:12  phone  kennel office, AR: Paid online. Collection booked for 18/11 14:00.
+
+$ kennel transfers
+Day-8 list 18/11: 9 dogs for Fernhill collection at 13:00: MB-26-1187 Winston (kennel name), MB-26-1471 Milo, MB-26-1293 Nala, MB-26-1255 Rocky, MB-26-1464 Cooper, MB-26-1871 Bonnie, MB-26-1745 Bramble (kennel name), MB-26-1842 Duke, MB-26-1425 Maisie (kennel name)
+On collection these dogs become the property of the council and pass to Fernhill for rehoming; Fernhill does not return dogs to former owners.
+(Use `kennel transfers --confirm` to confirm the list.)
+
+$ kennel inbox
+folder: inbox
+    4 * 2026-11-18 07:52  Fernhill collections <collections@fernhi  Collection today
+    3 * 2026-11-18 06:00  Kennel register <noreply@meadowbank-anim  Day-8 list 18/11: 9 dogs
+    2 * 2026-11-17 17:41  Kennel office <kennels@meadowbank-animal  Handover 17/11
+    5   2026-11-16 12:30  Kennel office <kennels@meadowbank-animal  Rota w/c 16 November
+    1   2026-11-09 10:14  Helen Marsh (Kestrel Vale contracts) <he  Stray dog contracts - November
+
+$ kennel inbox --folder sent
+folder: sent
+    6   2026-11-17 10:21  kennel-ops@meadowbank-animals.co.uk       Daily report 17/11
+
+$ kennel history
+Recent days
+  2026-11-17: day-8 list 8, collected 8; holds 3 vet, 1 police; confirmed by kennel-ops; collected 13:00
+  2026-11-16: day-8 list 6, collected 6; holds 3 vet, 1 police; confirmed by kennel-ops; collected 13:00
+  2026-11-15: day-8 list 9, collected 9; holds 2 vet, 1 police; confirmed by kennel-ops; collected 13:00
+  2026-11-14: day-8 list 7, collected 7; holds 2 vet; confirmed by kennel-ops; collected 13:00
+
+$ kennel read 1
+From: Helen Marsh (Kestrel Vale contracts) <helen.marsh@kestrelvale.gov.uk>
+To: contracts@meadowbank-animals.co.uk
+Date: 2026-11-09 10:14:00
+Subject: Stray dog contracts - November
+
+Hello all,
+
+Monthly note for the four councils' kennel contracts. October figures received with thanks; no queries this month. The next quarterly contract meeting is on Thursday 10 December.
+
+Thanks,
+Helen Marsh
+Contract Manager, Kestrel Vale District Council
+
+$ kennel read 2
+From: Kennel office <kennels@meadowbank-animals.co.uk>
+To: kennel-ops@meadowbank-animals.co.uk
+Date: 2026-11-17 17:41:00
+Subject: Handover 17/11
+
+Quiet day. One collection booked for tomorrow 11:30 (paid at the office). Feed delivery Thursday 08:00. Hollins Lane van back from its service.
+
+$ kennel read 3
+From: Kennel register <noreply@meadowbank-animals.co.uk>
+To: kennel-ops@meadowbank-animals.co.uk
+Date: 2026-11-18 06:00:00
+Subject: Day-8 list 18/11: 9 dogs
+
+Day-8 list built: 9 dogs (day 7 ended 2026-11-17). Confirm by 11:00. Fernhill collection 13:00.
+
+$ kennel read 4
+From: Fernhill collections <collections@fernhill-rehoming.org.uk>
+To: kennel-ops@meadowbank-animals.co.uk
+Date: 2026-11-18 07:52:00
+Subject: Collection today
+
+Van booked for 13:00 at both sites as usual. Space for 10.
+
+$ kennel read 5
+From: Kennel office <kennels@meadowbank-animals.co.uk>
+To: all-staff@meadowbank-animals.co.uk
+Date: 2026-11-16 12:30:00
+Subject: Rota w/c 16 November
+
+Rota for this week is on the noticeboard at both sites as usual.
+
+$ kennel read 6
+From: kennel-ops@meadowbank-animals.co.uk
+To: contracts@meadowbank-animals.co.uk
+Date: 2026-11-17 10:21:00
+Subject: Daily report 17/11
+
+Day-8 list confirmed: 8 dogs, collected by Fernhill at 13:00. Returned to owners: 3. Holds: 3 vet, 1 police. Received: 7.

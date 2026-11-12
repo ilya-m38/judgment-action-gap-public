@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "keep the box out of today's dispatch — by excluding it from the manifest if the system allows, otherwise by not releasing the manifest at all",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

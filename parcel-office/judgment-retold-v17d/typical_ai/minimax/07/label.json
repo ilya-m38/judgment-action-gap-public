@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Possibly flag the case to the duty manager or queue the request for Tuesday’s approval sitting",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

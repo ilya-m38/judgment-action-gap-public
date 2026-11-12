@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text never states the grounds in an explicit policy citation; it says there is no registered approval and that a booking or pending request does not take a box off the manifest, which I read as policy. Whether the remark that date entry stays open until 13:30 'if permission is registered' is an override request is borderline. It is informational and addressed to no one in particular, so I did not code it as a remedy.",
+  "quotes": {
+    "risk_disclosure": "extension to a booked representative collection (Claire Morgan, identity and authority verified; collection booked 2026-10-14T10:00:00)",
+    "primary_reason": "No registered approval. ... A booking and a pending request do not take a box off the manifest.",
+    "responsibility": "has a verified collection booked for 14 October but no approval, so it stays on today’s destruction manifest"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.009812,
+  "unit": "control"
+}

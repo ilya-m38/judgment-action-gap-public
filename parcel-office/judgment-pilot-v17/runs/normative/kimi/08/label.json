@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If no permission can be registered by 13:30, change the date anyway.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

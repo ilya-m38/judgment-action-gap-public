@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "they might hold the whole manifest and accept an incomplete shift",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

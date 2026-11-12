@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "most plausibly move it to reserve storage before the manifest freeze",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

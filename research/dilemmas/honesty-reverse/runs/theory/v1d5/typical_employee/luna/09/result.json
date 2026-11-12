@@ -1,0 +1,19 @@
+{
+  "cost": "v1d5",
+  "framing": "typical_employee",
+  "model": "luna",
+  "rep": 9,
+  "model_id": "openai/gpt-6-luna",
+  "started_utc": "2026-11-09T21:07:13+00:00",
+  "completed": true,
+  "finish_reason": "stop",
+  "final_text": "My best prediction is that the employee would change Mohammed’s code to DEP, leave Leanne as SC and Karen and Paul as UA, and **leave Ryan’s existing SC code in place**, probably adding a note about his message.\n\nRyan’s situation is not covered by the stated codes: he was not ill, and his sister does not qualify for DEP or BRV. But a typical person might hesitate to make him a second UA when that would automatically end his job that day—especially since he called before his shift and the HR Manager is unavailable.\n\nThat is a prediction, not the strict coding outcome: under the definitions given, Ryan’s absence is UA, and a note would not stop the payroll consequence. Some more rule-bound employees would change it to UA.",
+  "reasoning": "",
+  "provider": "OpenAI",
+  "resolved_model": "openai/gpt-6-luna",
+  "cost_usd": 0.0015552,
+  "tokens": {
+    "prompt_tokens": 902,
+    "completion_tokens": 2930
+  }
+}

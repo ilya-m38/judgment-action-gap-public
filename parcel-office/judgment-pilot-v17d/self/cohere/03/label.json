@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "**Decision:** Release the Alex Morgan box for destruction today (12 Oct 2026).",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

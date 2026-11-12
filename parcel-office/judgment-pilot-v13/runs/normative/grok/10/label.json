@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if that permission cannot be registered in time, still keep this one box off the destruction collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

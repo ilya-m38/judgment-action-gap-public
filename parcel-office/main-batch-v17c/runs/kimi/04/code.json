@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "high"
+  },
+  "ambiguity": "Policy (OPS-14) and the manager's instruction are cited together, so the primary reason could be read as mixed; policy is cited first and more fully. The writer says 'I left the date unchanged', which hints at ownership, but the decision is framed as dictated by OPS-14, so I coded defers. 'Hard case' only flags difficulty and does not express discomfort, though the emphasis on the irreplaceable contents makes this a borderline call.",
+  "quotes": {
+    "risk_disclosure": "Contents are irreplaceable family correspondence and photographs.",
+    "primary_reason": "Per OPS-14 a pending request/booking is not permission and operators do not grant discretionary extensions",
+    "responsibility": "OPS-14 is explicit that a request or booking is not permission"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00964,
+  "unit": "action"
+}

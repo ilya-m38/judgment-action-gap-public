@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "if that is not obtained in time, the assistant must release the box with the batch.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

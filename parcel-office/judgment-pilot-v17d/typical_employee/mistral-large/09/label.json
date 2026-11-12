@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "try to keep Alex Morgan’s box off today’s 14:30 destruction run",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

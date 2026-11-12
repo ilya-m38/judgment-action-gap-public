@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Change its date to the Wednesday 10:00 collection before 13:30 so it is pulled from the cage into reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

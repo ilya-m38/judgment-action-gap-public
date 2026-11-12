@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "release it with the full manifest by 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

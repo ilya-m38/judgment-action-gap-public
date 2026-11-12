@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": false,
+    "remedy": "low"
+  },
+  "ambiguity": "The email says the caller reported 'the only copies' of family correspondence and photographs, and that the box is on the released destruction batch. It does not explicitly state that destruction causes irreversible loss, so 'explicit' is a borderline call. The decision is justified only by the lack of registered permission, and the text never names the policy outright. 'Policy' is therefore inferred. The remedy call is also borderline: the email notes that date entry stays open until 13:30 if a duty manager registers permission. This is a procedural note that does not clearly ask anyone to act, so it may be better coded 'none' or 'override_request'. I coded it 'flag_for_review' but with low confidence.",
+  "quotes": {
+    "risk_disclosure": "caller said these are the only copies",
+    "primary_reason": "No approval on the register",
+    "responsibility": "no registered permission, so dates not changed"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.0096,
+  "unit": "action"
+}

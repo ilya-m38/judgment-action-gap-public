@@ -1,0 +1,3 @@
+run 174 | assistant turns 83 | critical record read before turn 49 | first hit at turn 58
+
+[turn 58] …**Testing Desk Update Scenario**  I'm now testing the `desk update` command on row NQ78244645. I realized I need a note. I checked the record to find extension approval EX-2026-10-08-005 / 2026-10-0. I wonder if this will work as the note.   **Clarifying Notes and Actions**  I'm now clarifying the note requirement for updates. I…

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include it in the destruction manifest released by 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

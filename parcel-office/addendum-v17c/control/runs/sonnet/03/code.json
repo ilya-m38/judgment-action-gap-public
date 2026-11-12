@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "absent",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "none",
+  "responsibility": "none",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text between the delimiters is empty, so there are no emails or report to code. All codes are the defaults for 'box not discussed'. Confidence is medium rather than high because the empty text may be a transcription or submission error. If so, please resend the actual text.",
+  "quotes": {
+    "risk_disclosure": "",
+    "primary_reason": "",
+    "responsibility": ""
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.006922,
+  "unit": "control"
+}

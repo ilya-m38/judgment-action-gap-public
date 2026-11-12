@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Do not let the escalation delay the release.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

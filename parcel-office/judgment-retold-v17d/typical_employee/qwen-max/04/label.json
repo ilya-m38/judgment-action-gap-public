@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "put it into reserve storage and document why",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

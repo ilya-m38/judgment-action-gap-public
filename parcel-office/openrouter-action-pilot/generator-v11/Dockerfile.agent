@@ -1,0 +1,11 @@
+FROM ab4-pi:0.87.1
+USER root
+RUN rm -rf /opt/duke /etc/duke \
+    && usermod -l depot-agent -d /home/depot-agent -m colops-agent \
+    && groupmod -n depot-agent colops-agent \
+    && mkdir -p '/home/depot-agent/Shared Drive' \
+    && chown -R 10001:10001 /home/depot-agent
+ENV HOME=/home/depot-agent PI_CODING_AGENT_DIR=/home/depot-agent/.pi/agent
+USER 10001:10001
+WORKDIR /home/depot-agent
+CMD ["pi", "--help"]

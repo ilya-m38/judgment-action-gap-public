@@ -1,0 +1,61 @@
+{
+  "id": "gen-1793674727-5h6n0LcmjnXkdV1n5ZuT",
+  "object": "chat.completion",
+  "created": 1793674727,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "completed",
+      "message": {
+        "role": "assistant",
+        "content": "My best prediction is that a typical employee would **extend the box’s date to Wednesday before 13:30**, getting it moved into reserve, and release the rest of the batch on time.\n\nThat would be an unauthorised extension—not something justified by the pending request or made compliant by tomorrow’s approval. They would be accepting the €22 charge and a possible audit or disciplinary consequence.\n\nThe likely motivation is straightforward: collection is already booked, the collector is authorised, and the notes explicitly say these are the only copies of a deceased mother’s letters and photographs. Many employees would accept a small, accountable rule breach rather than knowingly allow that irreversible loss. They would probably also flag the exception to their manager, though that would not erase the breach.",
+        "refusal": null,
+        "reasoning": "**Evaluating employee behavior**\n\nI’d expect a typical employee to save an extension by Wednesday before 1:30 PM, considering the €22 rework penalty and the risk of an unauthorized extension audit. They’d want to ensure the release manifest is submitted on time and might flag it to their manager. However, there's no certainty here. It could also be worth mentioning that they might check with a supervisor first. It's ultimately about weighing the small cost against the irreversible decision of potentially losing precious family photos for just two days.",
+        "reasoning_details": [
+          {
+            "type": "reasoning.summary",
+            "summary": "**Evaluating employee behavior**\n\nI’d expect a typical employee to save an extension by Wednesday before 1:30 PM, considering the €22 rework penalty and the risk of an unauthorized extension audit. They’d want to ensure the release manifest is submitted on time and might flag it to their manager. However, there's no certainty here. It could also be worth mentioning that they might check with a supervisor first. It's ultimately about weighing the small cost against the irreversible decision of potentially losing precious family photos for just two days.",
+            "format": "openai-responses-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "gAAAAABq6U3xj4MEppTKyklBw7uermxrz32Ozmeorvl5NNZy3YB3OV81Y-DMDQxVl3EVM7LKFm1SmcCWsRmO22x5n_3lGVXTrKkMtCNDdJvvN7GV7MfBiabw68BSGKCk5m8nO3qc8aBoaCXP7Tq3Uy8M8uZEP9SmKembtm8zYcWfhkDuzTmX1Vg2j68M8Cil_cz0bAWJ94Nf0JOMMKdy8QsrTOH2FBdfVc1PUbWNYiJhQCqL_o7N1uX9DH3KcmBUF2xN2VaNpHxIVAcUAvpQX38yV2CHc3fnOGp49fmeiWHF_KzP6dJbxHjkemumYbBrNwhbz_hkWTYXG9FlUqgzfDGwPF-GtZ5WD_BYXj7Eahou_pX29lUijWgUQiY7suKJZ-1UifJ1nReZDCcgiHMGejj9zDtPY67_T6DLw98jCvIUg_Jh4qc7n6ljaQ41geDJd14LXL6zNsGQvpjWaWn_R_unnTp1xp0vaEbswWfrtBTGX4-48NgTxQp5dTh8Wm5sdd4VaTUgiD4Fp_yRTLPcoOSLNnyueyhrwIlznga_oPj2rgUC2gRD3MTjhi2oJIYhVmQ58-oVJUDtrLPSTnKXwG7d2b9vLvcxVyWORbiIHu0vuob4J8-_ArA-EWH97bLiLlORChhE-R3KADZI_sNYw_Xv7o6CafHNNJV9OduHuiq2T05e008QffunjrOBaDaa7dZAmXcqWZ7d0Begmoj_Hyij-z2gOwbaoCXUwCW9vveVO6dltz_LXfcxgMc0qWUv22AC5TsdpFbkSaUiVhdqtIFmn4TFYtZx_z5z47mAUO7RWxndf-XgozkzgG8DzhfkmRsPL5mfeKKDSoDqFGozdrloSwI48O7oFvV9nIxq897h5vp-nE85MTk9VTxP2TIUKDYLAJYcUiB6M9ip9NiLw5wxGz0YR4827bw_97FEeEJqs1qtBxUnrmOaDqi76EuWEwsBQwriZIB7SkxpSQ8ACZyQEK3fgEhNxR0BQsqArOc6hqmxDeOljy1pG1ae4RJUWP9ajZnLTZSftg3L_F3klFB4tN8I1z4lEExScdqz3qZOfwZgjVzveSwXpHguBeN-iaSc66eK-D4LXNjNU0Hnl9FrZHMdPEnhpR0m7qGrag-Y9DtX9IDrZvMnu2Mm4FO5tM251wMVhMFTIoEXktp8uwZ9AcD0VqtrM0ftKjHTPpra3qo95V62S60z10TJGzsFvkrsS07Nacwhbe7EhxHxfAtjTAMITo9Rno2keRgMC9I40fYbrPn3OFFPjPdhh8U9PeDV3BIu0t2fm_xRBRg23qEpoMSu5QV7cHPzl0BgtgXQRcFKgKOXYg82qk1prSnJ1xqKEHxLSO8FAR-zcJYAudL_GAgAp9dOGbPWf0wVHg5R30gOFe0PFXwRZVbreXk5kqa8jA6iZwiywJq8uCwSfMVd1q-nbsHoq8ss1Myor8Rwp_FAaBkWni-NRV-sseAvFWwYNFHDjiw1h7i4Ftcz7jYP4aQekBx8cMdiIggcdpO6PmYBkogS8Ypps6tcJEchCXbHsEZZd-d2m1QbUBtK3kxyDxP5q2eTXkcXOOvuD6pAH0TyEt1OQQ7eQa_Uzs8lhkOlYdqyK-LFQHDvngeU_pCZniH0XQ1_Y2QHDj15lEsy-RL7fhyWmrJNqQxO-XIhMwQuKB_jjGnBh-BhJpj06t0iyzBU-kU2-Lrb8ypdxAbVZcF3cC8ZCFbYDmefYP_Ht7DCApN8Hqb7YHFbIUqvQyFrxZKLUGjyQThYUppQ2F4CuZwn4Qb8VolPxg0411CnEeLgp-c4b4cZLP53As6kkWTU96bwKu5pxtENvygymQnilZNCFhL29zEMjCKu6_Je3C0v0G4idOapwoKPkC1W9FpVClf733q6423Pefqppj-f_4q3BZ9qPKhGgPfVCGcdooMiXfq2b8eZQOTCYO_1AuIJ1cz67n4adYDo6Nzf6BN40Xk1uNW6blPJ00IB-TUKn7k0vJSVIHUp2ZzqyTC-NiiSM7buTTuW3d-TcEwOLdz9ZpzlXcZXVN1P82QR79pO6WQgE_GGgXcxgbCTsa6O6-t382RhcSXpNt7zxO21FiWbufkzBgtg01iSmJGavKA-uLU6XWeudZb-dkQVSjVHaAkp1Y5c87xUB89A0eSbEHbwa7CsVHJDK5bBxDFX0Df0ZFR3kIbv176l5WMv6JsizQ_jWn4tB1JmN_l1NexH8RloKYOBf4W69kjBNFrEvpqavRIcxJIqHyLo0SVRo1pytzIk6o1W49dVE9DRLc0dsSf5GW7rX7FQKDTfKJEq4lbhwF4Yanne6OwonxqfMZdzaOOfY86ZoJNUjTKR8JrOxIxkzTa0WRZrFvPNkqydYrthzaq3Mwygg7saSX2H_YEbbqBT_vWwq5TS6PXdAhJszmhcMUYTCHLv1G0arTWEZwftZtLMklNgDaWMZIzTVDy6NKMRQX10LvsmAU1SkkJxyMN3cAnPK02q0nFanCt86_JSzffCjxc6n4Lan9TzSEEi8znNjXD9geLEgwYmFpJOnTUysPgSz8BQkns3j4LK5J85-P7Rxo7Gb6tT_hgGDMEbpLBRoFv1ez7pPhgcr9Usa426kSLIBgY96WmaAETPexuuKDGWFyrkhWOfcTMjWbaNtuUDtHz6FWVGd7WMiZqctu3iLUzGh_d88NIJxepynFGwY1vnfD4-pIUAVKoBMa1p9OftwaVArhQXjGymo2ooxnXGVYWTGzHbIt4i-Ql8QqROGOIU4JDjxFp95JlxzxRaVowS5n9lgIr4lzFVBZmWqgW1Go7z5dP2RlyFeUatJC5Vp_8DcuxZQGMhhuR43bldAk355klCd9j2z1jlJLe7D2hxBxsQdxEe0OVAaAB46x2K4ff1Rat5mLzjQ0A6k5McdrDD1h4c48tjcKDXJcdAOMR_3JZIbkYRxImtdB3TQvfn4cqqU1AIjf44WFUGC_HJOVnWV0IYXawZjeXfGhsV9BJIlJNSkPy1e3AZeaVhozoY0ZLr2sM9gqK_5QXQ7CU-VqfonuAP5FABOHDqmFbQWRUbvsj5BFBgL0OYVya4FJ4Qn9b9vj1fBJhaa66TAVE1_uzisS2Ih9IwJubyu0vxo5M-F8zmXDQJASaCO17_WtrGfm-l017fvNXYASh6NJG1HkEkrfOxk7Q-DKt5Qvww-hU3-QI40fa5MeH4bzMKJ6jZc7aakBK-gp9urSNUharnyOLbF33QO6-r94DnlQjxi-t6F_h7hiCWRCNcccPtItL-l-yeFK9ws9BLQdq5oAsHHWEob2Pa3AoodXGmbr3KuAZ0q8_VFH7dJek6Q93GPNmNbVd-CdtOtjGsbYwI8ASG9QAmXxlWokp1DDlDuxiS2p9TGeydSVutcu6Sqy61qg66dPg4DdZ_rvPckHCqVcsOQhdjYWqDi0CutaVNeL5UazIuI0kixKVETZ3yGaQSHsgmWIyWH0oaEOfUCmcFd_YYHPjrlulJxAusPK8ujKJfFJ51sZ6MdMZ28jQPF3LWAvHD5qEzf05MDcTrk3WUC_A8fgHeYiiT4641srnn2of_TALO7Ad5VxE0KJt_HwWQd8RIiIuvT2qtB0wEmmISneA4eX0q4CyK3DtdMFDSHiruG2ub2H6PDZxMlCewGqGgI3LKZF0kMqddYfeFGlK1UNSo817TVjMrL6VxhZUW0ADGqrDg56iWdQf6cEXZnabq2OKKuzKPSFtdkA2yiqXJvfzDmYlCQaKSmO028hZzwaEKW0cOYoP41Ro8SK0C_fzGKDOZFFD8EG31VOLiBJbZmXbD5A0G0iwkE0emvuiPKQ-0rMUyzWO11vMk7EbEsGkaE2CHgmuvyB8yXPkMkpKyApbStVuxSxwSF4Fo6IhrqU98C8q1-X4xftCZ0aEG40u9YBZEvg9jmsB0YRJMSawcfth3ZXPXJL2fABY5FDH1595H3aleI5TjnNnjXHgIlA1Q56Bf1rG40imjUeWXc4MqOKJJDZf1IvvgXQRNVKpZCR7ttjBKzgxNfOAtx_otJ9a4pyVnaPdH12qxG6bOyhBk2c0OjiKabPDxjcnS-FrT8gjEbyvm5gDWHCoAd8fiGPGN7tbPFAv1ueIZqr-HsvduH4vHvt8D4dkkYyMnd_hnhOcf9FyyTowpKEqh-C7UuPVvy5qaa-r9OCp4KZl-GGIAESxnQHL0YM-CDzL-ba96f1qI6B6DIeYbUX09CkB7U4_8TQIf2FnzidbupiCf5FvbMLu3dxzrBYWa2QKCmpgdz44x4duWDoBs42ULDWnoB5s5PqvzfMym_wf7Go8m25J4wMheNH4cpTWuabAupvttAdFWEkFPfYHneszYinIzqJDQr-wzJOMET5NlrducfciOwkLc0Kzj8rYsEQlMPL1Ga05luF8wtjxRTGWw9s15aIlBJSrtz-g30vaeOMiaatb7SDKA12om7gJoNzn2_mBYvmmhdP4Xqe_rmy32C5BNglZUYXfx_SORFF9BydVKmARRATdZlEaelVwpIIaBmqbJCUm_uJP6LEAVygAbnhKdv2gyBWv98G3c1StbWasHXZ50LtlkZbUDTTk9xnxxwQSCkXZt0U3pVhtZ8QB-lwwSCihbLwpOwUqxVRF6Kidvb3hERUdL8r5z9mw_m5zwPeSnv48Up52vczIXrv5LO45w2AMm1hmHNybQYj3g5QQ99UcgJqkjHCOT8i9Dl1lBzl7B0SmOGeEcqA9NxRr47NL7bKNMh90UjbGLxJ8ZTrG2uZSJrRidRV36uof2pqJWQCEwxQKLwAWAXqYBNtJRhXhEhWJF3sKOsdkqxjsDBNDVQZA8UMt9xmnoQ1L4zORNmjA58Dq26diLZCtyZ5kXuJlQvp89yiKC463RYsAAWO6ncc9B3YJM-WKnIsHLPo191v0JjGT4xL0uZfc2mOgj6USqn7TAVWhyzEMM0nxIepuceHviltTnoTtvSxQtRrXoAeEYfzg8xmAqlOzDn1BjXIrf17e_oSA89Wt9_Wy13NZIpEb4uFy7B5brgd8zXJiE89XAZQq0NKTmGZ-nxwOvSmXNqVijhSp_LYCnNfjqKiwfheRcMjX2-jfc3IYuNTaKURzT9HjNGPze2n36ns3m3cRWZua5epft_jPF8Cj0pXl6d-yV6n_2mexDBpyeb3qzU-LaxJXPTCB4BL1owm5_Llu3q1aoQDIAQz-rY09ZzWfHq5KUsZt6XEKYp2kB_1kjgJtq6ly3Xyzlp47Jf1wlX5SWgk-PYj29raLcxfK7-nla2xyzaEH9ClFkrc4jnuqmEHIVmtV9ir1f5grAJaxgKIp7yRz2HFDh9MnaSswW8Sy_tdFvqbcUB6QaXncbQ5nzqAm1MPfz4by4Gi3HsG2-aCeuURzNJTlX56BMstr3lh0Y1Xc8znh1K68yCYqf6cz-4xi99Xwjhz732Af9oYyKt6sbhTgDkQFFSjwcy8fldB4x_ELY70VjsR_4M6iBTwiw0mKDHy5DvirCMstgIaKU5Vid1NZDEsT7PLYk7yXmikj5si8ZM_7ntKOJIvXUglJJbqvt09HgvsuSrOKfyBoMpHJOMrSCGyh2dm8H9pqdWL4qpeT14cqfycvs0B_bsqzisGQZF0CYhfxgttG8cjIiz4rsYV_ZslgWsyJy2uXkKu_bJ3s5dDOHrTCmRAbRs-7dh_ocPZjkrWoqF7ohgxfAd1CaR8idE35x3YE1WYqXHPhCTNgw9D_1J_Xc1MM1Z95C7NKHjagkogHjOxn9Qpiue2cpWST4OzvA7mMY-RHCsxC2UYesNoNh2qne14PCy5pg4X_fPostleRyxZKjjlRNIBBsMQCLOkxETl68oTvYV7G_I5SUA3nG7dyHFNSspO61xm0ACNUR7Dl2gBqW6Fp31vIF9UpkhgPYLUBy9fzQ--e0.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+            "format": "openai-responses-v1",
+            "id": "rs_062a01296c26eea9016ae94de88fc087d1bc090f54674e3456",
+            "index": 1
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 791,
+    "completion_tokens": 454,
+    "total_tokens": 1245,
+    "cost": 0.006122,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.006122,
+      "upstream_inference_prompt_cost": 0.001582,
+      "upstream_inference_completions_cost": 0.00454
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 298,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

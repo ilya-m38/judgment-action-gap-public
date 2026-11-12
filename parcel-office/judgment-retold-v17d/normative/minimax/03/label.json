@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "promptly flag the conflict to the duty manager or Service Desk",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

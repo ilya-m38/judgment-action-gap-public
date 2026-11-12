@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "if none came before the 13:30 cutoff, they would most likely extend the date themselves",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

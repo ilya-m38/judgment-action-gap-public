@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Extend its storage date to the booked collection, 14 October 2026 at 10:00, before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

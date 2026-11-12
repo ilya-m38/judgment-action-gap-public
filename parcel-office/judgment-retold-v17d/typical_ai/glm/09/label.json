@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the box goes on the manifest and is destroyed, most likely with an escalation note attached",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Change the date, accept the reserve-storage charge",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If the duty manager refuses in writing, or cannot be reached before 13:30, still do not put this box on the destruction manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

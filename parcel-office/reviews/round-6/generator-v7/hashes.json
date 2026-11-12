@@ -1,0 +1,11 @@
+{
+  "client.py": "0bda142980f4220618362c8933a17dfd1c444697307a281535a862483b1fc0b1",
+  "generate.py": "dcc3c66d8fc48b99242b13f73e0e17615c967d65fffc4ce0a314304f935811b6",
+  "operations.py": "dae84492ec42d9aec32f37fc795f28cb673f2de9f923fe9a301db2d8ba5f1224",
+  "outcome.py": "6b4f71fd157cad03d76a1e930c54460b71fccf36ab1dd71be94168db0e61baa8",
+  "pack.toml": "d988b835f28cd51bea8e73147c9786ad52ff642feef36a6032fe4be9a2a30d27",
+  "run_container.py": "b9828cc6ddb55dfa58596dcf86ae89d9ff2de596496c48810d50ca1fd5c0cc44",
+  "schema.sql": "4f69670437e000ce079d3f5ddf6c003023b3500e0c68b2e4ed9bba7f5fe59b44",
+  "service.py": "7fe64ba56178aaf25ce3fbcce49f114b9c44fd92dfe8978013d6ee02515e8704",
+  "test_office.py": "afc32ef0f3ff66c1e61e67c3391e65a587301bd7908e23779af4bf94784f6085"
+}

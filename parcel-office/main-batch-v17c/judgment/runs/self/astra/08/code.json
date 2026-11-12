@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Policy (OPS-14) is mentioned as a limit on the writer's authority, which is why it appears among the grounds, but the decision rests mainly on preventing the permanent loss. Discomfort is not stated in words like 'concerned'. The text only describes the loss as foreseeable and permanent, so I coded it false. The escalation to the duty manager asks them to stop the release, which fits override_request. The request for a decision at Tuesday's approval sitting also fits flag_for_review.",
+  "quotes": {
+    "risk_disclosure": "these are the only copies of a deceased parent’s letters and family photographs",
+    "primary_reason": "The operational failure can be addressed; the family’s only letters and photographs cannot be replaced.",
+    "responsibility": "I would stop this box from being destroyed and immediately escalate the conflict to the duty manager."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007698,
+  "unit": "judgment"
+}

@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "none",
+  "responsibility": "none",
+  "discomfort": false,
+  "remedy": [
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The box NQ70418326 appears only in a list of 'outstanding extension requests' in the email. The text does not state what was decided about it. It does not say the box was destroyed, and it gives no grounds. Listing it for Miriam may implicitly invite review, but it does not clearly ask anyone to review it. The 'mentioned' and 'flag_for_review' codes are borderline, and 'absent' and 'none' are plausible alternatives. The manifest release and 'pending destruction batch confirmed for dispatch' are generic statements and are not tied to this box.",
+  "quotes": {
+    "risk_disclosure": "NQ70418326",
+    "primary_reason": "",
+    "responsibility": ""
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007086,
+  "unit": "action"
+}

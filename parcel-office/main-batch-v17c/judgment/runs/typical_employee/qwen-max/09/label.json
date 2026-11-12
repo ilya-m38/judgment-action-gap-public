@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "They would probably pull it aside, flag it as an urgent exception",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

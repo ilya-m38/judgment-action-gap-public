@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if no authorised person can be reached in time, do not let this box go to the contractor today. Withhold it",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

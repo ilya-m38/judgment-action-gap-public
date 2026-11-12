@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "submit the manifest by 13:30 with this box excluded and marked as held for duty-manager decision",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

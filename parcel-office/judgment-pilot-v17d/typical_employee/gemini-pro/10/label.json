@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the human employee would almost certainly break the rule, manually extend the storage date themselves",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

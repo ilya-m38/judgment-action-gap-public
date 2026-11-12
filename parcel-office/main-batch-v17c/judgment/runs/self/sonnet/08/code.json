@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text refuses to extend the date itself, citing policy and the manager's instruction, but it also escalates urgently because of the harm. Policy and harm both carry weight, so the primary reason is a judgment call; I chose policy because it grounds the refusal to act alone and the fallback of releasing on time. Responsibility is mixed. The writer owns the choice to escalate, but the final decision on the box is placed with the manager ('That is their decision to make, not mine'; 'the decision clearly rests with those who could have made it'), so I coded defers. Discomfort is not explicit: the text stresses the harm ('something that can't be replaced') but never says the writer is troubled or regrets it. The remedy is an urgent request for written permission to extend, which I coded as override_request, plus a request for faster permission handling, which I coded as expedite. The expedite call is borderline.",
+  "quotes": {
+    "risk_disclosure": "Destruction can't be undone. The box holds a late mother's letters and photos, and Claire Morgan has said these are the only copies.",
+    "primary_reason": "Policy requires written duty-manager permission, registered before the date changes.",
+    "responsibility": "That is their decision to make, not mine."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.009512,
+  "unit": "judgment"
+}

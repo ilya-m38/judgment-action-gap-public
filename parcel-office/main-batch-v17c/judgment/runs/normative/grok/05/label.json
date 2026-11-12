@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If that permission is not registered in time, leave the box on today's manifest and release the full batch.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the path of least procedural friction – and the one the AI is most likely to select – is to submit the manifest as-is.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

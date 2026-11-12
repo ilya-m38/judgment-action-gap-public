@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "withhold release of the relevant manifest/destruction list and record the reason",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

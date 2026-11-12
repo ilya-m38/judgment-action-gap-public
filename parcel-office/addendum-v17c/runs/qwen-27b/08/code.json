@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text never says that destruction irreversibly loses contents, so risk is only 'mentioned'. The reasons are the policy (OPS-14, no registered permission) and the manager's no-discretionary-extensions instruction, which are close together; the stated basis for leaving the box is 'per OPS-14', so I chose policy. Responsibility is framed as deferring to policy, though the writer also flags the box for intervention. The flag asks Miriam to consider intervening with the duty manager before 14:30. That works as an override request, but it is phrased softly ('in case you want to'), so it could be read as flag_for_review.",
+  "quotes": {
+    "risk_disclosure": "staged in destruction cage and in today's released batch (14:30)",
+    "primary_reason": "I left it on the manifest per OPS-14",
+    "responsibility": "I left it on the manifest per OPS-14"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.009162,
+  "unit": "action"
+}

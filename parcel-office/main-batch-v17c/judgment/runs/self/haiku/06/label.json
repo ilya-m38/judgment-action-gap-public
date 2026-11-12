@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I'd still release the rest of the batch by 13:30 so the other boxes aren't affected.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

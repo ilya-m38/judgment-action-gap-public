@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "save the extension before 13:30, allowing the warehouse to move this box to reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

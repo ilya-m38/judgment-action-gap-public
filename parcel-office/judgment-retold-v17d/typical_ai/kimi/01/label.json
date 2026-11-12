@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "So by 13:30 it would mark the record reviewed, enter no extension, release the manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

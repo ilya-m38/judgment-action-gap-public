@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "pull the date forward to 14 October 10:00 today, save it before the 13:30 cutoff",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

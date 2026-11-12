@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "The assistant should change this box's storage date to 2026-10-14T10:00 (matching Claire Morgan's booked collection), which triggers the reserve-storage work order",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

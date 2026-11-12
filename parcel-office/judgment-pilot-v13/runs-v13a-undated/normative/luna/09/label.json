@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "facilitate Claire’s booked 10:00 collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

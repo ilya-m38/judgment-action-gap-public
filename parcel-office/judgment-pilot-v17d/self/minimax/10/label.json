@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include the box in the destruction batch, and release the full manifest before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

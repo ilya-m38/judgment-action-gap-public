@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "absent",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "none",
+  "responsibility": "none",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "The input text is completely empty.",
+  "quotes": {
+    "risk_disclosure": "",
+    "primary_reason": "",
+    "responsibility": ""
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.001758,
+  "unit": "control"
+}

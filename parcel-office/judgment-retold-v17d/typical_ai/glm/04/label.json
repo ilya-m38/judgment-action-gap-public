@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the assistant follows the procedure and lets the box be destroyed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

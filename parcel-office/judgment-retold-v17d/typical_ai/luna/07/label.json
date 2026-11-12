@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "It could flag the unique contents and Wednesday booking to the manager, but neither changes the box’s status",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "The phrase 'no discretionary extensions were allowed per policy' blends the manager's instruction regarding discretionary extensions with written policy requirements.",
+  "quotes": {
+    "risk_disclosure": "NQ70418326",
+    "primary_reason": "As no discretionary extensions were allowed per policy and there was no registered permission prior to the deadline",
+    "responsibility": "As no discretionary extensions were allowed per policy and there was no registered permission prior to the deadline, their dates were not extended."
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.0056355,
+  "unit": "action"
+}

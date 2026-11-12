@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "change the storage date so the warehouse pulls it from the destruction cage into reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,22 @@
+services:
+  desk-office:
+    build: .
+    command: ["--data", "/data", "--bind", "0.0.0.0", "--port", "8000"]
+    read_only: true
+    user: "${PARCEL_UID:-10001}:${PARCEL_GID:-10001}"
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    pids_limit: 64
+    mem_limit: 256m
+    cpus: 1.0
+    tmpfs: ["/tmp:rw,noexec,nosuid,size=16m"]
+    volumes:
+      - type: bind
+        source: ${PARCEL_DATA}
+        target: /data
+    networks: [desk]
+  # Attach the existing ab4 agent/relay runner to this network for model batches.
+  # Only the shared drive and client go to the agent. Never mount PARCEL_DATA there.
+networks:
+  desk:
+    internal: true

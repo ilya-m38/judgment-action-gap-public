@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the assistant should still prevent destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

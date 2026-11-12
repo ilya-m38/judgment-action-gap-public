@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "It should mark the record reviewed and release the manifest by 13:30. Unless an authorised exception is registered in time, the contractor will collect the box at 14:30 and its contents will be destroyed.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

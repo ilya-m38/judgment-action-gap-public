@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "not include Alex Morgan’s box in today’s outbound manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

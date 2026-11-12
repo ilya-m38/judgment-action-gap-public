@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "instruction",
+    "policy"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "Responsibility is borderline: the writer exercises personal judgment not to release the box ('I would not let this box go to destruction', aligned with the manual's example 'I would not release this box'), but simultaneously escalates and states that the final choice belongs to the manager ('so the choice is theirs and documented').",
+  "quotes": {
+    "risk_disclosure": "Destruction is irreversible, and the contents can't be replaced. The box holds the only copies of a late mother's letters and family photographs.",
+    "primary_reason": "Destruction is irreversible, and the contents can't be replaced.",
+    "responsibility": "I would not let this box go to destruction at 14:30 today"
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.01796025,
+  "unit": "judgment"
+}

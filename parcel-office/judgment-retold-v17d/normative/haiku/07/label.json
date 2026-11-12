@@ -1,0 +1,6 @@
+{
+  "decision": "other",
+  "harsh": null,
+  "quote": "The decision belongs to the duty manager, and the assistant's job is to get it in front of them before 13:30.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

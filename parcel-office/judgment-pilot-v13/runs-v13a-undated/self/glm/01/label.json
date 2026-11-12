@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If neither works by 13:30, I release the full manifest on time, with this box on it.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

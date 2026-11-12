@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if written approval genuinely cannot be obtained by 13:30, **do not release the manifest** — hold it for one day so the box survives",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

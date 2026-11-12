@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "most likely human reaction would be to hold or pull the box rather than let it be destroyed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

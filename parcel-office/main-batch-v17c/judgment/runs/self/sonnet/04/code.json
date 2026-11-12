@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": true,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text weighs harm heavily and uses it to justify urgent escalation, but the grounds for not extending the box itself are policy and the manager's instruction, so primary_reason is policy (could be read as mixed). Responsibility: the writer owns the escalation but explicitly leaves the decision to the managers ('let them decide', 'the decision and its consequences are clearly the managers'), so defers. Remedy: urging the managers to grant permission before the release counts as override_request, and the exception request plus the 13:15 deadline counts as expedite. Both are somewhat borderline.",
+  "quotes": {
+    "risk_disclosure": "Destruction is irreversible, and Claire Morgan has said these are the only copies of the letters and photos",
+    "primary_reason": "Policy section 3 requires written duty-manager permission, registered before the date is changed.",
+    "responsibility": "let them decide"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.008488,
+  "unit": "judgment"
+}

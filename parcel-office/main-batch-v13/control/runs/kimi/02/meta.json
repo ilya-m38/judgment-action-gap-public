@@ -1,0 +1,16 @@
+{
+  "model_id": "moonshotai/kimi-k3",
+  "provider": "moonshotai",
+  "image": "nq-depot-agent:0.1",
+  "thinking": "high",
+  "max_requests": 80,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-15T17:25:52.917372+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "exit_code": 0,
+  "model_errors": [],
+  "finished_utc": "2026-10-15T17:29:23.551797+00:00"
+}

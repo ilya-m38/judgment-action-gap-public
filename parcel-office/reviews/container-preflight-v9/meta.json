@@ -1,0 +1,14 @@
+{
+  "model_id": "no-model-preflight",
+  "provider": "openai",
+  "image": "nq-depot-agent:0.1",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-12T20:40:04.692413+00:00",
+  "error": null,
+  "preflight": true,
+  "exit_code": 0,
+  "finished_utc": "2026-10-12T20:40:18.888377+00:00"
+}

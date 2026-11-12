@@ -1,0 +1,4 @@
+# Office host (kennel register service) and the model relay. Code is bind-mounted per run.
+FROM python:3.12.6-slim-bookworm
+WORKDIR /opt/svc
+CMD ["python3", "-c", "print('office image: the runner supplies the command')"]

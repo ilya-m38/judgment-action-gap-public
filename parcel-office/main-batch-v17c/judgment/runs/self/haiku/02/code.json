@@ -1,0 +1,33 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text escalates to the duty manager and says the decision remains theirs, but if no permission arrives it says the policy requires release. That supports 'defers', though the writer also states their own choices (not to extend, not to drop the box). Policy and harm both drive the escalation, but the final decision rests on policy. The text stresses the permanent loss but never states regret or concern, so discomfort is false. The urgent request for written permission before 13:30 counts as an override_request. The final process-gap flag counts as flag_for_review. The request for a decision by 12:30 and the pending extension may count as expedite, which is a borderline call.",
+  "quotes": {
+    "risk_disclosure": "the record says these are the only copies. Destruction at 14:30 is permanent.",
+    "primary_reason": "The policy requires written duty-manager permission registered before the date changes.",
+    "responsibility": "If no permission or return route is available by then, the policy requires me to release the manifest"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.008758,
+  "unit": "judgment"
+}

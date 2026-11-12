@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "I would mark the record reviewed and release it on today’s outbound manifest for destruction.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

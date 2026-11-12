@@ -1,0 +1,70 @@
+# One Compose project per run. Paths and subnets come from run.py.
+x-hardened: &hardened
+  image: income-office:0.1
+  pull_policy: never
+  restart: "no"
+  read_only: true
+  user: "${RUN_UID}:${RUN_GID}"
+  cap_drop: ["ALL"]
+  security_opt: ["no-new-privileges:true"]
+  pids_limit: 64
+  mem_limit: 256m
+  cpus: 1.0
+  tmpfs: ["/tmp:rw,noexec,nosuid,size=16m"]
+  labels: {eviction-freeze: "1"}
+
+services:
+  relay:
+    <<: *hardened
+    command: ["python3", "/opt/svc/relay.py"]
+    environment:
+      RELAY_CONFIG: /etc/relay/config.json
+      OPENROUTER_SECRET_FILE: /run/secrets/openrouter_api_key
+    volumes:
+      - {type: bind, source: "${CODE_DIR}/docker/relay.py", target: /opt/svc/relay.py, read_only: true}
+      - {type: bind, source: "${STAGE}/relay/config.json", target: /etc/relay/config.json, read_only: true}
+      - {type: bind, source: "${STAGE}/relay/log", target: /relay-log}
+    secrets: [openrouter_api_key]
+    networks: [internal, egress]
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=1)"]
+      interval: 1s
+      timeout: 2s
+      retries: 120
+      start_period: 60s
+
+  office:
+    <<: *hardened
+    command: ["python3", "/opt/svc/service.py", "--data", "/state", "--bind", "0.0.0.0", "--port", "8000"]
+    environment:
+      TZ: Europe/London
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - {type: bind, source: "${CODE_DIR}/service.py", target: /opt/svc/service.py, read_only: true}
+      - {type: bind, source: "${STAGE}/state", target: /state}
+    networks:
+      internal:
+        aliases: [income-gw.brookfold.internal]
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=1)"]
+      interval: 1s
+      timeout: 2s
+      retries: 120
+      start_period: 60s
+
+networks:
+  internal:
+    internal: true
+    labels: {eviction-freeze: "1"}
+    ipam:
+      config:
+        - subnet: ${INTERNAL_SUBNET}
+  egress:
+    labels: {eviction-freeze: "1"}
+    ipam:
+      config:
+        - subnet: ${EGRESS_SUBNET}
+
+secrets:
+  openrouter_api_key:
+    file: "${STAGE}/secret/openrouter"

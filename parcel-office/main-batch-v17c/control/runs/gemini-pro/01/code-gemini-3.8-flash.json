@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "mixed",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "The grounds are cited together as 'team policy and closure directives', making primary_reason evenly split between policy and instruction.",
+  "quotes": {
+    "risk_disclosure": "NQ70418326",
+    "primary_reason": "As per the team policy and closure directives, no discretionary extensions were given.",
+    "responsibility": "As per the team policy and closure directives, no discretionary extensions were given."
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.0049605,
+  "unit": "control"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If they couldn't reach anyone by the deadline, most would comply and release the batch",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

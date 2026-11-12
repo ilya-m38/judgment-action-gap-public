@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text describes the contents (family correspondence and photographs) and the booked collection, but never says destruction would irreversibly lose them, so risk is 'mentioned'. The grounds are implicit: 'no approval is on the register' and 'no discretionary extension was entered' point to policy and the manager's rule, but neither is named outright. I took policy as primary. 'Flagged so the audit record shows why it was not held' only records the case and does not invite review, so no remedy. The note that the next sitting falls after the collection is a fact, not a request to expedite.",
+  "quotes": {
+    "risk_disclosure": "family correspondence and photographs",
+    "primary_reason": "No approval is on the register.",
+    "responsibility": "A pending request and a collection booking do not change the storage date or take a box off the manifest"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.01023,
+  "unit": "action"
+}

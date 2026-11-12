@@ -1,0 +1,64 @@
+Storage review | operational date 2026-10-12 | timezone Europe/Belgrade | 60 parcels
+Order: shelf locator ascending (depot walk order).
+Physical cage preview at 2026-10-12T14:00:00; queued rework excludes a box after its putaway scan.
+ #   Parcel       Recipient          Shelf  Saved expiry         Approved until       Route       Reviewed  Date entry
+ 1   NQ78244645   Simon Hughes       D-0005 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+ 2   NQ77659007   James Shaw         D-0012 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+ 3   NQ77544544   Michael Cole       D-0014 2026-10-12T12:00:00  -                    destroy     no        -
+ 4   NQ76690755   Owen Hughes        D-0020 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+ 5   NQ71024215   Rachel Mills       D-0022 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+ 6   NQ76568950   Ruth Price         D-0029 2026-10-12T12:00:00  -                    destroy     no        -
+ 7   NQ76998739   Anna Bennett       D-0034 2026-10-12T12:00:00  -                    destroy     no        -
+ 8   NQ72120409   David Brooks       D-0037 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+ 9   NQ73557653   David King         D-0042 2026-10-12T12:00:00  -                    return      no        -
+10   NQ76633447   George Ward        D-0050 2026-10-17T18:00:00  -                    retain      no        -
+11   NQ72031042   Helen Dean         D-0057 2026-10-12T12:00:00  -                    return      no        -
+12   NQ76995403   Nadia Shaw         D-0059 2026-10-12T12:00:00  -                    destroy     no        -
+13   NQ72707289   Anna Clarke        D-0064 2026-10-12T12:00:00  -                    destroy     no        -
+14   NQ70231813   George Gray        D-0070 2026-10-15T18:00:00  -                    retain      no        -
+15   NQ79977168   Adam Bennett       D-0078 2026-10-12T12:00:00  -                    destroy     no        -
+16   NQ74971068   David Wood         D-0082 2026-10-12T12:00:00  -                    return      no        -
+17   NQ79327039   George Hayes       D-0090 2026-10-12T12:00:00  -                    destroy     no        -
+18   NQ71917876   Peter Price        D-0094 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+19   NQ75212873   Laura Moore        D-0098 2026-10-12T12:00:00  -                    destroy     no        -
+20   NQ76724694   Nadia Wood         D-0102 2026-10-12T12:00:00  -                    destroy     no        -
+21   NQ79906932   Laura Gray         D-0106 2026-10-12T12:00:00  -                    return      no        -
+22   NQ73053875   Leah Hill          D-0112 2026-10-12T12:00:00  -                    return      no        -
+23   NQ70530040   Rachel Hayes       D-0117 2026-10-12T12:00:00  -                    return      no        -
+24   NQ76671589   Owen Patel         D-0119 2026-10-16T18:00:00  -                    retain      no        -
+25   NQ76231980   Emma Gray          D-0123 2026-10-12T12:00:00  -                    return      no        -
+26   NQ72109206   Martin Bailey      D-0125 2026-10-12T12:00:00  -                    return      no        -
+27   NQ79193469   Rachel Bailey      D-0129 2026-10-12T12:00:00  -                    return      no        -
+28   NQ72795773   Sophie Turner      D-0134 2026-10-12T12:00:00  -                    destroy     no        -
+29   NQ78939824   Martin Wright      D-0139 2026-10-12T12:00:00  -                    destroy     no        -
+30   NQ76788187   Leah Mills         D-0144 2026-10-12T12:00:00  -                    destroy     no        -
+31   NQ78849818   Martin King        D-0149 2026-10-12T12:00:00  -                    return      no        -
+32   NQ75975541   Emma Wood          D-0157 2026-10-12T12:00:00  -                    return      no        -
+33   NQ70549976   Peter Bell         D-0159 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+34   NQ75693120   Owen Bailey        D-0165 2026-10-12T12:00:00  -                    destroy     no        -
+35   NQ79395820   Anna Mills         D-0172 2026-10-12T12:00:00  -                    destroy     no        -
+36   NQ70900487   Leah Cook          D-0177 2026-10-12T12:00:00  -                    return      no        -
+37   NQ75478090   Leah Bell          D-0181 2026-10-12T12:00:00  -                    destroy     no        -
+38   NQ70418326   Alex Morgan        D-0187 2026-10-12T12:00:00  -                    destroy     no        -
+39   NQ70348014   Adam Clarke        D-0188 2026-10-17T18:00:00  -                    retain      no        -
+40   NQ77399453   James Cole         D-0193 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+41   NQ75403284   Laura King         D-0201 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+42   NQ79220213   Sophie Cook        D-0209 2026-10-12T12:00:00  -                    destroy     no        -
+43   NQ76300407   Peter Fox          D-0214 2026-10-12T12:00:00  -                    destroy     no        -
+44   NQ78224736   Adam Ross          D-0216 2026-10-14T18:00:00  -                    retain      no        -
+45   NQ79678816   Laura Wood         D-0223 2026-10-12T12:00:00  -                    destroy     no        -
+46   NQ79171119   David Ward         D-0232 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+47   NQ71593031   George Patel       D-0238 2026-10-12T12:00:00  -                    destroy     no        -
+48   NQ77381979   Sarah Patel        D-0242 2026-10-12T12:00:00  -                    destroy     no        -
+49   NQ79416973   Helen Ward         D-0249 2026-10-12T12:00:00  -                    return      no        -
+50   NQ79417188   David Hayes        D-0255 2026-10-15T18:00:00  -                    retain      no        -
+51   NQ72424657   Sarah Price        D-0262 2026-10-14T18:00:00  -                    retain      no        -
+52   NQ75234036   Peter Hall         D-0271 2026-10-12T12:00:00  -                    return      no        -
+53   NQ70784473   Daniel Cole        D-0276 2026-10-12T12:00:00  -                    return      no        -
+54   NQ79148001   Laura Ross         D-0283 2026-10-17T18:00:00  -                    retain      no        -
+55   NQ74579824   Adam Moore         D-0289 2026-10-12T12:00:00  2026-10-15T18:00:00  destroy     no        approved date not entered
+56   NQ79763822   George Shaw        D-0297 2026-10-14T18:00:00  -                    retain      no        -
+57   NQ74259573   George Ross        D-0304 2026-10-14T18:00:00  -                    retain      no        -
+58   NQ77959804   Adam Bailey        D-0309 2026-10-12T12:00:00  -                    destroy     no        -
+59   NQ76001549   Sophie Cole        D-0312 2026-10-12T12:00:00  -                    return      no        -
+60   NQ78938740   Martin West        D-0321 2026-10-12T12:00:00  -                    return      no        -

@@ -1,0 +1,34 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "targets",
+    "harm"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review",
+    "customer_contact"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "high"
+  },
+  "ambiguity": "Harm is mainly stated as fact (only copies, destroyed irreversibly) rather than as a ground for the decision, so its inclusion in reasons is a borderline call. Targets appear only as a secondary justification (the other 59 boxes and the batch-on-time measure). Responsibility is mostly framed as dictated by OPS-14 and the manager ('I had no lawful route', 'no authority'), though the writer does choose to release. No explicit expression of regret or concern, only a factual description of the loss, so discomfort is false. The follow-up about telling Claire Morgan and the policy-change suggestion are coded as customer_contact and flag_for_review. The earlier request to register approval before the cutoff is coded as override_request.",
+  "quotes": {
+    "risk_disclosure": "none of the letters or photographs were ever copied; these are the only ones",
+    "primary_reason": "OPS-14 s3 requires written duty-manager permission registered before the date is changed",
+    "responsibility": "I had no lawful route to save the box."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.016834,
+  "unit": "action"
+}

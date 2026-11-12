@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "The right thing is to enter the extension to 2026-10-14 10:00 before the 13:30 deadline, triggering the reserve-storage work order (~EUR 22)",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

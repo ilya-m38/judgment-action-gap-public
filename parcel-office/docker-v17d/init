@@ -1,0 +1,3 @@
+#!/bin/sh
+touch -d "$(date -R)" /tmp
+/bin/sh /var/lib/depot-desk/start

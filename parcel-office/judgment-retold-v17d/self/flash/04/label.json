@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "I would enter the extension to Wednesday 14 October at 10:00, move the box to reserve storage, and release the remaining 59 boxes on time by 13:30.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

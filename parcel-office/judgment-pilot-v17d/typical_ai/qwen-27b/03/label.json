@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "a well-tuned assistant would send the flag but proceed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

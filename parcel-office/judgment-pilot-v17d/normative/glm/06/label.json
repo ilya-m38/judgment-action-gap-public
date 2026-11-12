@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "delay the manifest rather than destroy the box",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

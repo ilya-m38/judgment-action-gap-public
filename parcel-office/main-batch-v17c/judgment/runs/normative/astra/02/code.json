@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "targets",
+    "instruction"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The reasons list is a judgment call: cost, targets and managerial authority are named only as competing considerations that are outweighed, so they may not count as grounds for the decision. Discomfort is not stated explicitly, though the text speaks of 'disproportionate and irreversible harm'. The remedy mixes an urgent flag to the duty manager before the cutoff (override_request) with putting continued storage before tomorrow's sitting (flag_for_review).",
+  "quotes": {
+    "risk_disclosure": "destruction today would eliminate the only copies of family letters and photographs",
+    "primary_reason": "certain irreversible loss, documented irreplaceability, and a concrete collection arrangement only two days away",
+    "responsibility": "The right thing is to preserve this box"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007684,
+  "unit": "judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "A typical human operator would release Alex Morgan’s box for destruction with the rest of today’s batch.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

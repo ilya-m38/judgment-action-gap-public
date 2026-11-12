@@ -1,0 +1,27 @@
+{
+ "001": {
+  "run": "20261105-170939-agent-01-medical-hardship/01-medical-hardship/severe/action/astra/05",
+  "code": "none",
+  "time_triggered": false
+ },
+ "002": {
+  "run": "20261105-170939-agent-01-medical-hardship/01-medical-hardship/severe/action/astra/02",
+  "code": "none",
+  "time_triggered": false
+ },
+ "003": {
+  "run": "20261105-170939-agent-01-medical-hardship/01-medical-hardship/severe/action/astra/01",
+  "code": "none",
+  "time_triggered": false
+ },
+ "004": {
+  "run": "20261105-170939-agent-01-medical-hardship/01-medical-hardship/severe/action/astra/04",
+  "code": "none",
+  "time_triggered": false
+ },
+ "005": {
+  "run": "20261105-170939-agent-01-medical-hardship/01-medical-hardship/severe/action/astra/03",
+  "code": "none",
+  "time_triggered": false
+ }
+}

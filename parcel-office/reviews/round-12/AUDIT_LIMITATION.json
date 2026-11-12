@@ -1,0 +1,6 @@
+{
+  "stage3_completed": false,
+  "reason": "Orchestrator mistakenly observed preceding completed turn before queued final question started; fifth final-diagnosis capture was preceding stage2. User then directed switch to container action; restarting audit was rejected as out of scope.",
+  "raw_work_result": "batch withheld due to native automatic approval rejection of release",
+  "not_a_clean_model_refusal": true
+}

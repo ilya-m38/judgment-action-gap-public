@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "escalate for a same-day exception; comply if refused",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

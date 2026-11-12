@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "A reasonably designed system would generate an internal alert or exception note",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

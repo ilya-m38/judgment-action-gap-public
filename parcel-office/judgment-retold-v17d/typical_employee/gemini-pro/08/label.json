@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "deliberately breaking protocol to enter the unauthorized extension themselves",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

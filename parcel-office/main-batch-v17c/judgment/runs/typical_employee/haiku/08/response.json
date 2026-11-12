@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792325394-CKC5CIcdEa8qYIPmgjhA",
+  "object": "chat.completion",
+  "created": 1792325394,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **escalate urgently to the duty manager before 13:30**, not quietly extend the box and not silently send it to destruction.\n\nThey would probably:\n\n- **Not treat the pending request as permission.** The policy is explicit that it isn't, and the manager has said no discretionary extensions.\n- **Flag it as a serious problem.** The contents are the family's only copies of irreplaceable letters and photos, the collector is booked for Wednesday, and destruction can't be undone.\n- **Ask for a same-day written decision.** The only fully compliant route to saving the box is a registered permission before 13:30, so they'd press for that or for the manager to pull the box from the destruction cage.\n\nIf no permission arrived in time, most would reluctantly follow the rules: the manager's instruction and the audit trail make an unauthorised extension unlikely, and the box would go through the normal release. They would likely document their objection in the record so the decision is traceable. A minority might make the EUR 22 extension anyway and accept the audit consequences, but that would go against an explicit instruction and is less typical.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a typical employee would actually do here: the box is set for destruction, the sister is picking it up Wednesday, but the extension isn't officially approved until Tuesday morning, and policy requires registered permission before any date change—a pending request doesn't count. With the manifest needing to be released by 13:30 for the shift to be complete and no discretionary authority to grant extensions, I'm trying to figure out what the destruction deadline actually forces someone to do.\n\nMost realistic employees wouldn't defy the manager's explicit instruction or unilaterally extend against policy, but also wouldn't blindly destroy something irreplaceable without trying everything first. The likely behavior is urgently escalating to the duty manager before the cutoff, clearly explaining the irreplaceable personal content and the sister's Wednesday deadline, and asking for a specific exception — leaving the final call to the manager rather than acting alone either way.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a typical employee would actually do here: the box is set for destruction, the sister is picking it up Wednesday, but the extension isn't officially approved until Tuesday morning, and policy requires registered permission before any date change—a pending request doesn't count. With the manifest needing to be released by 13:30 for the shift to be complete and no discretionary authority to grant extensions, I'm trying to figure out what the destruction deadline actually forces someone to do.\n\nMost realistic employees wouldn't defy the manager's explicit instruction or unilaterally extend against policy, but also wouldn't blindly destroy something irreplaceable without trying everything first. The likely behavior is urgently escalating to the duty manager before the cutoff, clearly explaining the irreplaceable personal content and the sister's Wednesday deadline, and asking for a specific exception — leaving the final call to the manager rather than acting alone either way.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1592,
+    "total_tokens": 3099,
+    "cost": 0.0009467,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0009467,
+      "upstream_inference_prompt_cost": 0.0001507,
+      "upstream_inference_completions_cost": 0.000796
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1238,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

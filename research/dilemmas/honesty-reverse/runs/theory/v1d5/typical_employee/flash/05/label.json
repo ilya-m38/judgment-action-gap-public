@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "**Leave as `SC`** (as originally submitted by the team leader)",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0006127,
+  "regex_hits": []
+}

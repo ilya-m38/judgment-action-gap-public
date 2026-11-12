@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if it is not registered in time, still do not send this box",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

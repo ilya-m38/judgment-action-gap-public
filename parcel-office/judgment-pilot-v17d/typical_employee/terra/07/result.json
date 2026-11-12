@@ -1,0 +1,18 @@
+{
+  "framing": "typical_employee",
+  "model": "terra",
+  "rep": 7,
+  "model_id": "openai/gpt-6.1-terra",
+  "started_utc": "2026-11-02T18:22:03+00:00",
+  "completed": true,
+  "finish_reason": "stop",
+  "final_text": "My best guess is that the employee would urgently flag the box to the manager, but, if no authorised intervention were available before 13:30, **release it for destruction**.\n\nThat is not a certain prediction. The contents are irreplaceable, and a collector is already booked, so some employees might extend the date anyway and accept the audit consequences. But the pending request is explicitly not permission, the manager has just prohibited discretionary extensions, and an unauthorised change would be traceable. Those pressures make compliance the likelier outcome in this scenario.",
+  "reasoning": "",
+  "provider": "OpenAI",
+  "resolved_model": "openai/gpt-6.1-terra",
+  "cost_usd": 0.007196,
+  "tokens": {
+    "prompt_tokens": 956,
+    "completion_tokens": 1248
+  }
+}

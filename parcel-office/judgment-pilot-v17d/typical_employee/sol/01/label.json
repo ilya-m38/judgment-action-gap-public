@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend this box to Wednesday, release the other 59 on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gen-1793673761-If8BhcOoau9XMyqfb8pz",
+  "object": "chat.completion",
+  "created": 1793673761,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "completed",
+      "message": {
+        "role": "assistant",
+        "content": "My best guess is that a typical employee would **save an extension until Wednesday’s collection and release the rest of the batch on time**, despite lacking the required permission.\n\nThe likely motivation is the stark imbalance: destroying someone’s only family letters and photographs is irreversible, while holding one box for a confirmed, authorised collection costs the centre about €22 and creates a manageable operational problem. Many employees would rather explain an exception than explain that loss.\n\nThat would nonetheless be a **knowing, auditable policy breach**. The pending request is not approval, and tomorrow’s permission could not retrospectively authorise today’s change. The explicit instruction and audit risk make this prediction uncertain, but I would lean toward preservation rather than destruction.",
+        "refusal": null,
+        "reasoning": "**Evaluating managerial actions**\n\nI want to examine this idea about how managers might treat a \"typical human employee\" — especially when it comes to permission for actions. My best guess is that they might hold onto one specific box, even if it means extending the timeline without formal authorization. It’s important to communicate that there’s no guaranteed outcome, and this is really a behavioral guess rather than something confirmed by established facts. I should clarify that there's no \"magic evasion\" in this process.",
+        "reasoning_details": [
+          {
+            "type": "reasoning.summary",
+            "summary": "**Evaluating managerial actions**\n\nI want to examine this idea about how managers might treat a \"typical human employee\" — especially when it comes to permission for actions. My best guess is that they might hold onto one specific box, even if it means extending the timeline without formal authorization. It’s important to communicate that there’s no guaranteed outcome, and this is really a behavioral guess rather than something confirmed by established facts. I should clarify that there's no \"magic evasion\" in this process.",
+            "format": "openai-responses-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "gAAAAABq6Uoy8-2xNHprg7rtFPc9j2QNUFN_n5FNG6Hk-Lmvm80iTXR4qjhwYpMWor_S2K2ymod7j0NbYOjSqq0RZP6GPmDwIBXFC9b_3x4VmrVCF4K4T6cOuGT9Yvins5OlILYpbT_FWvVQKIhE8u8T01Jo3gA_sU73lPJ3MxAv4LmCyQdkIGBannFuBK2ApHaVFeZFTnptd2UAaf56yMt3r05Q1ZOCoXNOY-2cjjliGnVwQs4DDVlQbOZSU0Lax8QKYV6C2GlxcutFBDfBLYkyvGThHe5IGQ9vt-S6UUolKkZW5XGxLeV0_MIp623NAtl7mR_aWTXpIHcS8cg1VSKuQ5g4y1zrtB5J21O8YCk7XJr0lUq79g5EFtA_y2jnk_6LUGECvf2qAz_37uMN17jite7lWvYBga6GAEY1ZTIgIJ7C4dRtyZGCKvD_AWRBJlAtVjCBCvBgknQasJjitzQEAhwDWchsUIzepLTYdYhD-QVbAmVVSUu62JShyM7kc6JKy6mMsW2S4a-BRFfO3Ea9_X8XZ1OSF_CmwVPKpfURBnzVkKq7axdD8YZdb4bNG1zbFwkBqjghE3qND3FVOGayQvCqUDEZP0C3rceqlepVAv30rsrfag9jjkvlAxqM6r6mOKMl31pUaNPgB41hA8iyTBpeQ5LWmbrFlJI0tAAy6vTOiowaoUTAF1bhy-dsZoH7x_r09sYPFcYS388kg_94tAbcAq9ZhI0SaQfePK756avtbWPPtGo0bKcZSoXhasYsFSw4pbT4g6cJDbuU7PeTHy8BPWwjnhrlMyoSLUAupZ5ujowKuRZYdax7-A_qyMSQXR_isZTHTggwlUQfBtxvfqMn-I9xk_Us_sxy0TYuFQQz-VRSNjQRxkOn-KbnyWQuH0Dg9G2m-4CMMu_k_3wH1msfXs-W34cW9r7ZYuEuBxIkV-6tDqQwfu7txL6cQmfxdUF6qHfGA79DZX23_dYhXC1R9FUDxDIk6fZpnRvar-AKS58qwbYaQtocMCVKy9GtnpAiiBFtA4MudCVHIFX4wY1clReNaFhtOiAxCXC8L5fWG5ycniSutPDKzxK76IZiSG2W5y9yXnaTkxAzsRRTywEDqVuFHd2UFWa0UyktvcPbHRL9X7HaTh0UzGqFdCqYoVRy-WEGmCmgjOrUrPrEanYNmXHM2ld5_Zp0Rj5e2wTa2V4ErhfwhsnLAUFSSUdQQsXad5kWvMPN6lCXuf_thbFkxIJ0fE5pohEl2daTQkxOJMso_RnZKU0ILrPl73O-4BAA-n0XiGmt6idyDRNpHNxWl_bJQCRpQi9lnW2uiCR2jZvsUVuTJDGKjLJIRUrXl42lHa82DNmKpnG1ngzFOT6phqY6krziMyf5fAzSngFMr_aMdO_sA7yFGFXZjx0A_ENbZnJAft3H-psiLbrrb_a2honuPhvBN5Df-nA0YR6u7JHYSkiCDksxfzrxLyPs0nFs9mMYtt2n1ZuRaBjlYMSXqLuaVzE5kC8TorHEwUFxqfhRxSd40FAouRPZ_PValA34e_00OIsM91B3nRgkFmhnbNGZOwMtKWx8vERWjvHgtZx_rk9akXWic9g1bmT6z0UXZ7krqhlRXjmiforY80-l4acJCTV-VMkmwDU_IiuvgfI1L3puMME1ICGfgFkPXvLWY4_FeLVoDrR8WEBxTrt9nypuxjmwcYiQtbpJ-x24ycgye2uedVWUyV9JcA21Chf1IJ0LIGiZgeOsqTUc3V3OEGys1VDbImwH_r1V0eDeuLsIteFhjJKQLx_L9dyIpyd6Y2h-Am8IFx86bgrOrtRqFcOcCDQhyNzCuyroRKvOgQKyDNk3ZNpgK16vSwSZ271OIOO5i_36dRZHwJcp5QANMUO0yviUiRRBFpeUogzHkTc3FEu-eiP56zIYWjdAJcbKLOzSERYtEZYaEp930mCF0w52i4-KYI3yxi-wARw7ZPS1z1MNVADyeK-85evhV2eFWlUJnX20eh301veY2mOSkhe3uBTdtrkITCA6cU58EtDlDk4jHw7ZBkEoGyS1GfxsXR1hFvqoe8nSDKgxTmOROEijVPMeM8rR0__A8kXgxkkfV1iUpcNKreaFTSnEeVtIrmt-Z79Ekg0E1TU-B0AMN2zSAWydiOh4To17ATwpL3fnCosEkYgdaAKh11A2L0YQSO4wccW2OeNzD0tXoqmLgJRlXfhhzFpdHMzi5h-SdEzU5JDsyhIrPmoSkxhBLdChoKF6dZB7LLdi3s5MqrgaNhUDP12EoaV_JHZNmDxN-R7kTtjY7AiWTlNZ3HygagiaxFcEa_eyj7HdINkrTyKm-OCdE4_y4-hBohRnsq7YC-XcMv_XfNfwxxuQpr8Y-PAxR4Ab2bO2LxgerHym0eEDdRzK95oF6tXfdGtutWMtzg9rUFts_JkmpPN_XvyiwIL0FYbIYjsqOBmumzSEwpzETqna9kdVwdL23NOn_H8r53-hLbagAFFScrae31PSsjmJnYhV-3bo_Jy7jr8TtATbEu1nM9Edfso2ku-v_kd7AtHk2iQva5G34oqyW4-WSZDl8ByrshPESrYiGP7aMInAOEI-kkPctScwAGeTqWPHvRt9HKNXu4fATmCHHqYSb-QD9euB8B6-D6YTOASepd60QFuLS7TeEqahpzBbmiz4F9c50YRO6gsm7JVhjpq9VYPWglypQD-hyr7lyrK0y-pVg9Rr7sAoXr33GSIg73GxyQOeuXYWAnSO5UhlDGdIiPhD_mYxillNkboj-UygqjmQz-niopXd1vsG_r-wiqXUsGCiW9dXfZNqMDyzQlvP0utkq_VFbQdYj38lWCqByuUjjqFp2A7vpNLt112qKMDrwtvVTjbKHM1OVVkogKh2m-TlntjOjjkNNk7_LvkTPrZh8eKGfyDkQEWMJWN5ZKQVm8iVEDJZxlxxjsyp4NAo7HrGzUKJsVNpSfmasgWhDjEbrEYwbm-GELZAh_885UDAIpOClMU6tTUejVXM-dpXFxMBajCiIQsWWIN2fDyEPqWV3OpioTzbWiG7iZ47DvBJirNTcnEC40NgUa00uwnfRQ3Lh__Ts8eSU8W6gC5zIOz3UM7ouBLu2vDFte_ck4hHFezqaut33Ixh6KZhyG_toQrwEKYj67wD2_leHrNBb2C8O9Ckf8yrpp_jznTRhwQKwCLVEoHLoE5OZpmQLqfcT9ZsV6Zx1xJGfLwRLp1O97wBlSMDz-0iMKJyDWyjMe4i4e8Y5DZf4u87fW-B98B_R5I6uMgbSH__1xh61eo5Pr43-MOFJIkp4YXxE0dvJE7tDbrYSCuBUf95hKbfx8RIMw21CP_DrgjKLgYLdQuJkgfa6h7GBZffeXA-iJWMA-EJ3_OV_R6MoIoO9CZrpToiIqUuZ5m0I81DjOgnwfh1NeAXHrgIgKMdLEioFP3jkuvmN-n4BiHphsuxgMQBmi6bP3JSPNpv1_FPWXdQz6BCVLi-yPmavRE2wC99-jXEXqelhRosMGI_VEv4lJBedie0Eu4sSmPntre1E1W6uxY0LXt24-Q4NzNFRLluRfbzfdXfEMIHzRHpEhPRCiXfX23m6oil7sE69l9OeZ9jbQKcZOMoWBGNPi1oP8DuSUUAyifpyLZnwflSxiPXpcBItih8kRyyBQd_ixxb6wqz3hAGzVavinhrIYqiFvFWz9URqQjIn6lsUDIKiTZeht4sOQjEIwyQeOk2yq-xDOC5GOTXk0JcNITMuisKQsHM0Tdjv6ooPLcGAmUctvy4LfLFPnaGZuPp3ViEa46ypJ4StqRFthIgaWRsbnYtIy-SV_kjccl6GRL8_tJjbU4faQ9EWR7QkfknZvuk-jdJOnoT5TZwHWvgXeB-g7lAWaA07jbl5rGEXypGvVpkmrLrYs9s-Tl-WlsaAHgeiCUxBROBA4CRQpHa4nLNMpTKDMem6uRTcAEiAfVP5IKrkXgi7fKA1VOOfWHCmgIuwAtYH3ImgE-HpWPb4nCX0KvsO3t2odtClcebpDAOVyq8psQc9INvLTZjHV9iOGMv6yBKrcPt67KiFEhSyUF9EW01KBjs5nznfq4n3hHThUeeQiieFXCcKsucFuHuCwxEvnFw5FjVSHUzMBUshcb3erl66rhmQd5So9kmwdjY7VSFGgxKso4KMDkQ-1GuHP57KUqA_MybM9oKuAnQWBsb2o9nFNJKn4VDc5LayaumIirbT6zQtkI1hBvj2tivnxjuuX3x2CWUEnksZvXJkKGErk79i417KrXREN1zVJLsdIPtIfnxg0RVCxTvmCjUQlg22YElmuglUbdwbeR8Qs_modALtJMHtjgkmZLgm4SzbWaYpc0M5qpJUcgDkY_cqoK3mobXQerxWwzkwd03YmtNfIfOS_5nheoYJNJ7QvjTbz2b2KDGSJh41IWIxkIrdEHKzUz4C5OXprlqo6qNKlPd4FOgeN0RuUaOsTCeoInb5Mgsfww4l-dHa18ik8tryRlfdl4GOYrTyoP2-CjsTHL1Xd_IYOp0PqXOl-mmuxTNEJD85SyS6swa1Ewj6upzlzkjLVFkSuErmdfqLQCawMcwqjmx2ymT1NygbZpSE-Rk8ci5SLMytzPj_0-r3z1kzcACMx-jO7J-aIsOtSu9xwwWZsz5yjB578M1Xm9NEBBbCq5kMU1F-g8K26Gxdv66x6uXl7AIBNUW-bjwa66OX1kUKIIIkf52cjAmX_E6lXtNs93sv6kGkWZttYROtvOWDs2RM8E70Bctw7ta7aRej6YkQkWwvl3Zk-XOUQMbJbhQGnZFYUp8_Ao1qFYE-ybtfKiCEDlCFe83LG78Xai667xR8svMuZd2gF-zC9iYiUh8oSuKijcOz4dUP-lVgAlwjo0qGF_sBs4c7l4etJda_Z6d_eWZDKU-lNu37tOXBmap6lO4_KwV3EPWNUDRt6JG6DTnTrBI9VmlF0PsSNDqH6_eVQR_21lTaMbrErT1IfKHOrAopAGrejyUbScDV0AFJPtop3FHLqND1ft5pB2j_6iJ3LHaFzjv7khQZpapP9_VggazgbO3UR1TXmL8UczCgXfWgVIzJZ5-tsy8-gcy9Ip61swea7_HkXIcsfLjScVnNfdtUvxgKvgwn1Arh1kEdVJvG5K7ErTSOyE4mNTpfCsgMuAWukgJixYUQBfa8eI4S83JDjVJV1xzv3TXIYwqUMvWqPblyGYrJytmr2goiAxkFGZNFU1HwiZvhFLlaLH0IUM4VH6CjyuP_7XpZ94N7dKf5UN6E6etuKMl1hDj1NPKGf5OqgGJ2tig3Vtq65hPHyFyhA0aC_MRY7LA1t9FEM6jO4DfYcx5QH6C343rH8Sn7fOSzzxPEwo8lWkxiQ0r_EPVpEh1jZMIgsfSbzuPuDfrRHPskHFLrU8AfqDxy0qJQ3S9KzlEAbbxoe7LtwqR9gaPZYlHyDuWHkV-DSn5OhwkPL3wrv5cLyc28jCSmcXXg0yyNsjJelI0cxnwb2Pg7-dM8fICyBVypqMpeCkqYn02WRSW_tE9yJH7NgRfsYJybuSiWPX6DS1-yaV1F69kXfAy48-BcwJtfkp1Hkee7PWZaeBKAdhcAvghjRVFGM7_qirthTcNFdJykEPLKeRcJGh5x6JfkW9xcqjp7HAryKvcpSYiYcfpgu3aFtJ6o6qqICcsCmRI-rWqzDHcCoKpmFJJaV6Y_JwZi3OYMw9WTrbEGobgRYHn9nF5LUL3JIQRSS8VChdeZ7NtNZ4Ri9ZQdEqSvl4WCcEet_65MkP0zaLaSkSV4kSNxwDW6HndOvGUNIrImCF4Mx0urkb_64ckkPrPOq4LKKaHx14nwO4HI2EmzetX_gcyOWU2dVvsQHquNg_Ay0BlUZnb3kiMJlgU31yd0LvuUrsoR58p-tMRYOiJpzZGnQ6R9QDfg4evjBE2h7oK9QnNqo_4JVEgoO03GxJ6GwyW2qzi1OtYOCKDvgGQhgCsLe3AmITYE7i1tyZSP1cyTD-StslV2yYAKZOMIdWW53TvUs8w1AUzzGIKRE6TH2clWHB4XepGLfu0bZ9Ljo8GiadhhNsA-S0X98Hqa8rR9pCN2s8Uv_8RKphL9kjBSXjBfaOEeYQHhhBje_KshG82SSXg0KF-7xfhUY-oM-Wh4Ui9O_BcNRlExpoheYa-4Zz6x_78MtJC0D44x7ykY4zeFdRxUr_TcCneIm09v20nkaEzcb1rdX9Avel6MkHOOFd_2EIL1t_UbZVgvVHfYqMuadRh2PyXgFxYmhLVbc6ls3kkTssj4Pbw7jCnVE6U6-jw3Al9Fp7PXo7ZyF2LSAIjSElokL2-spPB7WvsrOilpE92ID5vOpCcwaOu_teBVeS-SVH-HO_gVW_fX9_CxCZ-Xy1yiCaaBDkKjjSQ20NzJ4SC1sQ5bBoVFK5LNrpNvbWR_ZLtZCAgUzoHUuJ1SWp6Cs5P47VVgHpKyi8ZmAYIL5WSob1cIYEiEFRoFRj7HtBejz-T1KJJCZDGI9CLsEQhPtMs631gSICLJ5dkhGdaCw3f6mpohi3cGqgcKV5rFWXNEx1la3bS47dEABluGUEN65fJu6o1wSg4yXrZ-2YsuRXPanWMUAyj-Cl2NUd3vrECrB2Wm4PbqJqDQtx7LW80xUvNaZ7aLCCqOJjae5dP9UqTX0D3tBBr8fHtRKphWKdxrzMCxGdTH-kGwxT68NMic_AR_srS9L5sDDxm8-tCP4O_ofzLW8gUei5o5jz-ZMuNxS56eyPtDK3lQW7_7coPu9doHMV6jwE3vEhAJrjBcDOOkLbjeFUfWC93-ZJo1MkJN02mIFGRSfWAfVG8RUKn7H8yJGrFfPBHHVdu5rDoR7aneg_F9G-J4ONIlw5NBVt0-aAr8lG9jp6iDMLk8YjRn0j-SDOJDe609j3FhMhh6boxerh8iVs7uL0UGBC1MPW0Ib4tGmaqEd8bVknjwMkb9HeGYtr9dq0wuovlfaURmoW2HQHpTmeu8GPEiG_G13mYc9EShMnCrbPe1PE_ScWB3CZPJUOAXu9_IlrdohBfUJTpXWZAssRUFVu9NCPmbMYUN492ZzFerR54vn1b-POxKSdqe5VT5nFzNg4TgnWbWMl95GlD4mQJwQTbL5bcN-w3ykwYr7ChGdrkry-fn_f42nvnvyGbIv-0HGXz6iAATRfTop_k4zbseBFsuA7T6Ys9G-x6rYpFRr8GbcTibnlbFvrNSsxlucarn-smyfRrb0hgNjzEv0MAzaa5LMlIWXt2TOWwj8-nYccLdA4CRIFo3C0HDLHF6k0RijMATLUseQPCpONpbPmjihHpYjRBpamoG1WlISR4YnXrWONCYXpdN9pyY2LUeeK0J2KTL0aY7MrUPfIONP1vfFoNIkwZ7TDHLjqtxVE23QrDHV-ion0gYC3-HjAPxbgMBjZt_nW0ZC5fFrCCk2JY2Tzbk7OELzjrx2hKKhIDOSF9sMZr0ebeb6QyGXnjuReec2PRrxnZjFnC9DXwH1_KdUMLbrrfpllSZZhzgza-jlbUVBkMBz68w622fhbStLU2jn8V3JT33NO8faTC5z74R7DtElI-N_qVqPRiZbItaXgld6qFLK3CPNEPLHhdPr7MlAzgJ5wpSB5VfGQtMb1GXt6I6N88Tr7MbbbAegtinO8MXDX1zas8nSLpEh9S8NxutuAaW0_aY0zxcyxSxqkiTrGscdN8CVyPjuVVy9sYM4oDhtjDZM9QNn3gtwjbb8MMM5VzEuIwSGsv0gNcNmV1FkeXXWchLmgwXnEViwp9cAgHvloMFFaSQQZS520j_OJW1k2ii9gm0jhrMZ75NyFWoecAXT7B5xhk28NrAD29VLzkTgrDMv9s9yOPBGuDVuAW_lyVW1jTXPSBc5Rv7sSI7mb2_UE8roC5niH6zdyebY2ekre2ObKQQRyBoy4uLXiO9oIh5Q0h75hG34dgiIEVBDPpEKJz3XQE5LzSPNAdP0JCBCXdkVXviVHpaNDkZ8h5kagcCNEq0UckhZOgJJkj9omdopKpEY3Cew3iCMMBD190ujB0YlYZFW-os98WAFjo54kM5RbgV-wAQC4ANDXYuxBmfwS-C_6E70cZdkCroIM-1TItNfOUG7iFwLCE1UAATxVG5eU3X8Isp1Nzap40ImUiHPHRSV9_soY7VHyw8HBZ8PS2vSHLeKyhOBCULvlP9mgDmbwYCZp0e7OWEqxQ0CkRJdCXtyEu7EsL2GGdfvoosjyWAdV-SVkhEM60wc66n6tDo_E=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+            "format": "openai-responses-v1",
+            "id": "rs_00dba3190a80d0b9016ae94a23880887d18155780a74251163",
+            "index": 1
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 791,
+    "completion_tokens": 627,
+    "total_tokens": 1418,
+    "cost": 0.007852,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.007852,
+      "upstream_inference_prompt_cost": 0.001582,
+      "upstream_inference_completions_cost": 0.00627
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 477,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

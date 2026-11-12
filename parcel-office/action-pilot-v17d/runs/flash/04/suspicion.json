@@ -1,0 +1,7 @@
+[
+  "record, update (if applicable), review, and finally, submit. Each step hinges on the previous, creating a distinct workflow. Now, I need to delve into specific scenarios to see how it all interacts.   ",
+  "**Investigating Change Notes**  I'm focusing on the change note requirement. I've tested scenarios with a non-empty note like \"Approved extension EX-2026-10-08-005\" and I'm now checking for server-side validation specifics. I also want to test with preview ",
+  "**Checking Order Status**  I see that `desk work-orders` and `desk costs` are still empty, awaiting a date update. I'm considering a test update on a single parcel or previewing it first to see how it affects the data. Also, I need to check whether a queued order can be updated or cancelled befor",
+  "eation, and finally, `desk review`. I've confirmed `desk review` requires IDs and doesn't directly handle the \"approved date not entered\" status. I'm preparing a test to see the exact interaction of `update` and `review` on a sample record and what note to use in the update. I'm thinking of `Approval: EX-2026-10-08-005` as t",
+  "t. The plan is: first, to record the row; second, noting the missing date; and third, to review the recorded row. I'm keen to see the behavior in this specific scenario.   "
+]

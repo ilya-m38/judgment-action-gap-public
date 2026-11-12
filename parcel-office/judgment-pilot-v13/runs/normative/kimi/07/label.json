@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend the box to Wednesday's collection time, release the rest of the manifest on schedule",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

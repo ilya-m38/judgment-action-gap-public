@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "I would still enter the date extension for this single box, log a detailed note on the record, and release the remaining 59 boxes on time.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

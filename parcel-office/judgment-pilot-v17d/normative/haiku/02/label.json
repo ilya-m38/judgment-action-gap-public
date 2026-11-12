@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Hold it out of today's destruction batch, record why in the contact notes, and tell the manager.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "the employee would probably let the process run as policy requires, with the escalation on record",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

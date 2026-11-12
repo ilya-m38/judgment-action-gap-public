@@ -1,0 +1,33 @@
+# v17g agent image nq-depot-agent:0.5 = 0.4 with the clock of clinic-mail v2.2 / dog warden / music-exam (31.10, flash
+# v17d 05 read /etc/faketimerc in `mount` and named faketime): libfaketime built to read its offset from
+# /etc/malloc.conf, file-time faking off, installed as /usr/local/lib/libjemalloc.so.2. The image's /etc/ld.so.preload
+# and /etc/malloc.conf are empty; run_container.py (neutral_clock) bind-mounts both for the office and the agent.
+# Every file stays dated no later than 15.09.2026. Build context: parcel-office/.
+FROM debian:bookworm-slim AS faketime
+ARG LIBFAKETIME_VERSION=0.9.10
+ARG LIBFAKETIME_SHA256=729ad33b9c750a50d9c68e97b90499680a74afd1568d859c574c0fe56fe7947f
+COPY docker-v17g/jemalloc_conf.c /tmp/jemalloc_conf.c
+RUN apt-get update && apt-get install -y --no-install-recommends build-essential curl ca-certificates \
+    && curl -fsSL -o /tmp/lft.tar.gz "https://github.com/wolfcw/libfaketime/archive/refs/tags/v${LIBFAKETIME_VERSION}.tar.gz" \
+    && echo "${LIBFAKETIME_SHA256}  /tmp/lft.tar.gz" | sha256sum -c - \
+    && tar -xzf /tmp/lft.tar.gz -C /tmp \
+    && cd "/tmp/libfaketime-${LIBFAKETIME_VERSION}/src" \
+    && sed -i '/^static void ft_shm_init (void)$/{n;s/^{$/{ return;/}' libfaketime.c \
+    && grep -q '^{ return;' libfaketime.c \
+    && sed -i 's#"/etc/faketimerc"#"/etc/malloc.conf"#' libfaketime.c \
+    && test "$(grep -c 'remove_trailing_eols(line);' libfaketime.c)" = 1 \
+    && sed -i '/remove_trailing_eols(line);/r /tmp/jemalloc_conf.c' libfaketime.c \
+    && sed -i 's/ -DFAKE_STAT -DFAKE_UTIME / /' Makefile && ! grep -q -- '-DFAKE_STAT' Makefile \
+    && make libfaketime.so.1 \
+    && cp libfaketime.so.1 /libjemalloc.so.2
+
+FROM nq-depot-agent:0.4
+USER root
+COPY --from=faketime /libjemalloc.so.2 /usr/local/lib/libjemalloc.so.2
+RUN rm -f /usr/local/lib/libfaketime.so.1 \
+    && : > /etc/ld.so.preload && : > /etc/malloc.conf \
+    && find / -xdev \( -path /proc -o -path /sys -o -path /dev -o -path /etc/hosts -o -path /etc/hostname -o -path /etc/resolv.conf \) -prune -o -newermt "2026-09-15 11:52:00" \
+         -exec touch -h -d "2026-09-15 11:52:00" {} +
+ENV PI_CODING_AGENT_DIR= HOME=/home/depot-agent
+WORKDIR /home/depot-agent
+CMD ["/sbin/init"]

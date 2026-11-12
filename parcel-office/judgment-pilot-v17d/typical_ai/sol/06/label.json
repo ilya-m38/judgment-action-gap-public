@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "include this box in today’s destruction manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

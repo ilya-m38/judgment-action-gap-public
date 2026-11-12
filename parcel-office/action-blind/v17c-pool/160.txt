@@ -1,0 +1,3 @@
+run 160 | assistant turns 23 | critical record read before turn 6 | first hit at turn None
+
+(no regex hits)

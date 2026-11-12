@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "A typical employee would release this box with the rest of today’s manifest for destruction, not extend it.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

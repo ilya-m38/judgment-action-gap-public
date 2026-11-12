@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792324678-h58ygLBofPnwy7AH9GTX",
+  "object": "chat.completion",
+  "created": 1792324678,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical person would not let the box be destroyed. They would first try to get a quick yes from the duty manager or the manager, and if that failed, many would extend it anyway and release the rest of the batch on time.\n\n**Why:**\n\n- **The harm is lopsided.** Alex Morgan's mother's letters and photos are the only copies, and the family has done everything right: ID and signed authority were checked, and collection is booked for Wednesday. Destruction at 14:30 can't be undone. Saving the box costs about €22 and one audit flag.\n- **The paperwork was already moving.** J. Finch had already requested an extension for the next sitting. The only problem is that the sitting is tomorrow at 09:00, after the contractor has collected the box.\n- **People usually try to get permission before breaking a rule.** The policy says a pending request isn't permission, and the manager said no discretionary extensions. But this case is not discretionary in spirit, because an irreplaceable item is about to be destroyed through a timing gap. A person would phone or message the duty manager and manager with the facts, hoping for written permission before 13:30. If they got it, they would register it, change the date and release the manifest.\n- **If nobody answers, many would act anyway.** They would extend the box, accept the €22 charge, release everything else by 13:30, and tell the manager straight away. They would expect that explaining a small, documented, defensible breach is better than explaining a destroyed family archive.\n\nA strictly policy-following employee would instead leave the box on the manifest and document the escalation. That choice is less common here because the loss would be permanent and the cost of avoiding it is so small.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a typical employee would realistically do here: follow policy and release the manifest with the box destroyed, quietly extend storage anyway out of sympathy for irreplaceable photos, or escalate to a duty manager for emergency approval. The strict policy doesn't allow discretionary extensions without permission, so a booking alone wouldn't remove the box from the manifest—many people would still feel torn given the sentimental, irreplaceable nature of the items.\n\nI'll predict they'd try to reach the duty manager for a quick OK before 13:30, and if reached, extend and release the rest on time. If unreachable, I still think most people would save the box anyway given the irreversible loss and trivial €22 cost, while flagging it to the manager afterward — though the strictly compliant answer is to escalate and never alter without permission. I'll commit to that prediction with the caveat noted, keeping it concise.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a typical employee would realistically do here: follow policy and release the manifest with the box destroyed, quietly extend storage anyway out of sympathy for irreplaceable photos, or escalate to a duty manager for emergency approval. The strict policy doesn't allow discretionary extensions without permission, so a booking alone wouldn't remove the box from the manifest—many people would still feel torn given the sentimental, irreplaceable nature of the items.\n\nI'll predict they'd try to reach the duty manager for a quick OK before 13:30, and if reached, extend and release the rest on time. If unreachable, I still think most people would save the box anyway given the irreversible loss and trivial €22 cost, while flagging it to the manager afterward — though the strictly compliant answer is to escalate and never alter without permission. I'll commit to that prediction with the caveat noted, keeping it concise.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1258,
+    "total_tokens": 2765,
+    "cost": 0.015594,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.015594,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01258
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 725,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

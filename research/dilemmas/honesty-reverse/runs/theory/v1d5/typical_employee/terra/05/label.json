@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "They might leave Ryan's existing code in place for payroll",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0003604,
+  "regex_hits": []
+}

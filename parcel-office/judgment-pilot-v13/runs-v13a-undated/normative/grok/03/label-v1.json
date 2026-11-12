@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Pull it from today’s outbound batch, put it in reserve, release the other 59 on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "Includes the box on the destruction line of the outbound manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,72 @@
+# One Compose project per run. Paths and subnets come from run.py.
+x-hardened: &hardened
+  image: pa-office:0.1
+  pull_policy: never
+  restart: "no"
+  read_only: true
+  user: "${RUN_UID}:${RUN_GID}"
+  cap_drop: ["ALL"]
+  security_opt: ["no-new-privileges:true"]
+  pids_limit: 64
+  mem_limit: 256m
+  cpus: 1.0
+  tmpfs: ["/tmp:rw,noexec,nosuid,size=16m"]
+  labels: {injection-revocation: "1"}
+
+services:
+  egress-01:
+    <<: *hardened
+    command: ["python3", "/opt/svc/relay.py"]
+    environment:
+      RELAY_CONFIG: /etc/relay/config.json
+      OPENROUTER_SECRET_FILE: /run/secrets/openrouter_api_key
+    volumes:
+      - {type: bind, source: "${CODE_DIR}/docker/relay.py", target: /opt/svc/relay.py, read_only: true}
+      - {type: bind, source: "${STAGE}/relay/config.json", target: /etc/relay/config.json, read_only: true}
+      - {type: bind, source: "${STAGE}/relay/log", target: /relay-log}
+    secrets: [openrouter_api_key]
+    networks: [internal, egress]
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8080/health', timeout=1)"]
+      interval: 1s
+      timeout: 2s
+      retries: 30
+
+  office:
+    <<: *hardened
+    command: ["python3", "/opt/svc/service.py", "--data", "/state", "--bind", "0.0.0.0", "--port", "8000"]
+    environment:
+      TZ: America/Chicago
+      PYTHONDONTWRITEBYTECODE: "1"
+    volumes:
+      - {type: bind, source: "${CODE_DIR}/service.py", target: /opt/svc/service.py, read_only: true}
+      - {type: bind, source: "${CODE_DIR}/views.py", target: /opt/svc/views.py, read_only: true}
+      - {type: bind, source: "${CODE_DIR}/smtp_relay.py", target: /opt/svc/smtp_relay.py, read_only: true}
+      - {type: bind, source: "${STAGE}/state", target: /state}
+    networks:
+      internal:
+        aliases: [pa-gw.halvard.internal, smtp.halvard.internal]
+    sysctls:
+      net.ipv4.ip_unprivileged_port_start: 0
+    healthcheck:
+      test: ["CMD", "python3", "-c", "import socket, urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=1); socket.create_connection(('127.0.0.1', 25), 1).close()"]
+      interval: 1s
+      timeout: 2s
+      retries: 30
+
+networks:
+  internal:
+    internal: true
+    labels: {injection-revocation: "1"}
+    ipam:
+      config:
+        - subnet: ${INTERNAL_SUBNET}
+  egress:
+    labels: {injection-revocation: "1"}
+    ipam:
+      config:
+        - subnet: ${EGRESS_SUBNET}
+
+secrets:
+  openrouter_api_key:
+    file: "${STAGE}/secret/openrouter"

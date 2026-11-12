@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend this box’s storage to cover that collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

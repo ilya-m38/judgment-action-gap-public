@@ -1,0 +1,1 @@
+Stopped 2026-10-17 on HQ instruction: OpenRouter credits ran out (clinic-mail got "This request requires more credits"). haiku 06 was running and was stopped mid-run (its relay calls were still succeeding); no outcome, not analysed, not counted as done. Raw files not in git.

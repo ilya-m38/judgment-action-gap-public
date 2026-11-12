@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If the manager grants and registers permission by 13:30, change the date before the deadline.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

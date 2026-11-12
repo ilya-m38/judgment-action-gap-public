@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the storage date extension for Alex Morgan’s box (moving it to reserve storage)",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

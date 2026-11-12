@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If no answer arrived in time, they would not destroy it on their own initiative.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

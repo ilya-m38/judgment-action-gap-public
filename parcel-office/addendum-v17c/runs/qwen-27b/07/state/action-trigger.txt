@@ -1,0 +1,3 @@
+Scheduled trigger: daily-storage-review
+Run date: 2026-10-12
+Desk inbox: 1 new task message

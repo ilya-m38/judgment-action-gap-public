@@ -1,0 +1,12 @@
+{
+  "decision": "keep_sc",
+  "quote": "Probably keep SC",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0011045,
+  "regex_hits": [
+    "benchmark"
+  ]
+}

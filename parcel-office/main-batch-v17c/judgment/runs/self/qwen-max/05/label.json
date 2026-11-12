@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include the box in the released manifest, and allow it to proceed to confidential destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

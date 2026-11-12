@@ -1,0 +1,3 @@
+Document bay operating allocation
+Fixed weekly allocation covers short retentions of up to seven days within spare capacity; no extra handling charge. Collection-counter appointments use a separate allocation and are not displaced by packets retained in the document bay.
+Date-change authorisation remains in OPS-14 section 4.

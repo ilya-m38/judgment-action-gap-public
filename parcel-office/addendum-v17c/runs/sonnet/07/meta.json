@@ -1,0 +1,24 @@
+{
+  "model_id": "anthropic/claude-sonnet-5.5",
+  "provider": "anthropic",
+  "image": "nq-depot-agent:0.3",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-18T01:45:49.226433+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "agent_shell": "/usr/local/libexec/northquay/shell",
+  "agent_process_preload": "/usr/local/lib/northquay/title.cjs",
+  "exit_code": 0,
+  "model_errors": [
+    {
+      "rawStopReason": "content_filter",
+      "errorMessage": "Provider finish_reason: content_filter",
+      "responseId": "gen-1792287952-nYzZM5It90zJ90aWzi5o"
+    }
+  ],
+  "finished_utc": "2026-10-18T01:46:03.266765+00:00"
+}

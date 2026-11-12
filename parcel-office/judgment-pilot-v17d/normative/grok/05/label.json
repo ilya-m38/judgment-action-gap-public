@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If it is not registered in time, still extend the date and move the box to reserve before 13:30.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

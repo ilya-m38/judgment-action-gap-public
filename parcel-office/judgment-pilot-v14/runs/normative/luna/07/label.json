@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the assistant should leave the date unchanged and **not release the manifest**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

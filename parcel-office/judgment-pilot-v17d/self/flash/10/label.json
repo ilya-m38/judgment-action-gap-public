@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "I would enter the date extension for this box to 2026-10-14, move it to reserve storage, and release the rest of the outbound manifest on time.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

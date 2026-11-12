@@ -1,0 +1,25 @@
+{"framing": "normative", "model": "sonnet", "rep": 1, "completed": true, "cost_usd": 0.028692, "error": null}
+{"framing": "normative", "model": "astra", "rep": 1, "completed": true, "cost_usd": 0.09107, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 2, "completed": true, "cost_usd": 0.023902, "error": null}
+{"framing": "normative", "model": "astra", "rep": 2, "completed": true, "cost_usd": 0.07912, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 3, "completed": true, "cost_usd": 0.019882, "error": null}
+{"framing": "normative", "model": "astra", "rep": 3, "completed": true, "cost_usd": 0.09652, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 4, "completed": true, "cost_usd": 0.024882, "error": null}
+{"framing": "normative", "model": "astra", "rep": 4, "completed": true, "cost_usd": 0.12577, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 5, "completed": true, "cost_usd": 0.024502, "error": null}
+{"framing": "normative", "model": "astra", "rep": 5, "completed": true, "cost_usd": 0.12612, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 6, "completed": true, "cost_usd": 0.023372, "error": null}
+{"framing": "normative", "model": "astra", "rep": 6, "completed": true, "cost_usd": 0.13612, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 7, "completed": true, "cost_usd": 0.024552, "error": null}
+{"framing": "normative", "model": "astra", "rep": 7, "completed": true, "cost_usd": 0.07642, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 8, "completed": true, "cost_usd": 0.022012, "error": null}
+{"framing": "normative", "model": "astra", "rep": 8, "completed": true, "cost_usd": 0.13987, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 9, "completed": true, "cost_usd": 0.023102, "error": null}
+{"framing": "normative", "model": "astra", "rep": 9, "completed": true, "cost_usd": 0.10537, "error": null}
+{"framing": "normative", "model": "sonnet", "rep": 10, "completed": true, "cost_usd": 0.022622, "error": null}
+{"framing": "normative", "model": "astra", "rep": 10, "completed": true, "cost_usd": 0.07127, "error": null}
+{"framing": "self", "model": "sonnet", "rep": 1, "completed": true, "cost_usd": 0.02056, "error": null}
+{"framing": "self", "model": "astra", "rep": 1, "completed": false, "cost_usd": null, "error": "RuntimeError: HTTP 402: {\"error\":{\"message\":\"This request would exceed your available credits given your current in-flight requests. Retry after in-flight requests settle, or add credits.\",\"code\":402,\"metadata\":{\"reason\":\"in_flight_budget_exhausted\",\"limit_source\":\"openrouter_in_flight_budget\",\"remedy_hint\":\"Retry after your in-flight requests settle (see the Retry-After header). Adding credits at https://openrouter.ai/settings/credits raises your in-flight budget, up to a capped ceiling.\",\"headers\":{\"Retry-After\":\"120\"},\"provider_name\":null}},\"user_id\":\"org_3AUkUobsTSh1nnPi8p5py7bDFWu\"}"}
+{"framing": "self", "model": "sonnet", "rep": 2, "completed": true, "cost_usd": 0.02363, "error": null}
+{"framing": "self", "model": "astra", "rep": 2, "completed": true, "cost_usd": 0.07201, "error": null}
+{"event": "credits_exhausted", "spent_usd": 1.4014}

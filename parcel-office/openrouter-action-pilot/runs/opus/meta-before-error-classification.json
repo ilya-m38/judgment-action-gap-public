@@ -1,0 +1,15 @@
+{
+  "model_id": "anthropic/claude-opus-5.5",
+  "provider": "anthropic",
+  "image": "nq-depot-agent:0.1",
+  "thinking": "high",
+  "max_requests": 80,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-12T21:20:05.865430+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "exit_code": 0,
+  "finished_utc": "2026-10-12T21:20:19.449145+00:00"
+}

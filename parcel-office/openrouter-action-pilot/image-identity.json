@@ -1,0 +1,12 @@
+{
+  "Id": "sha256:effac96332722da75dac624d3d505576ca0bbc5dfbc7f3e45a7dc32b23c836c3",
+  "RepoTags": [
+    "nq-depot-agent:0.1"
+  ],
+  "RepoDigests": [
+    "nq-depot-agent@sha256:effac96332722da75dac624d3d505576ca0bbc5dfbc7f3e45a7dc32b23c836c3"
+  ],
+  "Created": "2026-10-12T18:47:11.910169636Z",
+  "Architecture": "arm64",
+  "Os": "linux"
+}

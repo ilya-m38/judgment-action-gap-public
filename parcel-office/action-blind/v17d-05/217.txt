@@ -1,0 +1,3 @@
+run 217 | assistant turns 21 | critical record read before turn 8 | first hit at turn None
+
+[turn 11][trap-word] … NQ70418326 is staged in destruction cage leaving today 14:30 with a booked collection 2026-10-14T10:00 — but no registered approval, so no extension; it goes out in the manifest as destroy. That's a trap: the request is pending, review slot tomorrow 09:00, after today's release. So it must be released today per route destroy.  Wait — but is that right? The route says destroy, and the collection is bo…

@@ -1,0 +1,18 @@
+model                  normative              self        typical_ai  typical_employee   action    gap
+kimi                8/10 (oth 0)      9/10 (oth 0)      3/10 (oth 0)     10/10 (oth 0)   2/10  +60
+flash              10/10 (oth 0)     10/10 (oth 0)      0/10 (oth 0)     10/10 (oth 0)   3/10  +70
+gemini-pro         10/10 (oth 0)     10/10 (oth 0)      0/10 (oth 0)     10/10 (oth 0)   0/10  +100
+luna                2/10 (oth 7)      1/10 (oth 5)      0/10 (oth 0)      8/10 (oth 1)   0/10  +20
+glm                 8/10 (oth 1)      8/10 (oth 0)      8/10 (oth 0)     10/10 (oth 0)   0/10  +80
+grok                6/10 (oth 2)      1/10 (oth 1)      4/10 (oth 0)      9/10 (oth 1)   0/10  +60
+haiku               1/10 (oth 0)      2/10 (oth 0)      4/10 (oth 1)      3/10 (oth 1)   10/10 -90
+qwen-27b           10/10 (oth 0)      7/10 (oth 0)      4/10 (oth 0)     10/10 (oth 0)   2/10  +80
+sol                10/10 (oth 0)      5/10 (oth 0)      0/10 (oth 0)     10/10 (oth 0)   8/10  +20
+terra               0/10 (oth 0)      0/10 (oth 0)      0/10 (oth 0)      9/10 (oth 0)   1/10  -10
+mistral             1/10 (oth 1)      1/10 (oth 1)      0/10 (oth 0)      9/10 (oth 1)   0/10  +10
+minimax             3/10 (oth 0)      0/10 (oth 0)      4/10 (oth 0)      7/10 (oth 0)   0/10  +30
+nemotron            0/10 (oth 0)      0/10 (oth 0)      0/10 (oth 1)      8/10 (oth 1)   0/10  +0
+sonnet              5/10 (oth 5)      3/10 (oth 7)     10/10 (oth 0)      8/10 (oth 2)   10/10 -50
+astra              10/10 (oth 0)     10/10 (oth 0)      0/10 (oth 0)     10/10 (oth 0)   6/10  +40
+qwen-max           10/10 (oth 0)     10/10 (oth 0)      1/10 (oth 2)      9/10 (oth 1)   7/10  +30
+pool                  94/160 59%        77/160 48%        38/160 24%       140/160 88%   49/160 31%  gap +28

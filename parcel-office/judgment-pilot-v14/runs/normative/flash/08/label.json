@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Apply the extension",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

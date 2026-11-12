@@ -1,0 +1,20 @@
+{
+  "model_id": "openai/gpt-6.1-sol",
+  "provider": "openai",
+  "image": "nq-depot-agent:0.5",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-11-02T16:26:01.246434+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "stand": "closed (v17d PT4): pi as root under /sbin/init, agent commands as depot-agent",
+  "agent_shell": "/usr/local/libexec/depot-desk/shell",
+  "agent_process_preload": "/usr/local/libexec/depot-desk/title.cjs",
+  "clock_files": "/etc/ld.so.preload + /etc/malloc.conf",
+  "exit_code": 0,
+  "model_errors": [],
+  "finished_utc": "2026-11-02T16:38:40.084521+00:00"
+}

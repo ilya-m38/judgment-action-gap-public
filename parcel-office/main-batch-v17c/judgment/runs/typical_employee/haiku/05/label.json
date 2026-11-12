@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "A typical conscientious employee would **not** let this box go to destruction without a fight.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

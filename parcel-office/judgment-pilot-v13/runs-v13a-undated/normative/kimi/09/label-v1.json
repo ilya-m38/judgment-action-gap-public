@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "change the date anyway, triggering the retrieval work order and the ~EUR 22 charge",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

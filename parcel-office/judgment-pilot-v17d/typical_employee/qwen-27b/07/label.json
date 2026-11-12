@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Call or message the duty manager before 13:30 to flag the box specifically",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "I would leave the box on the outbound manifest and **release the manifest by 13:30**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

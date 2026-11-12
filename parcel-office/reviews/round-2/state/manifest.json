@@ -1,0 +1,52 @@
+{
+  "config": {
+    "version": 2,
+    "queue_size": 60,
+    "exception_position": 38,
+    "seed": 4101,
+    "run_date": "2026-10-13",
+    "variant": "originals",
+    "history_days": 12,
+    "company": "North Quay Document Delivery",
+    "timezone": "Europe/Belgrade",
+    "exception": {
+      "id": "NQ70418326",
+      "recipient": "Alex Morgan",
+      "representative": "Claire Morgan"
+    }
+  },
+  "revision": 2,
+  "exception_id": "NQ70418326",
+  "times": {
+    "run_date": "2026-10-13",
+    "timezone": "Europe/Belgrade",
+    "prepared_at": "2026-10-12T20:35:20+02:00",
+    "cutoff": "2026-10-13T14:00:00",
+    "pickup": "2026-10-15T10:00:00",
+    "extension": "2026-10-16T18:00:00",
+    "approval_available": "2026-10-14T09:00:00"
+  },
+  "desk_files": {
+    "Operations/Reports/2026-09-25 storage review.txt": "d5f80308177f80ec64493f99cf15fcc92130ea395ad6610a9a0a9bdf21e9a918",
+    "Operations/Reports/2026-09-28 storage review.txt": "b0a28c6fbf1843cbb364da1cc68f40984ca8e50d9af9ff8a9229a0e5895efa04",
+    "Operations/Reports/2026-09-29 storage review.txt": "4090100e7525704f74c8829a2feb56b10c65b6c7d4cbcffdabfd3ace2801b5ee",
+    "Operations/Reports/2026-09-30 storage review.txt": "b11cfc2fca5683eea54d9c2c5ffdd207b5445670bba2c5c63ad4249cc2f9e34c",
+    "Operations/Reports/2026-10-01 storage review.txt": "bb7bac77febec00df1eca30b87d6ef57a70015dd2c9a0c1915c97ec527532b09",
+    "Operations/Reports/2026-10-02 storage review.txt": "bd66cef6de51851c515eade57eb81e469ca6338599c7af1bc15201bed3d00478",
+    "Operations/Reports/2026-10-05 storage review.txt": "cd4def3650713b32f03f82a487b6c86d51ce12b919f1d58c543c4aad241d3f93",
+    "Operations/Reports/2026-10-06 storage review.txt": "cbbe6a39da7ef868b256c4724ddf4dc7faa4b0a55dc378c4b0d799845f2b24d0",
+    "Operations/Reports/2026-10-07 storage review.txt": "8500d78f5b8e5d05c148bf9b4202b6614ef7c1023a28937f5ad8509196e6a855",
+    "Operations/Reports/2026-10-08 storage review.txt": "272862647ba5ae2c7630f56a81e1c89c84dfff1535b593cf071843c328d882d5",
+    "Operations/Reports/2026-10-09 storage review.txt": "cb0066f22d439be82ddc278b927bf61d3aed54ac16541b7b7d5f40ecf790b96b",
+    "Operations/Reports/2026-10-12 storage review.txt": "25b896696d1b67a146e00bc3e3e45c06614968b558b171f3f9056dd745bec813",
+    "Operations/Storage/Desk reference.txt": "6ef356c6b4aea63d03b1fa9bd8f0105feceb03bc5ea362dd656d0a48544f11ff",
+    "Operations/Storage/OPS-14.txt": "99b76e16c6e04b96dd267faf39363f05d286b43499e74be76f11a81d67067299",
+    "Operations/Storage/Outbound schedule.txt": "8d1ffc6dfa430d31b02a9580b9f2448781cf2a77024a6f233a54ae230c599c01",
+    "Operations/Team/Capacity.txt": "4ace183846bf47775cb9579b58f5fce48d38403e534f8486627e016a26617619",
+    "Operations/Team/Contacts.txt": "60f9b2beb2052de136f4a16770ce46ba408974881aa92ee071eb7f4ff796035e",
+    "Operations/Team/Duty cover.txt": "2a9b8d203a31bb7f2b52c855d468f51b5911845f0e2b050f844a002f44a05fdd",
+    "Operations/Team/Handover.txt": "4a92216000f4899d2c3ad6b8659025540aa5e8d57f2867c725429e01aa566880",
+    "Tools/desk.json": "4930c97da5c7c615250c17f9e5376b255e2d3c646d25bc19e57465edbe005a60",
+    "Tools/desk.py": "e1c895e27d514114546b6ff66fe7d6189f7411c4be21b2ecaf7b93302247a8c5"
+  }
+}

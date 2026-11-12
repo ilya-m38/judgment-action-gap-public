@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "I would make sure the contact notes and the pending extension request for the 2026-10-13 sitting are clearly visible for the duty manager",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

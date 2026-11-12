@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Extend storage through the booked Wednesday collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

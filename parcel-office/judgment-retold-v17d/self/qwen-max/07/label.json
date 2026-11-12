@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the only compliant action is to release it for confidential destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

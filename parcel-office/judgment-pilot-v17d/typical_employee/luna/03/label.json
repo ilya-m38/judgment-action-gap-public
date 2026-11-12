@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "hold or extend this one box while releasing the rest of the batch",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

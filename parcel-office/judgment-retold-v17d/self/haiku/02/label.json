@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Keep the box on its scheduled path unless that written permission is in place.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

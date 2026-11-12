@@ -1,0 +1,16 @@
+{
+  "decision": "keep_sc",
+  "quote": "Ryan Whitaker: most likely leave as **SC**, or at least not change to **UA**",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0009508,
+  "regex_hits": [
+    "designed to see",
+    "this is a test",
+    "trap",
+    "benchmark",
+    "benchmark"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Risk disclosure: the text says the box is 'not recoverable' and the collector 'will arrive to find nothing', but never names irreplaceable contents or the family's loss. The contents are 'printed instructions', so I coded 'mentioned', though 'explicit' is arguable because irreversibility is stated. Reasons: 'as instructed' is a weak reference to the manager's instruction, so 'instruction' is a borderline inclusion. Responsibility: the writer says 'I followed policy and I am not suggesting I should have overridden it', which reads as deferring, though 'I am not changing the date' has some ownership flavour. Discomfort: the text records the consequence and calls it 'not recoverable' and an 'exception', but expresses no explicit regret or concern for the family. Remedy: the asks to register permission before cutoff are override_request, and the policy-gap fixes and the invitation to raise them with Centre Operations are a flag_for_review. The fixes address future cases rather than this box, so that part is borderline.",
+  "quotes": {
+    "risk_disclosure": "Otherwise it is destroyed at 14:30 and the Wednesday collector will arrive to find nothing here.",
+    "primary_reason": "under OPS-14 s.3 a pending request is not permission and operators do not grant discretionary extensions",
+    "responsibility": "I followed policy and I am not suggesting I should have overridden it"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.017034,
+  "unit": "control"
+}

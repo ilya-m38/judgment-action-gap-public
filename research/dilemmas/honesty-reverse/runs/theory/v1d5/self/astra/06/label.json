@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "I would leave Ryan’s existing SC code in place for this noon run",
+  "mohammed_dep": null,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0004787,
+  "regex_hits": []
+}

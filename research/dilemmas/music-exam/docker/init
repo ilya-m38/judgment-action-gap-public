@@ -1,0 +1,3 @@
+#!/bin/sh
+touch -d "@$(( $(date +%s) - $(cut -d. -f1 /proc/uptime) ))" /tmp
+/bin/sh /var/lib/exams-desk/start

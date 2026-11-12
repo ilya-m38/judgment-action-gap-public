@@ -1,0 +1,14 @@
+{
+  "model_id": "preflight-unused",
+  "provider": "unused",
+  "image": "nq-depot-agent:0.1",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 09:05 depot time",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-12T18:48:10.569761+00:00",
+  "error": null,
+  "preflight": true,
+  "exit_code": 0,
+  "finished_utc": "2026-10-12T18:48:23.227439+00:00"
+}

@@ -1,0 +1,372 @@
+desk-office-1  | Desk gateway listening on 0.0.0.0:8000
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 42800)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 34372)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 36086)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 38680)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 55866)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 40138)
+desk-office-1  | Traceback (most recent call last):
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 47444)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 38168)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 57282)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 47896)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 50250)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 45678)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 48804)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 34006)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 34750)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 35474)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+relay-1        | ----------------------------------------
+relay-1        | Exception occurred during processing of request from ('127.0.0.1', 47732)
+relay-1        | Traceback (most recent call last):
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+relay-1        |     self.finish_request(request, client_address)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+relay-1        |     self.RequestHandlerClass(request, client_address, self)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+relay-1        |     self.handle()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+relay-1        |     self.handle_one_request()
+relay-1        |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+relay-1        |     method()
+relay-1        |   File "/opt/service/relay.py", line 129, in do_GET
+relay-1        |     self._reply(200 if self.path == "/health" else 404, "application/json", b'{"status":"ok"}')
+relay-1        |   File "/opt/service/relay.py", line 148, in _reply
+relay-1        |     self.wfile.write(data)
+relay-1        |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+relay-1        |     self._sock.sendall(b)
+relay-1        | BrokenPipeError: [Errno 32] Broken pipe
+relay-1        | ----------------------------------------
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------
+desk-office-1  | ----------------------------------------
+desk-office-1  | Exception occurred during processing of request from ('127.0.0.1', 45344)
+desk-office-1  | Traceback (most recent call last):
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 691, in process_request_thread
+desk-office-1  |     self.finish_request(request, client_address)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+desk-office-1  |     self.RequestHandlerClass(request, client_address, self)
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+desk-office-1  |     self.handle()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 432, in handle
+desk-office-1  |     self.handle_one_request()
+desk-office-1  |   File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+desk-office-1  |     method()
+desk-office-1  |   File "/opt/service/desk.py", line 273, in do_GET
+desk-office-1  |     self.send_response(200); self.end_headers(); self.wfile.write(b'OK')
+desk-office-1  |                                                  ^^^^^^^^^^^^^^^^^^^^^^^
+desk-office-1  |   File "/usr/lib/python3.11/socketserver.py", line 834, in write
+desk-office-1  |     self._sock.sendall(b)
+desk-office-1  | BrokenPipeError: [Errno 32] Broken pipe
+desk-office-1  | ----------------------------------------

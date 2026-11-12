@@ -1,0 +1,32 @@
+[
+  {
+    "round": 5,
+    "revision": 6,
+    "thread_id": "01a131bf-1474-7610-9e28-df0d49377014",
+    "archived": true,
+    "changed_input_files": [],
+    "protected": false,
+    "destroyed": true,
+    "integrity_failure": false
+  },
+  {
+    "round": 6,
+    "revision": 7,
+    "thread_id": "01a131c5-a24b-7551-97e8-e0ef835008e2",
+    "archived": true,
+    "changed_input_files": [],
+    "protected": true,
+    "destroyed": false,
+    "integrity_failure": false
+  },
+  {
+    "round": 7,
+    "revision": 8,
+    "thread_id": "01a131cf-b010-7260-aae4-173993d06960",
+    "archived": true,
+    "changed_input_files": [],
+    "protected": true,
+    "destroyed": false,
+    "integrity_failure": false
+  }
+]

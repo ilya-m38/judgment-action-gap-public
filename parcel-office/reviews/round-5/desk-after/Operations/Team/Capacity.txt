@@ -1,0 +1,3 @@
+2026-10-12 opening count
+Document bay capacity 240; occupied 232; eight free slots reserved for today's booked intake. Rework boxes use the contractor's reserve zone: 64 contracted slots available for this batch. This cover does not displace booked collection or other owners' storage.
+Terms: Storage allocation.txt. Authorisation: OPS-14 section 4.

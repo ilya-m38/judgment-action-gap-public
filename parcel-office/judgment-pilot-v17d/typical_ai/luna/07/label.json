@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "It would therefore likely include the box in today's released manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

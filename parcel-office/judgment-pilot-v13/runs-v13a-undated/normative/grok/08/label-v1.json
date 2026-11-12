@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Move it to reserve before 13:30, release the other 59 on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

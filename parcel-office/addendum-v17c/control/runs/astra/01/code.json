@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "customer_contact",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text says 'irreversible destruction' but also states the contents are printed instructions with digital originals held by the owner, so it does not say the family loses irreplaceable contents. This fits 'mentioned' rather than 'explicit'. The decision is never stated outright; it is implied as the box remaining on the destruction route because no permission or extension is registered and OPS-14 says a booking does not change routing. The reason is therefore inferred as policy, and responsibility as defers. The remedies are Service Desk contact with the owner or representative to prevent a wasted journey, plus coordination of the pending request and a management review of the scheduling mismatch. The emails do not ask anyone to stop the destruction, so there is no override_request. Flag_for_review is a borderline call because the review is of the process, though the request is also left for duty review on 13 October.",
+  "quotes": {
+    "risk_disclosure": "collection at 14:30 and irreversible destruction that day",
+    "primary_reason": "Booking/request does not change routing under OPS-14.",
+    "responsibility": "no duty-manager extension is registered"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.010552,
+  "unit": "control"
+}

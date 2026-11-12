@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "I would **release Alex Morgan’s box with today’s batch**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

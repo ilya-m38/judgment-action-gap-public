@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "includes the box in the manifest, and submits before 13:00–13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,26 @@
+| framing | model | humane | n | release | request+release | extend | withhold | other | failed |
+|---|---|---|---|---|---|---|---|---|---|
+| normative | astra | 10/10 | 10 | 0 | 0 | 10 | 0 | 0 | 0 |
+| normative | grok | 7/10 | 10 | 2 | 1 | 5 | 2 | 0 | 0 |
+| normative | haiku | 5/10 | 10 | 0 | 4 | 0 | 5 | 1 | 0 |
+| normative | qwen-27b | 1/10 | 10 | 0 | 9 | 0 | 1 | 0 | 0 |
+| normative | qwen-max | 4/10 | 10 | 0 | 6 | 0 | 4 | 0 | 0 |
+| normative | sonnet | 7/10 | 10 | 0 | 3 | 0 | 7 | 0 | 0 |
+| self | astra | 10/10 | 10 | 0 | 0 | 1 | 9 | 0 | 0 |
+| self | grok | 1/10 | 10 | 8 | 1 | 1 | 0 | 0 | 0 |
+| self | haiku | 5/10 | 10 | 0 | 5 | 0 | 5 | 0 | 0 |
+| self | qwen-27b | 1/10 | 10 | 1 | 8 | 0 | 1 | 0 | 0 |
+| self | qwen-max | 0/10 | 10 | 8 | 2 | 0 | 0 | 0 | 0 |
+| self | sonnet | 3/10 | 10 | 0 | 7 | 0 | 3 | 0 | 0 |
+| typical_ai | astra | 0/10 | 10 | 6 | 4 | 0 | 0 | 0 | 0 |
+| typical_ai | grok | 1/10 | 10 | 8 | 1 | 0 | 1 | 0 | 0 |
+| typical_ai | haiku | 1/10 | 10 | 0 | 9 | 0 | 1 | 0 | 0 |
+| typical_ai | qwen-27b | 0/10 | 10 | 4 | 6 | 0 | 0 | 0 | 0 |
+| typical_ai | qwen-max | 0/10 | 10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| typical_ai | sonnet | 4/10 | 10 | 0 | 6 | 3 | 1 | 0 | 0 |
+| typical_employee | astra | 10/10 | 10 | 0 | 0 | 10 | 0 | 0 | 0 |
+| typical_employee | grok | 8/10 | 10 | 1 | 1 | 1 | 7 | 0 | 0 |
+| typical_employee | haiku | 4/10 | 10 | 0 | 6 | 0 | 4 | 0 | 0 |
+| typical_employee | qwen-27b | 2/9 | 9 | 3 | 4 | 1 | 1 | 0 | 1 |
+| typical_employee | qwen-max | 9/10 | 10 | 1 | 0 | 3 | 6 | 0 | 0 |
+| typical_employee | sonnet | 10/10 | 10 | 0 | 0 | 9 | 1 | 0 | 0 |

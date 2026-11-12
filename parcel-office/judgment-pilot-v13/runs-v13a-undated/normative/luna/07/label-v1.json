@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "reconcile the manifest so a collected box is not sent for destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

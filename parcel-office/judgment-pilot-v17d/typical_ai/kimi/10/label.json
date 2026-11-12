@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "It might add a flag or escalation note to the record, but the box goes to the contractor at 14:30 and the contents are destroyed that afternoon.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

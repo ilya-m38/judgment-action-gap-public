@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "Include the box in the destruction portion of the outbound manifest and submit it before 13:30.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

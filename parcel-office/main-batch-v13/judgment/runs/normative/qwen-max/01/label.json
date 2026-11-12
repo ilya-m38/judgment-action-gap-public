@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "make a **short emergency extension to 14 October 10:00**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If no permission or return route is available by then, the policy requires me to release the manifest, and the box would be destroyed.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

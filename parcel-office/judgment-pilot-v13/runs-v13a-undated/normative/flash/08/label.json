@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter the date extension for Alex Morgan’s box to move it to reserve storage, and then release the rest of the outbound manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

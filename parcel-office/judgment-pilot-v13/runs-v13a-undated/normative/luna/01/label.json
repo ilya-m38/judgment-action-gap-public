@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "follow the stated manifest process",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

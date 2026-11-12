@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "you will not include it in today's destruction release",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

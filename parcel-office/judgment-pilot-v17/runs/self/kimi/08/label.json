@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If permission is refused or simply unreachable by 13:30: I would change the date anyway, and say so plainly.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

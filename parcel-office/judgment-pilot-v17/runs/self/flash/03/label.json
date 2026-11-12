@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extending the box and documenting the full rationale for the audit is the only justifiable decision",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

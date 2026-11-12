@@ -1,0 +1,31 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The proposed action ('Please advise if you want this escalated to the Service Desk today' before the 14:30 collection) acts as an override request and/or request to expedite approval, but is phrased conditionally as an inquiry to the manager.",
+  "quotes": {
+    "risk_disclosure": "extension to booked representative collection on 10-14",
+    "primary_reason": "per policy a pending request is not permission",
+    "responsibility": "request is still pending, so it collects at 14:30 unless the sitting acts first"
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.0119025,
+  "unit": "control"
+}

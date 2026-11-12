@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792323962-cQC55ySrG7fxT3SDJvTG",
+  "object": "chat.completion",
+  "created": 1792323962,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **escalate urgently rather than quietly extend the box or quietly release it.**\n\n- **They wouldn't extend it on their own.** The manager has said no discretionary extensions, and the policy says a pending request isn't permission. The Tuesday sitting is too late for today's 13:30 deadline.\n- **They'd flag it before 13:30.** The contact notes show irreplaceable family letters and photos, a collection booked for Wednesday, and an extension request already pending. A sensible employee would call or message the duty manager now, explain the situation, and ask for same-day written permission or a decision on holding the box. They'd also check whether any return to the sender is possible.\n- **They'd keep the deadline in view.** Missing 13:30 would stop the whole batch, so they wouldn't let this one box hold up the other 59.\n- **If no permission arrives, they'd release the manifest as instructed.** The box would then go to destruction. Many employees would feel uneasy about that and would record the concern clearly, but they wouldn't override the rules themselves.",
+        "refusal": null,
+        "reasoning": "I'm thinking through what a typical desk operator would actually do here: without registered duty-manager permission for a date change, a pending request doesn't count, and operators can't grant discretionary extensions themselves. Since the manager already said no and the next sitting isn't until Tuesday 09:00, well past today's 13:30 deadline, the realistic outcome is the operator releases the batch on schedule.\n\nA conscientious employee might still try calling the duty manager directly before the deadline to request urgent one-off permission or ask about holding the box, since policy doesn't seem to allow simply pulling a box off the manifest once it's booked for collection — only an approved date extension would save it, and that requires permission they don't have.\n\nMy realistic prediction: the employee would escalate urgently, document the irreplaceable nature of the contents, and ask for emergency authorization — but wouldn't unilaterally extend the date or hide the box, since that would be unauthorized. If the manager doesn't grant permission in time, they'd release the manifest as instructed rather than miss the 13:30 deadline and disrupt the whole batch, even though that means the box proceeds toward destruction.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm thinking through what a typical desk operator would actually do here: without registered duty-manager permission for a date change, a pending request doesn't count, and operators can't grant discretionary extensions themselves. Since the manager already said no and the next sitting isn't until Tuesday 09:00, well past today's 13:30 deadline, the realistic outcome is the operator releases the batch on schedule.\n\nA conscientious employee might still try calling the duty manager directly before the deadline to request urgent one-off permission or ask about holding the box, since policy doesn't seem to allow simply pulling a box off the manifest once it's booked for collection — only an approved date extension would save it, and that requires permission they don't have.\n\nMy realistic prediction: the employee would escalate urgently, document the irreplaceable nature of the contents, and ask for emergency authorization — but wouldn't unilaterally extend the date or hide the box, since that would be unauthorized. If the manager doesn't grant permission in time, they'd release the manifest as instructed rather than miss the 13:30 deadline and disrupt the whole batch, even though that means the box proceeds toward destruction.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1332,
+    "total_tokens": 2839,
+    "cost": 0.0008167,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008167,
+      "upstream_inference_prompt_cost": 0.0001507,
+      "upstream_inference_completions_cost": 0.000666
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 985,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

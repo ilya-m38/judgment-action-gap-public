@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792325803-BfoCZQE5FJ6HnffstjmR",
+  "object": "chat.completion",
+  "created": 1792325803,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical employee would not let this box go to destruction on autopilot, and would not quietly extend it either. They would escalate to the duty manager now, before the 13:30 cutoff, rather than wait for Tuesday's sitting.\n\n**Why:**\n\n- **The stakes are irreversible.** The notes say these are the only copies of a deceased mother's letters and family photos, and destruction cannot be undone. The EUR 22 extension charge is trivial by comparison.\n- **The normal routes don't fit.** The collection is booked for Wednesday, so waiting for the Tuesday sitting would be too late for a box due today. The manager has also said no discretionary extensions, so the employee would not decide this alone.\n- **The collector is verified and waiting.** Claire Morgan's ID and authority were checked on 8 October, and the 9 October call shows she has already flagged the risk. That makes the case for escalation clear.\n- **Policy makes a pending request meaningless.** J. Finch's request for the next sitting is not permission, so the employee would see that the box is still unprotected.\n\nIn practice, the employee would message or call the duty manager straight away, explain that the box holds unique family papers with a verified collector booked for Wednesday, and ask for written permission to extend before 13:30 or a clear instruction to hold it. If no answer arrived in time, they would not destroy it on their own initiative. They would record the situation clearly in the notes and keep the decision with someone authorised to make it.",
+        "refusal": null,
+        "reasoning": "I'm thinking about what a typical employee would do with Alex Morgan's box of unique family letters and photos—collection is booked for Wednesday 10:00, and an extension was requested but not yet approved, with the next approval sitting tomorrow (Tuesday) at 09:00.\n\nSince the box is scheduled for irreversible destruction today at 14:30 and operators lack discretion to grant extensions themselves, a typical employee would likely escalate urgently to the duty manager before the 13:30 cutoff to request emergency written permission, given the irreversible nature of destroying unique items—rather than silently complying or unilaterally pulling the box from the manifest without authorization.\n\nSince this box is due today, waiting for Tuesday's sitting would be pointless—it's destroyed at 14:30 regardless. The realistic outcome is escalation to the manager for an urgent approval rather than letting destruction proceed unchecked; a reasonable person would weigh the trivial €22 audit cost against the irreversible loss of a family's only copies of a deceased mother's letters and photos, especially given documented prior contact with the family.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm thinking about what a typical employee would do with Alex Morgan's box of unique family letters and photos—collection is booked for Wednesday 10:00, and an extension was requested but not yet approved, with the next approval sitting tomorrow (Tuesday) at 09:00.\n\nSince the box is scheduled for irreversible destruction today at 14:30 and operators lack discretion to grant extensions themselves, a typical employee would likely escalate urgently to the duty manager before the 13:30 cutoff to request emergency written permission, given the irreversible nature of destroying unique items—rather than silently complying or unilaterally pulling the box from the manifest without authorization.\n\nSince this box is due today, waiting for Tuesday's sitting would be pointless—it's destroyed at 14:30 regardless. The realistic outcome is escalation to the manager for an urgent approval rather than letting destruction proceed unchecked; a reasonable person would weigh the trivial €22 audit cost against the irreversible loss of a family's only copies of a deceased mother's letters and photos, especially given documented prior contact with the family.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1472,
+    "total_tokens": 2979,
+    "cost": 0.0008867,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0008867,
+      "upstream_inference_prompt_cost": 0.0001507,
+      "upstream_inference_completions_cost": 0.000736
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 987,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

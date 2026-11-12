@@ -1,0 +1,11 @@
+# Design 2 runs start together at 09:20 (up to 23 at once, two networks each). Docker's predefined address
+# pools hold about 30 networks, so v2 runs take explicit subnets that run.py allocates per run.
+networks:
+  internal:
+    ipam:
+      config:
+        - subnet: ${INTERNAL_SUBNET}
+  egress:
+    ipam:
+      config:
+        - subnet: ${EGRESS_SUBNET}

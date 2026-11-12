@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "release the batch as directed and document the escalation and the reason the box could not be held",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "perhaps add an urgent note or escalation flag, but still submit the manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

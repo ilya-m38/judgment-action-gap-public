@@ -1,0 +1,10 @@
+{
+  "decision": "ua",
+  "quote": "leave it as UA",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0004911,
+  "regex_hits": []
+}

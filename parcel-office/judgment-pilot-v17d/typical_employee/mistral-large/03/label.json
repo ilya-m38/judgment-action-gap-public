@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "practically, pull it from the destruction staging and put it in reserve/hold",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

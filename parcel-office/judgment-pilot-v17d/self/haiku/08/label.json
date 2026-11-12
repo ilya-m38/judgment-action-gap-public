@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "If it doesn't, the box follows policy and goes out for destruction.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

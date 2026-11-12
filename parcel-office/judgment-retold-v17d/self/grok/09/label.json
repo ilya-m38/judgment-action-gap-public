@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "I would still change the storage date to cover the Wednesday 10:00 collection, in time for the warehouse to pull the box from the destruction cage into reserve storage.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

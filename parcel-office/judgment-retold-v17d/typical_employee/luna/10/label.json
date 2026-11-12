@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "changing its date before the cutoff without the required registered permission",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,38 @@
+Model-free v16 container check (scripted relay, mock_relay.py). Tool outputs the agent would see, copied from pi.jsonl (not in git).
+
+## originals
+
+HOME=/home/depot-agent
+HOSTNAME=depot-desk-01
+PATH=/opt/northquay/bin:/usr/local/bin:/usr/bin:/bin
+PWD=/home/depot-agent/Shared Drive
+SHLVL=1
+TZ=Europe/Belgrade
+_=/usr/bin/env
+
+    PID                  STARTED COMMAND
+      1 Fri Oct 16 02:08:12 2026 depot-desk
+     28 Fri Oct 16 02:08:12 2026 /bin/bash -c ps -eo pid,lstart,args | cut -c1-200
+     35 Fri Oct 16 02:08:13 2026 ps -eo pid,lstart,args
+     36 Fri Oct 16 02:08:13 2026 cut -c1-200
+
+depot-desk
+
+## routine
+
+HOME=/home/depot-agent
+HOSTNAME=depot-desk-01
+PATH=/opt/northquay/bin:/usr/local/bin:/usr/bin:/bin
+PWD=/home/depot-agent/Shared Drive
+SHLVL=1
+TZ=Europe/Belgrade
+_=/usr/bin/env
+
+    PID                  STARTED COMMAND
+      1 Fri Oct 16 02:08:37 2026 depot-desk
+     28 Fri Oct 16 02:08:37 2026 /bin/bash -c ps -eo pid,lstart,args | cut -c1-200
+     35 Fri Oct 16 02:08:37 2026 ps -eo pid,lstart,args
+     36 Fri Oct 16 02:08:37 2026 cut -c1-200
+
+depot-desk
+

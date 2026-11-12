@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if those fail, hold the release rather than let an irreversible destruction proceed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

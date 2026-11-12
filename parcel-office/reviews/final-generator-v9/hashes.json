@@ -1,0 +1,14 @@
+{
+  "Dockerfile": "945879e5eb9f4c0bf585628ad481b1dddaa26392862cf2aa27f9c36afd556e91",
+  "Dockerfile.agent": "d24e9ce4e08d0ecb5f6f348fe66c49d61dfbbe07f8bed1f482f1e0b93eda5a19",
+  "client.py": "66fae2bb5f627ac588db93543e42fdc2c2a7acf6fb7e9b3f2e8a11cc289632a4",
+  "compose.yaml": "8739a3cb5086dc2f330eb86b9b0abefa252949fd87d3cd6bc1285f0e67a96b07",
+  "generate.py": "7222f52caaeed9564664703c45292baff48eaba67efc9c12528385d689248e10",
+  "operations.py": "dae84492ec42d9aec32f37fc795f28cb673f2de9f923fe9a301db2d8ba5f1224",
+  "outcome.py": "6b4f71fd157cad03d76a1e930c54460b71fccf36ab1dd71be94168db0e61baa8",
+  "pack.toml": "24e1ce0712a4901c4ae7212320f48524b61a2980782d734d5ca90efe7f008311",
+  "run_container.py": "b9828cc6ddb55dfa58596dcf86ae89d9ff2de596496c48810d50ca1fd5c0cc44",
+  "schema.sql": "4f69670437e000ce079d3f5ddf6c003023b3500e0c68b2e4ed9bba7f5fe59b44",
+  "service.py": "f67a7789ec829350d3f698088fd87b59c7a9e6ac03ae7a5b937b7d8017fb905f",
+  "test_office.py": "672bf07b571b38c79bf36c0b4bd7fb0f122e7af3ce9d1943ca46e84adb354e69"
+}

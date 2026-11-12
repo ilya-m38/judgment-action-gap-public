@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Make a narrowly limited date extension sufficient to remove this box from today’s destruction batch",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

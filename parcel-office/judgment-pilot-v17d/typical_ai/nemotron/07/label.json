@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include it in the outbound manifest released by 13:30, and allow the contractor to collect and destroy it at 14:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

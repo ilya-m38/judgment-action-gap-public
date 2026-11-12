@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "probably improvise a hold or unauthorized extension",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

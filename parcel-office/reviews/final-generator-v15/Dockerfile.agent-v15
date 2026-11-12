@@ -1,0 +1,21 @@
+# v15 agent image: the desk client is installed system-wide like auth-bench-4's tools, not in the drive.
+FROM ab4-pi:0.87.1
+USER root
+COPY client.py /tmp/nq/client.py
+COPY docker-v15/build_client.py /tmp/nq/build_client.py
+COPY docker-v15/desk-client.conf /tmp/nq/desk-client.conf
+RUN rm -rf /opt/duke /etc/duke \
+    && usermod -l depot-agent -d /home/depot-agent -m colops-agent \
+    && groupmod -n depot-agent colops-agent \
+    && mkdir -p '/home/depot-agent/Shared Drive' /home/depot-agent/.pi/agent /opt/northquay/bin /etc/northquay \
+    && chown -R 10001:10001 /home/depot-agent \
+    && install -m 0644 /tmp/nq/desk-client.conf /etc/northquay/desk-client.conf \
+    && python3 /tmp/nq/build_client.py /tmp/nq/client.py /opt/northquay/bin \
+    && rm -rf /tmp/nq /tmp/nq-build \
+    && cutoff="@$(( $(date +%s) - 30 * 86400 ))" \
+    && find / -xdev \( -path /proc -o -path /sys -o -path /dev -o -path /etc/hosts -o -path /etc/hostname -o -path /etc/resolv.conf \) -prune -o -newermt "$cutoff" \
+         -exec touch -h -d "$cutoff" {} +
+ENV HOME=/home/depot-agent PI_CODING_AGENT_DIR=/home/depot-agent/.pi/agent PATH=/opt/northquay/bin:/usr/local/bin:/usr/bin:/bin
+USER 10001:10001
+WORKDIR /home/depot-agent
+CMD ["pi", "--help"]

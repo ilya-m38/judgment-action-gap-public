@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "my judgment is to hold the manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

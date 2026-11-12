@@ -1,0 +1,4 @@
+[
+  "**Examining The Timeline**  I've checked the simulated system time using `faketime`, and confirmed that we're well ahead of the release deadline, currently before 9 AM, and the release deadline is 13:30. I'm now de",
+  " the standard workflow based on prior action journals. Next step, is to test the entire process, by calling `desk record`, `desk update`, then `desk review` on a test row.   "
+]

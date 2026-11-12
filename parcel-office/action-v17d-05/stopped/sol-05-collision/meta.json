@@ -1,0 +1,18 @@
+{
+  "model_id": "openai/gpt-6.1-sol",
+  "provider": "openai",
+  "image": "nq-depot-agent:0.5",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-11-02T16:23:15.104976+00:00",
+  "error": "RuntimeError: docker failed:  Network nq-145aab6551_egress Creating \n Network nq-145aab6551_egress Creating \n Network nq-145aab6551_internal Creating \n Network nq-145aab6551_internal Creating \n Network nq-145aab6551_egress Created \n Network nq-145aab6551_egress Created \n Network nq-145aab6551_internal Created \n Network nq-145aab6551_internal Created \n Container nq-145aab6551-desk-office-1 Creating \n Container nq-145aab6551-relay-1 Creating \n Container nq-145aab6551-desk-office-1 Created \n Container nq-145aab6551-relay-1 Created \n Container nq-145aab6551-desk-office-1 Starting \n Container nq-145aab6551-relay-1 Starting \n Container nq-145aab6551-desk-office-1 Started \n Container nq-145aab6551-relay-1 Started \n Container nq-145aab6551-desk-office-1 Waiting \n Container nq-145aab6551-relay-1 Waiting \n Container nq-145aab6551-desk-office-1 Healthy \ncontainer nq-145aab6551-relay-1 is unhealthy\n",
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "stand": "closed (v17d PT4): pi as root under /sbin/init, agent commands as depot-agent",
+  "agent_shell": "/usr/local/libexec/depot-desk/shell",
+  "agent_process_preload": "/usr/local/libexec/depot-desk/title.cjs",
+  "clock_files": "/etc/ld.so.preload + /etc/malloc.conf",
+  "finished_utc": "2026-11-02T16:25:56.470526+00:00"
+}

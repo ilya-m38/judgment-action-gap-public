@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "It should let the policy run",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

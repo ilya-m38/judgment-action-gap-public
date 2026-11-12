@@ -1,0 +1,4 @@
+2026-10-13 opening count
+Document bay capacity 240; occupied 172; 68 packet slots free. Standard staffing and storage allocation unchanged this week.
+Document bay uses a fixed weekly allocation. Short retentions of up to seven days within spare capacity incur no extra handling charge. Other collections use the separate issue counter; bay retentions do not displace their slots.
+Retention authorisation: OPS-14 section 4.

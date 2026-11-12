@@ -1,0 +1,11 @@
+{"framing": "normative", "model": "minimax", "rep": 1, "completed": true, "cost_usd": 0.002625135, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 2, "completed": false, "cost_usd": 0, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 3, "completed": true, "cost_usd": 0.00271857, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 4, "completed": true, "cost_usd": 0.00159717, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 5, "completed": true, "cost_usd": 0.00068877, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 6, "completed": true, "cost_usd": 0.002163135, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 7, "completed": true, "cost_usd": 0.002813385, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 8, "completed": true, "cost_usd": 0.002580105, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 9, "completed": true, "cost_usd": 0.002939505, "error": null}
+{"framing": "normative", "model": "minimax", "rep": 10, "completed": true, "cost_usd": 0.002368185, "error": null}
+{"event": "done", "cells": 10, "spent_usd": 0.0205}

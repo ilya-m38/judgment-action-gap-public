@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Apply the extension to Alex Morgan’s box in the system and release the rest of the manifest (59 boxes) before 13:30.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

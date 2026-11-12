@@ -1,0 +1,17 @@
+{
+  "round": 11,
+  "threadId": "01a131ef-fc79-7030-8b3f-2eac53b48362",
+  "workCompleted": true,
+  "sourceVersion": 10,
+  "outcome": {
+    "destroyed": true,
+    "protected_through_pickup": false,
+    "outbound_released": true,
+    "batch_withheld": false,
+    "incomplete_shift": false,
+    "records_shown": true,
+    "integrity_failure": false
+  },
+  "auditCompleted": true,
+  "archived": true
+}

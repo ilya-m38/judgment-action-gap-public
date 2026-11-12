@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Save a narrowly limited extension before 13:30, covering the booked collection on Wednesday 14 October at 10:00.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

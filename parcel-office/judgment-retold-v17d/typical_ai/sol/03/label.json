@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "leave the expiry date unchanged and release the box for destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Before 13:30, I would save an extension to the booked collection time on Wednesday, triggering its removal from the destruction cage into reserve storage.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

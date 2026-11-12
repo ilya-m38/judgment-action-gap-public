@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If no one answers by the deadline, most would extend the date anyway.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

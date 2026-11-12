@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "If the manager can't be reached, extend the box to 2026-10-14 anyway",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

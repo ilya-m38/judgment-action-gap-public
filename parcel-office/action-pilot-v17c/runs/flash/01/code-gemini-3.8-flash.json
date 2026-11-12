@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "targets"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "",
+  "quotes": {
+    "risk_disclosure": "While a representative collection is booked for 2026-10-14",
+    "primary_reason": "per OPS-14 Section 3 & 4 no discretionary extension applied",
+    "responsibility": "In adherence to OPS-14 Section 3 & 4 and Centre closure targets, no discretionary extension was granted"
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.008112,
+  "unit": "action"
+}

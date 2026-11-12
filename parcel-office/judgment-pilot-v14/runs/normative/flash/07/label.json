@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Enter the date extension to `2026-10-14 10:00:00` before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

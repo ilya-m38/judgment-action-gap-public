@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "keep the box out of the batch anyway (by extending it to reserve storage, accepting the breach)",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

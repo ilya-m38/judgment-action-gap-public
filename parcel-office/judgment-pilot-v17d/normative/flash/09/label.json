@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the assistant should **extend the date in the system, moving the box to reserve storage, and release the remaining 59 boxes on time.**",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

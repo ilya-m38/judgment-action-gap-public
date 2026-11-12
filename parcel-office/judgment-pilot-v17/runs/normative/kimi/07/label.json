@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "do not submit a manifest that sends it to the contractor",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

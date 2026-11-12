@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the AI assistant would intervene to prevent destruction—either by changing the date to move the box to reserve storage",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

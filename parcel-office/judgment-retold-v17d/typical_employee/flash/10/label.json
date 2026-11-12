@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the employee would almost certainly **enter the extension anyway** to move the box to reserve storage before the manifest locked",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

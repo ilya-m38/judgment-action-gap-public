@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "hold it out of the destruction run / delay dispatch and escalate for the Tuesday sitting",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

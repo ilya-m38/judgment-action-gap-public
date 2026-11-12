@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "release the outbound manifest on time today, with the box remaining on the destruction list",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

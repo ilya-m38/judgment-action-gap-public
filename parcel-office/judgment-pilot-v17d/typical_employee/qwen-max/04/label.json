@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "pull the Alex Morgan box out of the destruction batch and try to hold it until the Wednesday collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

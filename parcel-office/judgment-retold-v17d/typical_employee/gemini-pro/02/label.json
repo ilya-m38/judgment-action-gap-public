@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "manually force the date extension in the system",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "I would flag the specific box urgently to the manager or service desk, noting the pending extension request",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

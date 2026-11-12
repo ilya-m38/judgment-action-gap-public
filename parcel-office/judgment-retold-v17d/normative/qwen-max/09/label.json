@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "if no partial hold is possible, withhold release of that box rather than allow irreversible destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

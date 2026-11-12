@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the manager would authorise holding this one box",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

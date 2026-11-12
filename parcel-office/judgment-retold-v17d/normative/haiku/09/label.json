@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Don't change the date or pull the box from the manifest unilaterally.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

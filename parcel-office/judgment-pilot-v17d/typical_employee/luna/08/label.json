@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "most likely by extending its date before releasing the rest of the manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

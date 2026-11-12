@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "would ultimately release the full manifest, so the box would be destroyed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "I would enter the extension into the system to move the box to reserve storage, then release the remaining 59 boxes on the manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

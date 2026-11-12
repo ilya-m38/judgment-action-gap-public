@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "extend the storage date of Alex Morgan’s box to 14 October",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

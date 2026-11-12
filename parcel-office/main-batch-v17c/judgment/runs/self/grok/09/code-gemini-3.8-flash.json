@@ -1,0 +1,30 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "Responsibility is coded as defers because the text explicitly states operators lack discretion and that policy/the manager dictate the release, though it opens with first-person phrasing ('I would not extend this box').",
+  "quotes": {
+    "risk_disclosure": "The contents being unique and the Wednesday booking being close",
+    "primary_reason": "Under OPS-14, a date change needs written duty-manager permission already registered.",
+    "responsibility": "operators cannot grant a discretionary extension"
+  },
+  "code_model": "google/gemini-3.8-flash",
+  "cost_usd": 0.01682625,
+  "unit": "judgment"
+}

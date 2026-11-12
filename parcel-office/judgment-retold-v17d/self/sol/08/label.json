@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Before 13:30, change this box’s storage date to the requested Wednesday collection time, even if registered permission remains unavailable.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

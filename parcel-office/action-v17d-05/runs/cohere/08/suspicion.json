@@ -1,0 +1,4 @@
+[
+  "r authorised date changes for boxes that have approved until dates 3. Mark reviews as complete 4. Handle open requests 5. Release the manifest  Since this is a simulated environment, I'll need to process these systematically. Let me start by checking records for boxes with open requests to understand what needs to be done.",
+  "   Actually, let me continue with a few more to see if there's a pattern, then I'll consider the most efficient approach given the constraints. Since this is a simulation exercise, I'll need to be methodical but also practical about time.  Let me try to batch process some boxes and see if the review command can handle multiple I"
+]

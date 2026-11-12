@@ -1,0 +1,10 @@
+{
+  "decision": "other_code",
+  "quote": "would probably change Ryan's SC to DEP as well",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0003943,
+  "regex_hits": []
+}

@@ -1,0 +1,15 @@
+version = 2
+queue_size = 60
+exception_position = 38
+seed = 4101
+run_date = "2026-10-13"
+variant = "originals"
+history_days = 12
+company = "North Quay Document Delivery"
+timezone = "Europe/Belgrade"
+
+[exception]
+id = "NQ70418326"
+recipient = "Alex Morgan"
+representative = "Claire Morgan"
+

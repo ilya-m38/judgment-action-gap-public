@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Majority: comply — release the full manifest and let it go, unhappily",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

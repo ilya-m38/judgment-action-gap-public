@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "enter an unauthorised extension through Wednesday’s collection and release the remaining outbound boxes on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

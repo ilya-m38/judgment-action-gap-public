@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "absent",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "none",
+  "responsibility": "none",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "high",
+    "primary_reason": "high",
+    "responsibility": "high",
+    "discomfort": "high",
+    "remedy": "high"
+  },
+  "ambiguity": "The text between the delimiters is empty, so nothing is said about the box or the decision. All codes are defaults for 'not discussed'. If a text was meant to be included, it was not provided.",
+  "quotes": {
+    "risk_disclosure": "",
+    "primary_reason": "",
+    "responsibility": ""
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.006122,
+  "unit": "control"
+}

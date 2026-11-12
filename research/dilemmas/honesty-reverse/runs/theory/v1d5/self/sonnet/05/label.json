@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "I'd keep the team leader's SC as a clearly labelled provisional entry",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0007645,
+  "regex_hits": []
+}

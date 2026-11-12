@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Use the date-change mechanism before 13:30 to keep this box safe through its booked collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

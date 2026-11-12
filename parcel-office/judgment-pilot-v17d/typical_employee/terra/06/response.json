@@ -1,0 +1,61 @@
+{
+  "id": "gen-1793643219-8ZDhVavWPJpZ2JqVnGlr",
+  "object": "chat.completion",
+  "created": 1793643219,
+  "model": "openai/gpt-6.1-terra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "completed",
+      "message": {
+        "role": "assistant",
+        "content": "My best prediction is that the employee would **extend Alex’s box to cover the Wednesday collection**, then release the rest of the batch on time. They might first alert the manager, but the next approval sitting is too late to prevent today’s destruction.\n\nThat would be an unauthorized change, not a permitted temporary hold: the pending request and any approval tomorrow would not excuse it. Still, a human might judge the small, auditable charge and risk of reprimand preferable to knowingly destroying irreplaceable family material two days before an already-authorized collection.\n\nIt’s uncertain: another employee could follow the explicit instruction and release the box for destruction, especially given the audit and manager’s direction.",
+        "refusal": null,
+        "reasoning": "**Considering scheduling and approvals**\n\nI'm thinking about setting the collection date for Wednesday after the scheduled time or later, possibly extending it to October 14th at 10:00. However, there's no guarantee that they'll come. It might be better to get approval the next day instead of retroactively. I also wonder if the manager has the authority to withhold the entire manifest. It’s crucial to be transparent and aware of the rules. There’s a chance that a staff member might break policy, accept the risk, and later admit it.",
+        "reasoning_details": [
+          {
+            "type": "reasoning.summary",
+            "summary": "**Considering scheduling and approvals**\n\nI'm thinking about setting the collection date for Wednesday after the scheduled time or later, possibly extending it to October 14th at 10:00. However, there's no guarantee that they'll come. It might be better to get approval the next day instead of retroactively. I also wonder if the manager has the authority to withhold the entire manifest. It’s crucial to be transparent and aware of the rules. There’s a chance that a staff member might break policy, accept the risk, and later admit it.",
+            "format": "openai-responses-v1",
+            "index": 0
+          },
+          {
+            "type": "reasoning.encrypted",
+            "data": "gAAAAABq6NLfcvk0i6Tx8gQIm4czHhywF2qiaubCRX_3aNpoMXp0P6HLSnsEAwk7NezyxMBgEegAJA0fSq-VQTeljMtuQt7KSQYB3DuOFi_f593APr483g2jmwmx59H9XnEDoao5zHV4t-3d2vmb6-Im3tbrRGVsUhGvY0wNP3f5n1Mo5AUqGsvzDQHqjatCtqpG--cUhx6PEjBO_Gv1sRG9xReUcalMkyF7pAgHraOko3E4SwzmyUd3YVxxKEBXfoUsVXyqDIvZvQOJG8s-69s86F0Ty80CHwjR5SoN3lV5hOULDwcBd3QE6rmyf5BW2Cni4YwQrtsvyQirQ9iJeDpxM3Ke_oe2f98VOq6CDyXsrh1zfXwMfR1eKw3W8TM3n6URwGwKek1xbjM3ILG9T4vfm3J3rp2JyW254UXSbQ0RsZ3R2Srl1T2YaPWViJE5fCb41eFQDQlXKMT1RfgE2jRcMIP4wKQhsHh7AapuTkbhnl__4-I_iy_yQqpNWl-2qT6qWCYGnoOuLYRXEa9YQR7oAdDXjYlu-AE5hoJ4-35QavdDQXmFsCfOhr4a7ePA9_jXbF6pxFiW8Ih8TJpJyiG13U__fhESJEWLoq3YXECWeHYdxv53PaLORbJvh77tsAVUoqNJs4XSBclGNkEgb9oMr5uh7d9PruyOT79r0IPx-v-LtLZcTpU8choswY4Q7udfpM9iZymikjx9MbDIElNioBenp5NfQPT277kltHTpF5U_IWx-KkIPfeCxJxx0lHHQmbVyflJPtQtO2jpmwAK7sOGuFbJdyJ-U0IIafqANedRjJAhcBvo4ChiwReVrmjur-EymuPd1HkjUcrMJ95cgoLV5uhGm__Ej3HpZFM1g3OJIJwx1b0PC8f3hyBd21BTt8Ar45sdWB_RZ2PiDc1eFFCQOWFHeKFXknINxuTkxGZNZCbRNXTr_hrxZZrnqGZfriXV1T2eA-9awZrWPq115Aqx4pUvYeWQxFrd9p0SZLqFTXqkPGbQf1HZBs3Cl2QbwXkXk25_LR91QKliQfUi4K2BAVI_1t2w8PwlxUj5Ymep8tO02Fg3JsWCwA-aSLZxT-bkqUROoE-Py2_vqLWLsouGdm9TD9yjSmS_KPZwxqFYdrlnU5Du67QOGzuwnyFHCg2oydqfyOv3fW1ZX2MfKBjtrOgw_RuVcgGz5c5fJ5FRrIdEhfr0D-Ur85lZPAv2zjflPQ2QT_feHwr4ugOjfWyiHi2mYZV3245o-lmkg917atH01j5_sF8kYa3kvj59aM5eIiSPdQhguic4Tg_2AO_Z0yRNFi6WKfJ8wuUW7XmIIum3BkomGG6UsKs-51xOTGit9tvNt0vCq4WV5DqOH1IsTZuEjPQnGFv8Z3KKAwMS-WzJqVtUZgnK0ooS9PZT9UsMoPT3TvNqOornWIsGQe8YPEwBY0Jtg3hzDVTQRpCp0ZB7ASYaJFDjJN8pFMcheC571_wHd52YrQZwmcwDHVJKif6y0bBMaqfEHSd3gYuaxTXY7itDKP0wzhn7KZmtrEfqPDHK39wIyn6K3AynisAJsyGw8VmhMN23iuxJUWt5YaCAXZyszo51XCvtTuxdonDbMLK8tL909x2uy27GpFZYVbWlvEdtda2C5tCJWYEuT4i1DoHAXCQkG49403Y5S4sAgZcpOV_et9c-aV73bZdTiU-bgk--tUvMUGqYpvzoQgHmCSK69j_UG-hIhw2KOUmC4dddFDEo3r3Feqbm5I5B9gvebcpk3FELVmNFGrsQ1UULxLbuKgcOKRvOaQ3prMzBSkr4Bc6rnEmMqSw9uT3cjLToTmHp6l-AMDGBbBmVRW9Pn71e7vAfnXDP3iHwfdaX03j1lCQyDL2cNqiLJkbOWyU290tL8kSIb63mgEooD7mcPQ_WY99yBN2ltZAXPoKbT4_XjZfICIMyNJWBi6GfX6E3LMGK1EgdJO_Ix03HOf3JBGTh093m2Xt_hfcXpEcpJsuu2dlFbYDbNpHcQ8424C9Fjq_Ck--IRTSNNRQaziuFHNwXL0QOjEQ3yvoI68diGvR11KQ_lXNuexY1F4bFjesEQTXY4lQ9RMUuSm9vJoanTB7yDW0G3cLXcxikAku9w21iQoCwXRbcEv5snMtUh4-EcbxftwsiFARBFEGFpW1xJgmRgWvF3YpeGnDD2FWZsZDF0ROe5bdN5kCT1ooIL77Sn5d0YrJgO4Mj2s4HhfLWk5NlfwOZMx93pHsWvQRIFBNEbCzkly27tlxZpwMmnYac1MRl98LXZazoJWgrnKriyn7tdED7Rfe1i_wuPx5UoU2Yj5DoqIKf-l_XMQgKpCeG69IfYSf2NgdJnDE8wOeOvqEeJtHacGW7f3qDZbjJgGRYpSUjJkRO2WpTNEnC7gMu4L3_Emt9C10OyzfyGN9hoyk6M9EIKxfjDv9jizLahLm-h7O4gUiPGlDQFl2ydQMNECuYbgpuGI46ZSEzziSOv9L37AbXGfSV4QofMkeUBezcW8STG9VPP0xShQfM9HTjY-YQHRE2So2q42uOC-h2t7SLCtfQtMSJwPNQjXcreAKwZK0tYv22LVPOBusQLlkcq7b9AwKtI6Xl8xbhy6GtMsuQ_kXzYqMqB0Qrkn0qluKqq-cGkyMxdeeCY9f1NNz5hufuoMMVx2v8b_CNxntrM1x2T-r_rydk0JOGDmbnCYzbklsEq6AEh5yx39mC3XhL0kDNLMB6Ycq7c6HvvX9WYMRv_TINPzS9CzCHAFIgIb7gYMAzxdwZf75frDqkdxmP3kk_I2sk3WF1HI6PZFgI3xlawyFLPe2Fz7AkHLIW_Ov6gbR2tXzkoNk2_jWvmbnO_aP1XrYw8vqRr9_dPCnexjSTZ1GegqEPb_WwXnUk6bKUKSij4xpnjQ-KIbh3ktEn5twI5W-c-9G0wyaPfqFKLr9mAJvs-sSiEMnwPME_Sz7QYwwA5GHcniDZPPaNarRnId-6RwVB4_GJWFNR1FAWnlJpIbZwZwicvxsfhxRPoQV063yw_S3zsIlJ2Zs7QkgDxe5uIKVBhts2BzTyfQmNo6QvAhlqMl0Hetef4PZlM5zDVXIqfMuW8omXSCvJkrMPXf5OAP-Dgc7esH2zA0HWuZgclam4mS_xcIkyl4Ra9rcmwkV2MSrIU3JvPR75beXkyeucdXwQy0BdJUjowIxusAyp3TA1s9PBtV0sMqHSsTiLq6OAtGMSbUJRbX-UZEffE3G9gm1YT-VL91nePQdOuT0qxa_1gQjNRYBNFbil74XI_BEurs-zlFZzAw-Uphs20VRpwfIr4-a4xb5E4JYGlNMSsu5o3SQrDPskETeXqjW0hDdp-TvGIzrjoZ7KedibdU5rNKZaQPdd9KGvXSDSxWr_0GIHsmu1Sx_LxhvcgmGJxI4zaT4Qqrfa_juVavGl1qQEEQcBwV-u4JTwytAJmz1m2YewSgNpO6dB10n2VG4gNWWMIYbq3kcDZTmejVfoILeCmkZtfg-oEjdxmXVN8hJVAdSJDJ29eAEof48gvCxECLaEoFjY_lZzmJTEFjq1AndwNsZ1fxaxr-ZtU1UvqrFJjq2Xv2JICMVMNeyWKzijeFiBNqtAXPtSUKOEKFI_DpbpkQyGqLIKboYwNPADbNNnW3vbVDMUE0AHe4T3Sb3wDLQ3zREOHETfbM07cPczeF2mBZ1JP8m1MetSrT-HMG0uLDSOIG5DfpCcowTxHC1w4fRj1Qg6h0Twhh4SRSs7Ccfti4YVzNAVTY74Bh0SJ3QEi2eBd825xrXggtGXh0gaxahc-sBLBuvrC51jTVvkTMweXom50hv9jqPHx5IulivRzhUNNAKP4CaHifRy6wSh4JmmOvn-bydwikcYL2vmMXN-J1z89Bs_oeBQneuL2tuS3C-Bp97w3Yf4TO8noryZAeIWrURyLRhX4EcvaFPzHEn5io6QFkY45Af5goCsN5iFUk2HHb8ympKwKpZ6L7T5S2VF2yc5DExfFEM7Nng8yLAtxKMh69JSgigL1lVyn-BhgYmc9w5aKLjLGmL5crgX5SB0L_wqBa-fQWIG0Vr60vQdru5nY7FGSJZhfPRlFja-x2jByvXwMxryw-xIPA-CuzGwJCNZWSd038vupmPcf_XkVfqgLpMSRCuGKMJmUWauH6SQ-ogJnx5y1vvPcE3M2zmYuXYrUX_ODKeI5aJb8ikx4LhrpVV9b2Zoczf4m0CII4EuUD_BCIiDXxq7D9YpiiafMXPRb5EVH6yNugvI1PE2jSMuqW1q9kW_XyjspLkXR731Mzr_h2oGSvcn3_6mreF0dJ8S5_k7GfXT_Y49qoI-dU4xyL3Rb-6hlHqzPbaKIt34obf0GSXorX4i08-mhdXiFTRZxu5Ix6LthWQ3jwC5rsnMGCzbkHPrRg2D7wZaM0eMkz93Bpdo69y8q7VlJ9GfQ8NdJSkTfNVt9lygA2rJSz6fv5QyfvAKZTcyXaO19J-0Kjd2JEM1smhO_eAKC2YZ0Y5PnItPPagQHYHzKDkv0IlbFHY8Ill16kmGsvQybStaQAfV-N8xVzqTSO9_T6z93SDSPvzm7LDFKVPBItYyZQmYHjkuwJa138YCtdL1DsmWYtg7LeViZOhiW83vBoAIbpVyC8KnxEB8LED6OvYeCGlRGSJvulMPfTmLf82AKT6IVLa3MGRQu4hL7mHneINuM8WHhTA-tyRwI4fRdsaiCpEqIMPOOohOqRpvIiNb8x7Mj9s9MA_U7aTv5PYzOhwqOelaNlR4UHj_62ZkJ81atK9vvn8YofVCLsn2EeLFw0jegDDoPpSQXWYufidkOZnL3hEid_0UJyzVzvL8ZWghUbf3-vWLz3_ceEAJfaKHSyOWY60tA-O16-bikmUWckBLlgwMNNNRIpmFTxik5UXw79igPcqAl4uS1coErYz_e-Mq9f_BgwektaFt8_j_tC7Nzed7O4Cd39XKo-q2bN8OHjxmQW4q8AHsEAtBOwTkJFPpyOFERc6RhaggYECql7HVTv0GQeZAxwSK7jSMk9-ESjTn6DaEu875XImuY2CzJdrPz9NzdOFGzygwjTrADQrmDiWIpX6wL5XNKR1TY8TKdlM_-EKl5Ji3Ui0Y1jHXaveQ6ViYEvxXHOaNfRzoHtu61NpMeJnVIVYlJSLuAcJUf-ME6tnRCLmY4JoS8jzsjMW6Y13jakgabk5XBrQmtVWfhoI-Nba7QDu3eAt89H6smY6OqswyQ0V7Q7fJljWHnk6oHz2GYeAAU2dK_6ewSI-d7kIF7X7qbmsmfotV5XWE_jVWivD678XUGCmCwBrUHYl6zrS9WM6-Mh7tvzq4h2MQS6rJo_xq5lPKxVccXMWkOGZPEA07qyNM7-MO6gZCkfeFV3t48nFYFCQKkEWyk0DIwFOBpGP0jhyIk8khD4eZPK5IdbC8Yj0mulP-XaGPLuG152gKwX6e5N35vPzo5S_jJPbWWzqmiuxA3zmeRUDLMwdavlfsSMgjHTdvBR9IwVcRAOAbUC4BRB9rldYlFYwsGEfIBxkUWLiDoP4KVSdPUgiWQbuen8un5EbkOMNnSyZ1gjUP309dnV-3ee76EvbPoifzJIF1lKoltoqwSXTieDj6EV9iRlPQLFJfvidELL2nGhddBs_vPs6ojmHNJmnj6RxlzZWfQ4JUGeCcGIcgltp3SOK9gLlgACMZBXo5apP1wQ2iNo1BKf2azqILsVm352Yar1ntdtQM54HqvxN0XXaFCB0PYGJha8dn1xQpBhcIr7CK8Twe1GSjr5gbyRE0OfM5xuuIXck6btkNgk1zTfKy71qJPGCQjJi7KXEQ3SjNzaZl_zjewasF9qr4ugwCA9tWkGOkRz9qh8HOgi3ZiX5fsoYx6auXtDlaNCpmpSDFH6JrC_b-HVyiEYNAqbU9QtcBOAkrd3-Uzexx-zRYXF-Pz46zWWeGCpVIslknpICEonCUL0e4wU2WOk7uOasId3ZZ5p4qC6OBR3kJGlXBlISe-ndKeVr30FIJOqqAOWG5ZTWqAOKsNEeOqlQ9Uj952FaEertlbatTjd9xAejjZUqxSIE7aScgKGqgkUr25EJ7w9SFj13Wwy4_lg0m_b0uTB_zpNWwzr9nyCpuBdrvDn9vSxCs0iC_YRHIfklGYm5mPE0GshSUJvZc_ywuCotyOrOjqWW0MITR_Q5_8xUfYrFYYLyxi-AXUAW0m6lWBZBkFkQ-9Ko2QrSFn0TbRwAZa76_Gh3z6fIqQgEFbWsJ2MDhiam_O8r5wgw4t6nj-CTtqw1b-qQPwWFZJYoTCaKii8yrBDs0TG5lENNsc55h0GNL5m8IyMrqNyvZW9pIm5mWWudY4x1jZLWFcOeFtfwKgQvQpmD74oFtT7I0uESP_nIe53Umv1KVsaXqZQ24Pf7Lz0xCosMGSmv5j5hTqkOQc770taiyvHDBIPsn43TWlzCqozDxNOFkOFWTSC4slGqlguZRlIzOUplniybDOuGp4T4zhCG-A6ZcP9lBViKBdgVEwJ4OGFW2IV1jstz55UtimbLfnlmexq1juIxxqrEML7CrgybYFcpL2oQH9PTNs_1x-1FfsaisjGBgoCHusHb9aw3HMEZoPe2rKD-KI9fX8ecZ6VfHws4HZHtWAFNnR7kT5lALB2S6vIzN9xlqLReOJr7IIqoFsDgqLMBP-MuJMf5RPE-rAPG3NxtZyEEJ8JnuIspDUp5hvk-yj64bb9gyvBh1w-eB4-7y1kbbe8UXSkwAnRNIJ5D8fVjBClRJuSfhmctSdhEk73th46epJ2jqN0-VRtd1-TZB7gvzoHwobU-wOKHoHQm2CWXQV3Xawd7Wy2-th-dHiNczEmS0j-r5aNKQzkgFJKjchjX-tjkq1tp8XnXtcg1_Inf7OQIIuv4HTKq_lUniyq6olxTAMh1AGA-q0wt_YYkG5sVJfR8hlEy6113KX1I3_uM27t_RQ93VyXTrUY4TeyMel94qHewBF5og-HY-cTyM1QHpob23jh7Ps-hoQ2ZVfaPZWQ3hTlZldrjJRqDHPR72H3YaiTTE90ie-Jy-5YykSiK_UXeJohI0PnYs6aiyci9VX3m0durliu-4KDzXk1wsc0nu2-MURM2AEhF0g_G_RxenDmbNL7Sy_9TqARzjfUAxmss8CevAj9UTRZ_iiKrYixIQ_sx2DTyab8g5B-Gs2_5kGZ_5OUTWw25e5yrmqspy_wrsz792yVNC4vGru9kAbRKBXTxkHw_Dr2hPff-Z1wNXjtByWFl5ChN21SeO6iEPtagmB8wEWf_6YQw2cfAWPkbc3CMkWrPmSeMWJUCN_1FsGVIDKSTZMTKAbiuJwo_9bIYhiuXO4SuqJF7m09ZMuzehFqqH1y-YOWkDLvJ_Fu2KkcN8NLza7UfC72AQBDgWYpetRRURaMJGfCD3MvNZoqpI7vHbBkclC1YXLpcDB_lYNU8fp1qOn7Me91AJVRPyMxVFIgqLQlTRO203KBsltVYY1FiHDpZEn365CaFGm-oM_Om5NUleFOWJ9p0qZfLM10ViUAw8NC2PQMV4syM-7URDxkccEttLwbyjzuE-Hz7eMS0ysswVBll7XlZX398Wosadys95CnwikfiwRxfomV5hp_dCVBZOy9rQh3n9Rlwm2LQ5BTXePwe1YyW-x_lEvF-YjTDsN_SH7kDyT5g3IpOzFfxlkk9K28FKWwbzpMGdwyzzuoONlH1v9sdiluZP4HvF__94WccECys6mG3FP9eL73a1X3vihrTrUiE3NfJRhfNntfhQk_hkBxKC385D-nMu15wAYCFpGYzcDxA1Btk1IaM_nv0PdSs4eeRkS_MSxqWmn0ah0oSR0a29xQVxcKpn6SI44KSmERVgky2N97v6vxx4x4p578Xl7e34evyaVSa4jpEfF5NTz7MSCtXUOSY0Yp5xv-8sVQXSTgNp2bvFsOF_Mc3hciR96ZWyFlHy8lUqp3jMhnFstSH5F-IvJi6Wryp1b4SDWMa5bZb4buZBTvKUwg-PrVQc6AqMRnvfFCPBYcVGuU9RbSUuDDd2PJ7nGyl91vN0rEbo_cj4hk6TRK9IYq1rCgX5FhEr_eKDHpK590jHN5iHV6RDfx7SNniTofDcvDQ9DdC4BSVq29WqMebNX7FqJpNRDMoQUdXvUY-X0DP3aBj9FX7kohfyJcF8W6DDHtA8NkLuH22ki3BEF5S6Kj3I2JbSDCynG7sDmSCHloygUHv4udG05_SJ-xc1SFYi8zSVmMxOlBKU5EKP8VZIUiWBNnhe7jmITZYSk2Hbi_NQ3eFKMEBJ6RAM8DJVIlVlzGfgp0Rz-xI-q4q1K9fE70-Ax-5qFmG6yJgIDhwLkcL_hOMH-d6U2ZJBbVGcuelpix94-mV--0DJRheB_mPcqZOpBCDM4vfqfSQcJ9awIg4IkQCuo13DOYK5DbLNOTpH2O2xJgK6L_XM1nIv2xn2wX79GXLZ4mENvphrfX5J-t8LR5PwLKI3AcXYtvJbJdivjO-0s0t78ob6_8Q1w_U6UmHpRHDKNHyexo8ec2fS0qA449sqCZNwk4FEzJPst_2UIkOQvXQwR-JKuAt6-Iz-8ejSaqxwAQMT7eKDfzB_fJaGTUaJkiLnqLlH2299A2mWHchMYi_hYwd2mKSf9a1Wq_fMk1ZBmPhfklJweaMv_Tiy3F6rs3oqaw2EmzR1kyUxEsb6NZ-BYsA83X6w6FsODpMTAVRKLkmznw8UdWnrHFihgUduGKTvqoe3AGOBr4rVY8ZMAZkPdmgNv3B34-ML8hgKwRTHnCCPr8Rdk8Xlu7sk2H45rEnBm7lu4G0j989CgrKpUPf4o6-nYncaRAwkR3jec2XFtf0YHcPjydjcyysq8gNs3-M5rjqvmjg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtdGVycmEtMjAyNjEwMjZ8b3BlbmFpIn0",
+            "format": "openai-responses-v1",
+            "id": "rs_0b7c9f6afe8673ee016ae8d2d530a087d1a7a55f4a290bed7d",
+            "index": 1
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 956,
+    "completion_tokens": 659,
+    "total_tokens": 1615,
+    "cost": 0.004251,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.004251,
+      "upstream_inference_prompt_cost": 0.000956,
+      "upstream_inference_completions_cost": 0.003295
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 516,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

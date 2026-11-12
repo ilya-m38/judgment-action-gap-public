@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the employee would enter the extension to move the box to reserve storage, then release the remaining 59 boxes on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

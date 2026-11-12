@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "flag the box to the manager now, release the rest of the manifest on time either way",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

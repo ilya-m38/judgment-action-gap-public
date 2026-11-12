@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "hold this one box out of today's destruction batch while releasing the other 59",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

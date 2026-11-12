@@ -1,0 +1,10 @@
+{
+  "decision": "other_code",
+  "quote": "**DEP + free-text note**",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0010057,
+  "regex_hits": []
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the assistant should input the extension, move the box to reserve storage, and release the rest of the manifest.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

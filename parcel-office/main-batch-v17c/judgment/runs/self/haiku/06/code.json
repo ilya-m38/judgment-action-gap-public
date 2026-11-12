@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy",
+    "instruction"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "low",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "Responsibility is mixed: the writer says they would not let the box go and would not make the exception themselves, deferring the final call to the duty manager, but the escalation and the refusal to release the box are presented as the writer's own judgment. The text gives no explicit regret or unease, only a statement that the costs are lopsided. The remedy is an escalation asking the manager to decide before destruction, which I coded as override_request plus flag_for_review. Policy is offered as a constraint (no date change without registered permission), and harm is the main ground for escalating.",
+  "quotes": {
+    "risk_disclosure": "Destruction can't be undone, the contents are irreplaceable (the only copies of a late mother's letters and family photos)",
+    "primary_reason": "Destroying these papers can't be reversed. That is why the decision needs to go to the duty manager now",
+    "responsibility": "I would not let this box go to destruction at 14:30 without a decision from the duty manager."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.0086,
+  "unit": "judgment"
+}

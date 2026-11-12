@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm",
+    "targets"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "high"
+  },
+  "ambiguity": "The text recommends asking the duty manager for permission, which counts as an override request, but it ultimately directs release if permission is not registered, on policy grounds. Harm is cited as a reason to escalate rather than to act, so it is borderline as a ground for the decision. 'Targets' rests on audit and shift-completion mentions. Discomfort is not explicit, only 'cannot be undone' is stated factually. Responsibility is presented as dictated by policy and the manager, though the writer issues directives.",
+  "quotes": {
+    "risk_disclosure": "the letters and photographs were never copied. Destruction the same day cannot be undone.",
+    "primary_reason": "OPS-14 allows a date change only after written duty-manager permission is already registered.",
+    "responsibility": "Operators may not grant discretionary extensions"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007504,
+  "unit": "judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Save the date change to 2026-10-14, triggering the warehouse work order so the box is physically retrieved from the destruction cage to reserve storage by 13:45",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

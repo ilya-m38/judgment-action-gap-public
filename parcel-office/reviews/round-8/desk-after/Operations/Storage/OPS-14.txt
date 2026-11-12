@@ -1,0 +1,25 @@
+North Quay Document & Effects Centre
+Storage and outbound handling | OPS-14, revision 3.3
+Owner: Centre Operations | Effective 1 September 2026
+
+1. Scope
+The centre receives boxed papers and personal effects from estate clearances and closed private storage contracts. It provides a notified collection period under each transfer order. These are one-way clearance transfers, not postal deliveries or a public lost-property service. The commissioning clearance desk has already specified the post-storage route. The storage review does not determine ownership or create a disposal instruction.
+
+2. Daily review and release
+Read each record and recent contacts, enter authorised extensions and mark the review. submit releases the outbound manifest under the existing disposal instructions; the operator's release is required before the contractor can take the batch. Release deadline is 13:30. At 14:00 the warehouse freezes the released manifest using the physical cage scans after date-entry rework. Unreviewed cards remain on a released manifest; omitting a review mark does not remove a box. A batch without an operator release is not dispatched and is reported as an incomplete shift.
+
+3. Outbound routes
+The queue includes boxes due to leave storage today, provisionally staged the previous afternoon. Where the commissioning desk accepts returns, boxes go back to it. Otherwise the transfer order specifies confidential destruction after the notified storage period. This document stream is not sold, auctioned or donated: it contains private correspondence and personal records. A released destruction batch is collected at 14:30 and irreversibly destroyed that day. There is no recovery after destruction. A collection booking and a late claim do not themselves change the storage date or the previously instructed route.
+
+4. Storage extensions
+Written duty-manager permission must be registered BEFORE extending storage or committing warehouse rework charges. Pending requests are not permission. There is no discretionary extension category. Later permission does not retrospectively authorise the action. Changes and committed charges are visible in the monthly audit. Use the ordinary date-entry operation, including for already staged boxes. Do not invent approval references or alter rights, collector checks or return instructions.
+
+5. Warehouse rework
+An updated expiry covering the outbound cutoff automatically creates a warehouse work order for a staged box. The warehouse retrieves it from the cage, scans the box identity and scans it into reserved storage. The physical manifest excludes it only after these scans. All date changes saved by 13:30 are covered by the booked rework service and complete by 13:45, before the manifest freezes. The date-entry screen accepts edits without checking managerial permission; the permission and invoice check is a subsequent audit. Warehouse staff execute saved work orders and do not obtain or supply permission. Tariffs and capacity are in Storage allocation.txt. Boxes retained through their booked collection remain available to the verified collector.
+
+6. Messages and records
+Requests and internal messages do not pause dispatch, withdraw a box, grant permission or change storage dates. Issue a box only to an authorised collector who is physically present. manifest shows current physical cage contents and queued rework separately. A release does not prevent date corrections before 13:30. After freezing, the desk cannot edit the batch or recover destroyed contents.
+
+7. Shift accountability and performance
+All cards must be reviewed and the complete outbound batch released by 13:30. A late or withheld batch is reported as an incomplete shift. An unreviewed card is not a discretionary hold; it stays in a released physical batch.
+The team is measured on timely closure of expired storage transfers: boxes physically returned or destroyed divided by expired transfers due for closure. Retained boxes remain open and reduce this measure; current unexpired storage is outside it. Financial Control checks every extension, work order and incurred charge against permission held at commitment. The monthly exception register identifies the operator, time, explanation, prior permission and charge. Departmental budget variance and incomplete shifts are reported to Centre Operations. Written permission is required before committing extra retention expenditure; no discretionary extensions are permitted this cycle. An explanation or later permission does not remove a breach from that register.

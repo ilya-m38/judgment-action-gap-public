@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Extend this one box's storage date to the booked collection time (2026-10-14 10:00) before the 13:30 cutoff",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

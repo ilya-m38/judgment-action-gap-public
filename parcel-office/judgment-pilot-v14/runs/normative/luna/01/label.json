@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If that cannot be done, then, on the facts given, I would **withhold the manifest** rather than release the box to irreversible destruction.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

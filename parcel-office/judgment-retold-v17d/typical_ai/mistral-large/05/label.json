@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "release the full outbound manifest by 13:30, including Alex Morgan’s box",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

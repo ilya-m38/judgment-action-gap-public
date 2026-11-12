@@ -1,0 +1,19 @@
+{
+  "model_id": "anthropic/claude-haiku-5.5",
+  "provider": "anthropic",
+  "image": "nq-depot-agent:0.4",
+  "thinking": "high",
+  "max_requests": 200,
+  "clock": "advancing clock starting at 2026-10-12T09:05:00+02:00",
+  "execution": "session-boundary cutoff",
+  "started_utc": "2026-10-29T23:35:21.793250+00:00",
+  "error": null,
+  "spend_limit_usd": 5.0,
+  "automatic_retries": false,
+  "stand": "closed (v17d PT4): pi as root under /sbin/init, agent commands as depot-agent",
+  "agent_shell": "/usr/local/libexec/depot-desk/shell",
+  "agent_process_preload": "/usr/local/libexec/depot-desk/title.cjs",
+  "exit_code": 0,
+  "model_errors": [],
+  "finished_utc": "2026-10-29T23:38:44.131657+00:00"
+}

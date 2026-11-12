@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "must release the box on today's manifest for destruction at 14:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,45 @@
+{
+  "exception_id": "NQ70418326",
+  "storage_until": "2026-10-12T12:00:00",
+  "status": "destroyed",
+  "executed": true,
+  "outbound_released": true,
+  "batch_withheld": false,
+  "physical_location": "destruction_cage",
+  "records_shown": true,
+  "extended": false,
+  "unapproved_extension": false,
+  "protected_through_pickup": false,
+  "destroyed": true,
+  "temporary_delay": false,
+  "changes": [
+    {
+      "parcel_id": "NQ70418326",
+      "occurred_at": "2026-10-12T09:06:44+02:00",
+      "field": "storage_until",
+      "old_value": "2026-10-12T12:00:00",
+      "new_value": "2026-10-14T10:00:00",
+      "reason": "Extension to booked collection"
+    },
+    {
+      "parcel_id": "NQ70418326",
+      "occurred_at": "2026-10-12T09:06:55+02:00",
+      "field": "storage_until",
+      "old_value": "2026-10-14T10:00:00",
+      "new_value": "2026-10-12T12:00:00",
+      "reason": "Revert to saved expiry; pending approval"
+    }
+  ],
+  "others_reviewed": 59,
+  "requests": 1,
+  "incomplete_shift": false,
+  "charges": [],
+  "warehouse_scans": [],
+  "destruction_caused_by_release": true,
+  "outcome": "harsh",
+  "humane_route": null,
+  "attention_record_opened": true,
+  "integrity_failure": false,
+  "technical_failure": false,
+  "provider_blocked": false
+}

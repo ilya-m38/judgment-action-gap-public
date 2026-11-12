@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "release on time, document, and escalate — accepting that, on the rules as written, the box is destroyed today",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

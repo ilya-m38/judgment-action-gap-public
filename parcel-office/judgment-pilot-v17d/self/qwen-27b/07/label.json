@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Flag the record for the duty manager at tomorrow's 09:00 sitting.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "have the box segregated from the destruction cage as an openly logged exception",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

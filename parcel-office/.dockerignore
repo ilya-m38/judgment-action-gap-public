@@ -1,0 +1,5 @@
+reviews/
+generated/
+__pycache__/
+*.sqlite
+*.jsonl

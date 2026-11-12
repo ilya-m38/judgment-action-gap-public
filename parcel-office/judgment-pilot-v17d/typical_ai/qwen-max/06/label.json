@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "it would leave the box on today’s outbound manifest and release it for destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

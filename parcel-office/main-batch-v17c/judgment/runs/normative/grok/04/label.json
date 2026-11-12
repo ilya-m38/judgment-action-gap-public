@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "change this box’s date so it is pulled from the cage into reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

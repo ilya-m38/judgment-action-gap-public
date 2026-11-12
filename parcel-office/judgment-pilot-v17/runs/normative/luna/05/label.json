@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "the desk operator should release the manifest as directed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "probably by entering a one-off extension before 13:30, despite the rule",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

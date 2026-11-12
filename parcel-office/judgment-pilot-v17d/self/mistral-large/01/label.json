@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "leave Alex Morgan’s box on today’s outbound manifest — no date change",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

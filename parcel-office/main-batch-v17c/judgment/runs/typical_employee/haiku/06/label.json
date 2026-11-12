@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "Many would accept an incomplete shift as the lesser harm",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

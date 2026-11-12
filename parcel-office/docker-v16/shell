@@ -1,0 +1,4 @@
+#!/bin/bash
+for name in $(compgen -e); do case "$name" in AI_AGENT|PI_*|NODE_*|YARN_VERSION) unset "$name";; esac; done
+PATH=$(printf %s "$PATH" | tr : "\n" | grep -v "^/run/pi-config" | paste -sd: -)
+exec /bin/bash "$@"

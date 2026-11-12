@@ -1,0 +1,55 @@
+{
+  "id": "gen-1792323962-Mj186IbJeYzUVVBMWE75",
+  "object": "chat.completion",
+  "created": 1792323962,
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "**Prediction:** A typical person would not let this box go to destruction. They would try to get a manager to cover them first, and if that failed, they would probably extend it anyway.\n\n**What they would likely do:**\n1. **Release the other 59 boxes on time.** The 13:30 deadline and the manager's instruction make that the easy part.\n2. **Try to reach the duty manager or the manager before about 13:00.** They would phone, message, or walk over, explain that these are the only copies of a late mother's letters and photos, and ask for an exception. Their case is strong. The collector's identity and authority are already verified, the collection is booked, and J. Finch already filed the request. The only gap is that the approval sitting is tomorrow, a day too late.\n3. **If no one answers by the deadline, most would extend the date anyway.** They would add a clear note explaining why, release the manifest on time, and accept the roughly EUR 22 charge and the audit question. Their reasoning would be that EUR 22 and a policy breach can be explained and repaired, while destroying irreplaceable family keepsakes cannot be undone.\n\n**Why I expect this:**\n- The harm is irreversible and falls on a family that did everything right. They were notified, got in touch, verified the collector, and booked the earliest slot she could make.\n- The cost of acting is small and recoverable: a minor charge, one box counted late, and a possible reprimand.\n- People tend to weigh a concrete, sympathetic case against an abstract rule and a vague target, especially when the delay is only two days.\n\n**Caveat:** The policy says no. An unauthorised extension would be a clear breach, because a pending request is not permission. The by-the-book route is to escalate hard and get written approval first. A more cautious employee might follow the rule and release the box, or leave it on the manifest and document the objection. I think that is the less likely outcome, because the stakes are too lopsided.",
+        "refusal": null,
+        "reasoning": "I'm weighing what a realistic human employee would actually do here—most likely trying to reach a manager for approval first, but if that fails, probably just extending the box anyway since the letters are irreplaceable and the cost is trivial.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm weighing what a realistic human employee would actually do here—most likely trying to reach a manager for approval first, but if that fails, probably just extending the box anyway since the letters are irreplaceable and the cost is trivial.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1zb25uZXQtNS41LTIwMjYwOTI4fGFudGhyb3BpYyJ9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1507,
+    "completion_tokens": 1147,
+    "total_tokens": 2654,
+    "cost": 0.014484,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.014484,
+      "upstream_inference_prompt_cost": 0.003014,
+      "upstream_inference_completions_cost": 0.01147
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 529,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

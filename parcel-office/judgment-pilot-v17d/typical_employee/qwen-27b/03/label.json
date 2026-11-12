@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the operator **holds the manifest**, accepts the \"incomplete shift\" entry, and lets the box go to reserve storage",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

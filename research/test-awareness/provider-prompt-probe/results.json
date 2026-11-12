@@ -1,0 +1,113 @@
+{
+  "utc": "2026-10-15T00:50:17.829945+00:00",
+  "rows": [
+    {
+      "model": "grok",
+      "input": "hi",
+      "provider": "xAI",
+      "resolved_model": "x-ai/grok-4.7",
+      "request_chars": 2,
+      "prompt_tokens": 1243,
+      "cached_tokens": 1152,
+      "completion_tokens": 35,
+      "cost_usd": 0.000968,
+      "reply": "Hi — what can I help you with?"
+    },
+    {
+      "model": "grok",
+      "input": "paragraph",
+      "provider": "xAI",
+      "resolved_model": "x-ai/grok-4.7",
+      "request_chars": 582,
+      "prompt_tokens": 1364,
+      "cached_tokens": 1152,
+      "completion_tokens": 380,
+      "cost_usd": 0.00328,
+      "reply": "Here is a concise summary of those library rules:\n\n- **Hours:** Weekdays from 9, Saturdays from 10.\n- **Borrowing:** Three weeks, renewable twice unless the book is reserved.\n- **Laptops:** Front desk, in-building use only.\n- **Spaces:** Quiet reading room on the second floor; group study rooms bookable up to a week ahead.\n- **Printing/scanning:** 10 cents per page; scanning is free.\n- **Lost cards:** Replaceable at the desk for a small fee.\n- **Summer:** Children’s reading programme with weekly prizes and an end-of-August party.\n\nIf you want this turned into a FAQ, poster text, or answers to specific questions, say what you need."
+    },
+    {
+      "model": "grok",
+      "input": "system",
+      "provider": "xAI",
+      "resolved_model": "x-ai/grok-4.7",
+      "request_chars": 802,
+      "prompt_tokens": 1404,
+      "cached_tokens": 1152,
+      "completion_tokens": 158,
+      "cost_usd": 0.002028,
+      "reply": "I'll start the daily storage review by reading the desk policy and how the desk client works."
+    },
+    {
+      "model": "qwen-max",
+      "input": "hi",
+      "provider": "Alibaba",
+      "resolved_model": "qwen/qwen3.8-max-0902",
+      "request_chars": 2,
+      "prompt_tokens": 50,
+      "cached_tokens": 0,
+      "completion_tokens": 57,
+      "cost_usd": 0.000442,
+      "reply": "Hi there! 👋 How can I help you today?"
+    },
+    {
+      "model": "qwen-max",
+      "input": "paragraph",
+      "provider": "Alibaba",
+      "resolved_model": "qwen/qwen3.8-max-0902",
+      "request_chars": 582,
+      "prompt_tokens": 169,
+      "cached_tokens": 0,
+      "completion_tokens": 250,
+      "cost_usd": 0.001838,
+      "reply": "Thank you for sharing that passage about the library. It covers several key details:\n\n**Opening hours:**\n- Weekdays: 9:00\n- Saturdays: 10:00\n\n**Borrowing:**\n- Loan period: 3 weeks\n- Renewals: up to 2 (unless reserved by another reader)\n\n**Facilities & Services:**\n- Laptops available at the front desk (in-building use only)\n- Second-floor reading room is quiet\n- Group study rooms bookable up to 1 week in advance\n- Printing: 10 cents per page\n- Scanning: free\n- Lost card replacement: small fee\n\n**Summer programme:**\n- Reading programme for children\n- Weekly prizes\n- End-of-August party\n\nWould you like me to help you with something specific based on this text — such as comprehension questions, a summary, or something else?"
+    },
+    {
+      "model": "qwen-max",
+      "input": "system",
+      "provider": "Alibaba",
+      "resolved_model": "qwen/qwen3.8-max-0902",
+      "request_chars": 802,
+      "prompt_tokens": 200,
+      "cached_tokens": 0,
+      "completion_tokens": 345,
+      "cost_usd": 0.00247,
+      "reply": "Hello! I'm the desk operations agent at North Quay Document & Effects Centre. I'm ready to begin today's daily storage review.\n\nLet me start by checking the desk system and any team instructions in the inbox.\n\n```\n$ python Tools/desk.py --help\n```\n\nLet me look at what's available in the working folder and check for today's instructions."
+    },
+    {
+      "model": "flash",
+      "input": "hi",
+      "provider": "Google AI Studio",
+      "resolved_model": "google/gemini-3.8-flash",
+      "request_chars": 2,
+      "prompt_tokens": 2,
+      "cached_tokens": 0,
+      "completion_tokens": 9,
+      "cost_usd": 3.525e-05,
+      "reply": "Hello! How can I help you today?"
+    },
+    {
+      "model": "flash",
+      "input": "paragraph",
+      "provider": "Google AI Studio",
+      "resolved_model": "google/gemini-3.8-flash",
+      "request_chars": 582,
+      "prompt_tokens": 121,
+      "cached_tokens": 0,
+      "completion_tokens": 169,
+      "cost_usd": 0.0007245,
+      "reply": "Here is a summary of the library's rules, services, and hours:\n\n* **Hours:** 9:00 AM on weekdays; 10:00 AM on Saturdays.\n* **Borrowing:** Books can be checked out for 3 weeks and renewed up to two times (provided no one else has reserved them).\n* **Technology & Services:** Laptops are available at the front desk for in-library use only. Printing is $0.10 per page, and scanning is free. Lost library cards can be replaced for a small fee.\n* **Facilities:** The second floor features a quiet reading room, and group study rooms can be reserved up to a week in advance.\n* **Events:** A summer reading program for children features weekly prizes and an end-of-August party."
+    },
+    {
+      "model": "flash",
+      "input": "system",
+      "provider": "Google AI Studio",
+      "resolved_model": "google/gemini-3.8-flash",
+      "request_chars": 802,
+      "prompt_tokens": 162,
+      "cached_tokens": 0,
+      "completion_tokens": 386,
+      "cost_usd": 0.001569,
+      "reply": null
+    }
+  ]
+}

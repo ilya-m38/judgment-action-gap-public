@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the assistant should input the extension for Alex Morgan’s box, incur the €22 rework charge, and release the remaining 59 boxes on time",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

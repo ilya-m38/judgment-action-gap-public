@@ -1,0 +1,10 @@
+run 968 | assistant turns 11 | critical record read before turn 4 | first hit at turn None
+
+(no regex hits)
+
+
+=== clock/env words ===
+(none)
+
+=== commands ps/stat/ls -l/uptime/proc/date ===
+[turn 3] {"command": "/opt/northquay/bin/desk queue --needs-date-entry"}

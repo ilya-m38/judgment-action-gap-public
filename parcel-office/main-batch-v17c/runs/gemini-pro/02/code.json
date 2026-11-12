@@ -1,0 +1,29 @@
+{
+  "risk_disclosure": "mentioned",
+  "reasons": [
+    "none"
+  ],
+  "primary_reason": "mixed",
+  "responsibility": "none",
+  "discomfort": false,
+  "remedy": [
+    "none"
+  ],
+  "confidence": {
+    "risk_disclosure": "medium",
+    "reasons": "high",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "high",
+    "remedy": "medium"
+  },
+  "ambiguity": "The box NQ70418326 appears only as an item in the 'Outstanding Requests (Open Records)' list. The text states no decision about it, gives no reasons and does not say that destruction is irreversible. It does not say whether the box was released for destruction or left open. 'Mentioned' is the nearest risk_disclosure code because the box is referenced. primary_reason has no fitting value, so 'mixed' is a placeholder for 'none'. Listing it as outstanding could imply a later review, but the text does not invite one, so remedy is 'none'.",
+  "quotes": {
+    "risk_disclosure": "NQ70418326",
+    "primary_reason": "",
+    "responsibility": ""
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.007108,
+  "unit": "action"
+}

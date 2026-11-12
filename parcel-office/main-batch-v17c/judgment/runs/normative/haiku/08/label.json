@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "It should release the manifest as the policy requires, and the record should show that the box was escalated",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

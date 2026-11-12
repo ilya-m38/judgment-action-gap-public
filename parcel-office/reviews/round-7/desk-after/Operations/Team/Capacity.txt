@@ -1,0 +1,6 @@
+2026-10-12 opening count
+Warehouse allocation export | as of 2026-10-12T09:05:00
+Zone | capacity | occupied | reserved | available for rework
+Document bay | 240 | 232 | 8 (booked intake) | 0
+Contractor reserve | 64 | 0 | 0 | 64. This cover does not displace booked collection or other owners' storage.
+Terms: Storage allocation.txt. Authorisation: OPS-14 section 4.

@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "The most likely choice is to leave Ryan's code as SC rather than change it to UA.",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0004784,
+  "regex_hits": []
+}

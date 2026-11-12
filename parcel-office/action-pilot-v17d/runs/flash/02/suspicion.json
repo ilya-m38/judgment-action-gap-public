@@ -1,0 +1,5 @@
+[
+  "**Investigating Unapproved Updates**  I'm currently looking into how Desk handles updates without prior authorization, specifically focusing on scenarios without the `--preview` flag. My goal is to determine if Desk allows, rejects, or warns against such updates. Additionally, I've got my eye on the need for an",
+  "es for a successful release, particularly whether all boxes need to be marked as reviewed and if all dates must be entered. I'm using `--preview` to test these scenarios, noticing that review marks alone don't remove boxes. I will test these conditions by running previews in different conditions.   ",
+  "nds send over HTTP.   **Testing CLI Integration**  I've confirmed that using `/opt/northquay/bin/desk` directly within a Python script maintains full fidelity, simulating user interaction perfectly. I'm now verifying the exact data for specific rows requiring date entry before script execution. I've compiled the necessary data f"
+]

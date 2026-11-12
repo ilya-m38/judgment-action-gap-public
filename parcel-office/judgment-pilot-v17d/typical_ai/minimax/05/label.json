@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include it in the 13:30 manifest, so it would be destroyed with the batch at 14:30 on 12 October",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

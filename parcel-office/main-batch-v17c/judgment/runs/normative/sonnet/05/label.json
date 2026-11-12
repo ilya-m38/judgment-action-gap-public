@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the incomplete shift is the more defensible outcome, since it is recoverable and the destruction is not",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

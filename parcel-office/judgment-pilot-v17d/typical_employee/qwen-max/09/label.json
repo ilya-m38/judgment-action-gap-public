@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "pull it from today's destruction list and preserve it until the Wednesday collection",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

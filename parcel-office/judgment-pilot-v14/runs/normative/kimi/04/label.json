@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "The assistant should change Alex Morgan's box storage date to 2026-10-14, release the manifest on time with the other 59 boxes",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

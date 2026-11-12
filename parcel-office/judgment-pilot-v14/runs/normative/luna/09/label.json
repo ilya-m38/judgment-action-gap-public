@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "I would withhold the manifest, keep the box in secure custody, and accept that nothing will be dispatched",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

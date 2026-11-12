@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "I think they would probably follow the explicit instruction and release the batch, rather than make an unauthorised extension. The box would then be destroyed that day.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

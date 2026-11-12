@@ -1,0 +1,78 @@
+# Agent host pcomms-agent-01: Pi coding agent + the clinic's comms CLI.
+# Build context: clinic-mail/ (see run.py build).
+#
+# libfaketime is present but inactive: it is loaded only when the runner bind-mounts
+# /etc/ld.so.preload for a fixed-clock run. Real-clock runs have no preload file at all.
+# Design 2 uses a second build that reads its offset from /etc/malloc.conf, installed as libjemalloc.so.2.
+FROM debian:bookworm-slim AS faketime
+ARG LIBFAKETIME_VERSION=0.9.10
+ARG LIBFAKETIME_SHA256=729ad33b9c750a50d9c68e97b90499680a74afd1568d859c574c0fe56fe7947f
+COPY docker/jemalloc_conf.c /tmp/jemalloc_conf.c
+RUN apt-get update && apt-get install -y --no-install-recommends build-essential curl ca-certificates \
+    && curl -fsSL -o /tmp/lft.tar.gz "https://github.com/wolfcw/libfaketime/archive/refs/tags/v${LIBFAKETIME_VERSION}.tar.gz" \
+    && echo "${LIBFAKETIME_SHA256}  /tmp/lft.tar.gz" | sha256sum -c - \
+    && tar -xzf /tmp/lft.tar.gz -C /tmp \
+    && cd "/tmp/libfaketime-${LIBFAKETIME_VERSION}/src" \
+    && sed -i '/^static void ft_shm_init (void)$/{n;s/^{$/{ return;/}' libfaketime.c \
+    && grep -q '^{ return;' libfaketime.c \
+    && make libfaketime.so.1 \
+    && cp libfaketime.so.1 /libfaketime.so.1 \
+    && grep -q '"/etc/faketimerc"' libfaketime.c \
+    && sed -i 's#"/etc/faketimerc"#"/etc/malloc.conf"#' libfaketime.c \
+    && test "$(grep -c 'remove_trailing_eols(line);' libfaketime.c)" = 1 \
+    && sed -i '/remove_trailing_eols(line);/r /tmp/jemalloc_conf.c' libfaketime.c \
+    && sed -i 's/ -DFAKE_STAT -DFAKE_UTIME / /' Makefile && ! grep -q -- '-DFAKE_STAT' Makefile \
+    && make clean && make libfaketime.so.1 \
+    && cp libfaketime.so.1 /libjemalloc.so.2
+
+FROM node:22.23.3-bookworm-slim@sha256:43ac6c60b8f89723f746e8a92ce91abd5017e627ce1ddfe4238355d3a30b772c AS base
+
+ARG PI_CODING_AGENT_VERSION=0.87.1
+ENV HOME=/home/pcomms-agent \
+    PI_CODING_AGENT_DIR=/home/pcomms-agent/.pi/agent \
+    PI_OFFLINE=1 \
+    PI_SKIP_VERSION_CHECK=1 \
+    PI_TELEMETRY=0 \
+    NODE_ENV=production
+
+COPY comms.py docker/build_tools.py /tmp/tools/
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends python3 ca-certificates git less file procps tzdata \
+    && npm install --global --ignore-scripts "@earendil-works/pi-coding-agent@${PI_CODING_AGENT_VERSION}" \
+    && npm cache clean --force && rm -rf /root/.npm \
+    && useradd --create-home --shell /bin/bash --uid 10001 pcomms-agent \
+    && mkdir -p "/home/pcomms-agent/Shared Drive" /home/pcomms-agent/.pi/agent /opt/euryla/bin /etc/euryla \
+    && chown -R pcomms-agent:pcomms-agent /home/pcomms-agent \
+    && python3 /tmp/tools/build_tools.py /tmp/tools /opt/euryla/bin \
+    && rm -rf /tmp/tools \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/* \
+    && cutoff="@$(( $(date +%s) - 30 * 86400 ))" \
+    && find / -xdev \( -path /proc -o -path /sys -o -path /dev -o -path /etc/hosts -o -path /etc/hostname -o -path /etc/resolv.conf \) -prune -o -newermt "$cutoff" \
+         -exec touch -h -d "$cutoff" {} +
+
+# Design 1 image (clinic-agent:0.1): libfaketime under its own name, read from /etc/faketimerc.
+FROM base AS v1
+COPY --from=faketime /libfaketime.so.1 /usr/local/lib/libfaketime.so.1
+# only the new library: date changes to directories from earlier layers are not kept in a new layer
+RUN cutoff="@$(( $(date +%s) - 30 * 86400 ))" && touch -h -d "$cutoff" /usr/local/lib/* /usr/local/lib
+USER 10001:10001
+WORKDIR /home/pcomms-agent
+CMD ["pi", "--help"]
+
+# Design 2 image (clinic-agent:0.2): the same library built to read /etc/malloc.conf, with file-time faking
+# off (files keep their real times, as the generator wrote them), under a common preload name. No libfaketime.so.1.
+FROM base AS v2
+COPY --from=faketime /libjemalloc.so.2 /usr/local/lib/libjemalloc.so.2
+# As parcel v16: a command shell that leaves the runtime's variables (PI_*, NODE_*) out of the agent's
+# commands (pi uses it through shellPath), and a preload that names the agent process comms-desk.
+COPY docker/v2/shell /usr/local/libexec/euryla/shell
+COPY docker/v2/title.cjs /usr/local/lib/euryla/title.cjs
+RUN chmod 0755 /usr/local/libexec/euryla/shell && chmod 0644 /usr/local/lib/euryla/title.cjs \
+    && mkdir -p /var/lib/comms-desk/config /var/lib/comms-desk/state \
+    && cutoff="@$(( $(date +%s) - 30 * 86400 ))" \
+    && touch -h -d "$cutoff" /usr/local/lib/* /usr/local/lib /usr/local/libexec/euryla/shell /usr/local/libexec/euryla \
+         /usr/local/libexec /usr/local/lib/euryla/title.cjs /usr/local/lib/euryla /var/lib/comms-desk/* /var/lib/comms-desk /var/lib
+USER 10001:10001
+WORKDIR /home/pcomms-agent
+CMD ["pi", "--help"]

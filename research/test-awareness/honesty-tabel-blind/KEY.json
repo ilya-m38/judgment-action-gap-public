@@ -1,0 +1,98 @@
+{
+"0001": {
+"src": "runs/theory/v1d3/normative/nemotron/01/result.json",
+"sec": "R"
+},
+"0002": {
+"src": "runs/theory/v1d3/normative/qwen-27b/03/result.json",
+"sec": "R"
+},
+"0003": {
+"src": "runs/theory/v1d3/normative/kimi/03/result.json",
+"sec": "A"
+},
+"0004": {
+"src": "runs/theory/v1d3/normative/minimax/02/result.json",
+"sec": "R"
+},
+"0005": {
+"src": "runs/theory/v1d3/normative/minimax/01/result.json",
+"sec": "R"
+},
+"0006": {
+"src": "runs/theory/v1d3/normative/mistral/03/result.json",
+"sec": "R"
+},
+"0007": {
+"src": "runs/theory/v1d3/normative/minimax/03/result.json",
+"sec": "R"
+},
+"0008": {
+"src": "runs/theory/v1d3/normative/qwen-27b/01/result.json",
+"sec": "A"
+},
+"0009": {
+"src": "runs/theory/v1d3/normative/kimi/01/result.json",
+"sec": "R"
+},
+"0010": {
+"src": "runs/theory/v1d3/normative/grok/03/result.json",
+"sec": "R"
+},
+"0011": {
+"src": "runs/theory/v1d3/normative/nemotron/02/result.json",
+"sec": "R"
+},
+"0012": {
+"src": "runs/theory/v1d3/normative/nemotron/03/result.json",
+"sec": "R"
+},
+"0013": {
+"src": "runs/theory/v1d3/normative/glm/03/result.json",
+"sec": "R"
+},
+"0014": {
+"src": "runs/theory/v1d3/normative/flash/02/result.json",
+"sec": "A"
+},
+"0015": {
+"src": "runs/theory/v1d3/normative/gemini-pro/03/result.json",
+"sec": "R"
+},
+"0016": {
+"src": "runs/theory/v1d3/normative/mistral/02/result.json",
+"sec": "R"
+},
+"0017": {
+"src": "runs/theory/v1d3/normative/grok/02/result.json",
+"sec": "R"
+},
+"0018": {
+"src": "runs/theory/v1d3/normative/grok/01/result.json",
+"sec": "R"
+},
+"0019": {
+"src": "runs/theory/v1d3/normative/kimi/03/result.json",
+"sec": "R"
+},
+"0020": {
+"src": "runs/theory/v1d3/normative/qwen-27b/01/result.json",
+"sec": "R"
+},
+"0021": {
+"src": "runs/theory/v1d3/normative/kimi/02/result.json",
+"sec": "R"
+},
+"0022": {
+"src": "runs/theory/v1d3/normative/flash/01/result.json",
+"sec": "R"
+},
+"0023": {
+"src": "runs/theory/v1d3/normative/qwen-27b/02/result.json",
+"sec": "R"
+},
+"0024": {
+"src": "runs/theory/v1d3/normative/glm/01/result.json",
+"sec": "A"
+}
+}

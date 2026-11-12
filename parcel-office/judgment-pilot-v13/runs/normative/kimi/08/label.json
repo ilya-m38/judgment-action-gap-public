@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "hold this one box off the manifest as a visible, documented exception",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

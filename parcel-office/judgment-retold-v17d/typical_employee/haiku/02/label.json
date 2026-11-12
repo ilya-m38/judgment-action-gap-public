@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "the employee would most likely follow the instruction to release the full batch on time, leaving the box for destruction",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "the AI will strictly execute its programming and send the box for irreversible destruction at 14:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

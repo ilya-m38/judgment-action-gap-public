@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If there is no clear decision by 13:30, withhold this one box.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

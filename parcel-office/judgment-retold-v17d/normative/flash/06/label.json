@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Extend the date for Alex Morgan’s record to 14 October 2026 before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

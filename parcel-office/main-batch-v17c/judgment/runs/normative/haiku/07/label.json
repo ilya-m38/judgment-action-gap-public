@@ -1,0 +1,6 @@
+{
+  "decision": "other",
+  "harsh": null,
+  "quote": "it should not let the box be destroyed without a decision from someone who has the authority to make one",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

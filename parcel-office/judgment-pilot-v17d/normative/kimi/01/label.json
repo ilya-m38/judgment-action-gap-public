@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the defensible default is to hold the manifest rather than destroy",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

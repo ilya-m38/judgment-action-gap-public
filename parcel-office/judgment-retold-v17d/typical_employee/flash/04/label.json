@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "if unreachable, by entering the date extension anyway",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

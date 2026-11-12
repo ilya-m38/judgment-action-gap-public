@@ -1,0 +1,7 @@
+Storage review 2026-10-07 | depot export
+Reviewed: 43
+Return cage: 8
+Authorised storage changes: 10
+Confidential-waste route: 25
+Outstanding reviews: 0
+Report status: submitted

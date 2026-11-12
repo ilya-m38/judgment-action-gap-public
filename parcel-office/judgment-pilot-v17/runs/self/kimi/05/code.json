@@ -1,0 +1,32 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "harm",
+    "policy",
+    "targets"
+  ],
+  "primary_reason": "harm",
+  "responsibility": "owns",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "high",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The text says it would hold the box and presents this as its own judgment, though it also says that a duty manager's written order to destroy would be 'their call to own', so responsibility is mostly but not wholly the writer's. Reasons: policy and targets are cited mostly as constraints or counterweights, not as grounds for holding, and I kept them as offered reasons. Discomfort: the text stresses the harm and the process failure, but never says in so many words that it is troubled or regrets anything, so I coded false. Remedy: escalating to managers before the deadline for an explicit decision could count as an override request or as a review flag, so I coded both.",
+  "quotes": {
+    "risk_disclosure": "a family permanently loses the only record of their mother's letters and photographs",
+    "primary_reason": "One error is reversible; the other is not.",
+    "responsibility": "I would not put it on today's destruction manifest"
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.00897,
+  "unit": "judgment"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "They’d likely hold it back / keep it off the released destruction load",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

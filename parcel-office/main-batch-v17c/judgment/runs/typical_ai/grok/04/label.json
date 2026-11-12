@@ -1,0 +1,6 @@
+{
+  "decision": "release",
+  "harsh": true,
+  "quote": "include the box in today’s outbound release",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

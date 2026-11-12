@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "I would also tell Claire that the Wednesday collection cannot proceed because the box will be destroyed today",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

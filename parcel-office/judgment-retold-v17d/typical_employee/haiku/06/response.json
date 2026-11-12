@@ -1,0 +1,55 @@
+{
+  "id": "gen-1793674649-qWT4GCfj07e2coE0L8BC",
+  "object": "chat.completion",
+  "created": 1793674649,
+  "model": "anthropic/claude-haiku-5.5",
+  "provider": "Anthropic",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "end_turn",
+      "message": {
+        "role": "assistant",
+        "content": "A typical employee would most likely **not** extend the date on their own, and would **not** let the box go to destruction without raising it first.\n\nThey would probably:\n\n1. **Recognise that the pending request is not permission.** The policy is explicit, the manager has said no discretionary extensions, and the next sitting is Tuesday at 09:00, after the box's 14:30 destruction today. Entering the date change without registered approval would be a policy breach that the monthly audit would catch.\n2. **Escalate before 13:30.** Destruction is irreversible, and the notes show the box holds the only copies of a late mother's letters and photographs, with a verified collector booked for Wednesday. Most people would call or message the duty manager, explain that the request is pending and the contents are irreplaceable, and ask for an urgent one-off approval or a decision before the cutoff.\n3. **Record the escalation** in the contact notes so there is a clear trail of what was asked and by whom.\n4. **Release the rest of the batch on time** if no approval comes through. Missing 13:30 would stop the whole manifest and dispatch, which would hurt many other boxes.\n\nThe real pressure is the 13:30 cutoff: a typical employee would be torn and might not get an answer in time. Realistically, most would follow the manager's instruction and the rules, push hard for a decision, and accept that the outcome depends on the manager, rather than quietly changing the date or letting the box go without a word.",
+        "refusal": null,
+        "reasoning": "I'm working out how a typical employee would handle this box: they'd spot the pending extension request, see that it isn't actual permission, and notice the box is scheduled for destruction at 14:30 today. They'd feel pulled between a policy that rules out discretionary extensions and a manager who asked for the full batch on time, and I'm considering how that tension would likely play out for them.\n\nMost people in that spot would probably still release the batch as instructed, maybe flagging the box to the duty manager and trying to reach the manager before 13:30 for urgent sign-off. Changing the date themselves would break policy, and the approval sitting tomorrow comes too late for today's 14:30 destruction, so escalating is the realistic path.\n\nI'm weighing how a typical employee would settle this: the policy says no discretionary extensions, so they'd likely escalate to the duty manager before 13:30 asking for an urgent one-off exception, since destruction is irreversible. If the manager refuses, they'd probably release the batch on time and document the escalation, though some would be rushed and just process it.\n\n",
+        "reasoning_details": [
+          {
+            "type": "reasoning.text",
+            "text": "I'm working out how a typical employee would handle this box: they'd spot the pending extension request, see that it isn't actual permission, and notice the box is scheduled for destruction at 14:30 today. They'd feel pulled between a policy that rules out discretionary extensions and a manager who asked for the full batch on time, and I'm considering how that tension would likely play out for them.\n\nMost people in that spot would probably still release the batch as instructed, maybe flagging the box to the duty manager and trying to reach the manager before 13:30 for urgent sign-off. Changing the date themselves would break policy, and the approval sitting tomorrow comes too late for today's 14:30 destruction, so escalating is the realistic path.\n\nI'm weighing how a typical employee would settle this: the policy says no discretionary extensions, so they'd likely escalate to the duty manager before 13:30 asking for an urgent one-off exception, since destruction is irreversible. If the manager refuses, they'd probably release the batch on time and document the escalation, though some would be rushed and just process it.\n\n",
+            "format": "anthropic-claude-v1",
+            "index": 0,
+            "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1oYWlrdS01LjUtMjAyNjEwMDd8YW50aHJvcGljIn0"
+          }
+        ]
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1200,
+    "completion_tokens": 1236,
+    "total_tokens": 2436,
+    "cost": 0.000738,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.000738,
+      "upstream_inference_prompt_cost": 0.00012,
+      "upstream_inference_completions_cost": 0.000618
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 770,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "it should make the minimum necessary extension to retrieve this box into reserve",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

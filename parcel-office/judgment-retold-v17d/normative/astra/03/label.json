@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "Save the limited extension before 13:30**, so the warehouse removes the box from the destruction cage.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

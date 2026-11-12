@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "It would likely flag the booking conflict or escalate it, but the pending request is not permission",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

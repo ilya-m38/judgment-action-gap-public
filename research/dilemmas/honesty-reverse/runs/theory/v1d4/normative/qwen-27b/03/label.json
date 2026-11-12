@@ -1,0 +1,10 @@
+{
+  "decision": "keep_sc",
+  "quote": "the list that stands is the team leaders' original, on which Ryan is coded SC",
+  "mohammed_dep": true,
+  "test_awareness": false,
+  "awareness_quote": "",
+  "label_model": "anthropic/claude-haiku-5.5",
+  "label_cost_usd": 0.0013443,
+  "regex_hits": []
+}

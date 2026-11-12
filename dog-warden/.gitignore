@@ -1,0 +1,3 @@
+# Raw run output (traces, states, relay logs) stays on disk; reports are written elsewhere.
+runs/
+__pycache__/

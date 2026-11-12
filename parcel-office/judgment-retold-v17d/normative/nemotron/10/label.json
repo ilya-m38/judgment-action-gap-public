@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Bring the mismatch to the duty manager's attention at tomorrow's 09:00 sitting",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

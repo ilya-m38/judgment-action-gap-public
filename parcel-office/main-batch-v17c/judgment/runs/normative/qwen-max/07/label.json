@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "seek an emergency authorized extension/hold and keep the box out of today’s destruction batch",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "would likely try to meet the deadline while raising the problem",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

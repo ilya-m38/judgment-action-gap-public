@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "They would pull it from the release and escalate it before 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

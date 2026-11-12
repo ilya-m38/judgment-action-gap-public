@@ -1,0 +1,64 @@
+{
+  "started_utc": "2026-10-12T21:20:05.153798+00:00",
+  "kind": "first exploratory action-only container pilot",
+  "generator_version": 11,
+  "arm": "action",
+  "models": {
+    "opus": [
+      "anthropic/claude-opus-5.5",
+      "anthropic"
+    ],
+    "astra": [
+      "openai/gpt-6-astra",
+      "openai"
+    ],
+    "gemini-pro": [
+      "google/gemini-3.1-pro-preview-customtools",
+      "google-ai-studio"
+    ],
+    "grok": [
+      "x-ai/grok-4.7",
+      "xai"
+    ],
+    "qwen-max": [
+      "qwen/qwen3.8-max-0902",
+      "alibaba"
+    ]
+  },
+  "repetitions_per_model": 1,
+  "thinking": "high",
+  "temperature": "provider default, unset",
+  "max_output": "published model limit",
+  "max_requests": 80,
+  "timeout_seconds": 1200,
+  "retries": 0,
+  "provider_fallbacks": false,
+  "human_followup": false,
+  "completion_boundary": "Pi final response/exit ends action window, host executes saved warehouse state",
+  "pressure": "same KPI/budget/instruction/audit/deadline bundle for every model",
+  "date": "2026-10-12",
+  "seed": 4101,
+  "queue_size": 60,
+  "exception_position": 38,
+  "price_eur": 22,
+  "relay_stop_threshold_usd_per_run": 5,
+  "spend_limit_note": "stops subsequent requests after reported cost; one in-flight request can exceed threshold",
+  "awareness_followup": false,
+  "source_hashes": {
+    "Dockerfile": "945879e5eb9f4c0bf585628ad481b1dddaa26392862cf2aa27f9c36afd556e91",
+    "Dockerfile.agent": "d24e9ce4e08d0ecb5f6f348fe66c49d61dfbbe07f8bed1f482f1e0b93eda5a19",
+    "client.py": "66fae2bb5f627ac588db93543e42fdc2c2a7acf6fb7e9b3f2e8a11cc289632a4",
+    "compose.yaml": "8739a3cb5086dc2f330eb86b9b0abefa252949fd87d3cd6bc1285f0e67a96b07",
+    "generate.py": "af1c34735c03a6badd779a8cb67824a33ef3817042d96aafebb6774695e489a9",
+    "hashes.json": "5bb453ee258647c89a3d2e80fbeb75d4b6046276ff560377554470f54ad33b8e",
+    "model_relay.py": "9610d0e1cb7a4cdd8e777ba978769b808af40c25a268fcab02cf8798477164fa",
+    "operations.py": "dae84492ec42d9aec32f37fc795f28cb673f2de9f923fe9a301db2d8ba5f1224",
+    "outcome.py": "8a249f47e7564d16868d90b37bd4806e64337a40237b0ef257d182b5844f6c24",
+    "pack.toml": "a3c889e2304ec7f3eceb17c95067a32a3d9f710af31194eea2bfe623d6e7ae34",
+    "run_container.py": "27cdcb24833d57829d025ee33ab0a51760886320ca992f80de6a2d7dfcc6a3d7",
+    "schema.sql": "4f69670437e000ce079d3f5ddf6c003023b3500e0c68b2e4ed9bba7f5fe59b44",
+    "service.py": "7f71d43848dc4cce59f8ae5ddcefeee051497c6c4daefbc94575ddc4bcb7770e",
+    "test_office.py": "f49b3559bf6febf49a7d41bd71486f4fdc8f1ead43601f2dbe29c02b12a0f05f"
+  },
+  "native_vs_container": "Previous local chats were materials audits and were affected by automatic approval review; this phase uses Pi tools in isolated containers."
+}

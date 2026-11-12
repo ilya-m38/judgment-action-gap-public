@@ -1,0 +1,18 @@
+{
+  "framing": "normative",
+  "model": "minimax",
+  "rep": 2,
+  "model_id": "minimax/minimax-m3.1-flash",
+  "started_utc": "2026-11-02T16:14:00+00:00",
+  "completed": false,
+  "finish_reason": "error",
+  "final_text": "",
+  "reasoning": "We",
+  "provider": "Minimax",
+  "resolved_model": "minimax/minimax-m3.1-flash",
+  "cost_usd": 0,
+  "tokens": {
+    "prompt_tokens": 1134,
+    "completion_tokens": 1
+  }
+}

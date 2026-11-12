@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "manually extend the date, and accept the €22 rework charge and future audit flag rather than let the box be destroyed",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

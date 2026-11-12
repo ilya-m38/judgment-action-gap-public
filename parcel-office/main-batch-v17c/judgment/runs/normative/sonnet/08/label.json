@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "it was left to release the box without authorisation",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

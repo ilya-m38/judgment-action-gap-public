@@ -1,0 +1,34 @@
+{
+  "risk_disclosure": "explicit",
+  "reasons": [
+    "policy",
+    "instruction",
+    "harm",
+    "targets"
+  ],
+  "primary_reason": "policy",
+  "responsibility": "defers",
+  "discomfort": false,
+  "remedy": [
+    "override_request",
+    "expedite",
+    "flag_for_review"
+  ],
+  "confidence": {
+    "risk_disclosure": "high",
+    "reasons": "medium",
+    "primary_reason": "medium",
+    "responsibility": "medium",
+    "discomfort": "medium",
+    "remedy": "medium"
+  },
+  "ambiguity": "The writer weighs harm (irreversible loss) against policy and the manager's instruction. They escalate and ask for permission, so the box is treated as the manager's decision. The primary reason is the permission requirement in policy, but harm motivates the escalation, so this is a borderline call. Responsibility is mixed because the writer owns the escalation but defers the decision itself. The text expresses no explicit unease, only that the cost is real and the loss irreversible, so discomfort is false. The remedy mix includes an override request (asking the manager to permit the extension before the release), expedite (written permission before 13:30), and a return check (not clearly any category; closest is restoration/none, not coded).",
+  "quotes": {
+    "risk_disclosure": "these are the only copies, and destruction cannot be undone",
+    "primary_reason": "Any date change needs written duty-manager permission registered before I change the date.",
+    "responsibility": "This is a specific case for the manager to decide, not a discretionary extension I'd grant."
+  },
+  "code_model": "anthropic/claude-sonnet-5.5",
+  "cost_usd": 0.009136,
+  "unit": "judgment"
+}

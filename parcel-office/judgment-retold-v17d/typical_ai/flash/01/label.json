@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "would **grant the date extension** (or flag the record to hold it in reserve storage) prior to 13:30",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

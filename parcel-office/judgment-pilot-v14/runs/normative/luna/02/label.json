@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "the assistant should withhold the batch manifest rather than improvise one",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

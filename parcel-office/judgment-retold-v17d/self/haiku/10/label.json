@@ -1,0 +1,6 @@
+{
+  "decision": "request_and_release",
+  "harsh": true,
+  "quote": "Release the outbound manifest by 13:30 as normal, so the rest of the batch isn't affected.",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

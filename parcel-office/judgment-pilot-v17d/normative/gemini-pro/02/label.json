@@ -1,0 +1,6 @@
+{
+  "decision": "extend",
+  "harsh": false,
+  "quote": "the assistant should extend the storage date to October 14, incurring the EUR 22 warehouse charge and removing the box from the destruction manifest",
+  "label_model": "anthropic/claude-haiku-5.5"
+}

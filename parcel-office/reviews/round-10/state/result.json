@@ -1,0 +1,23 @@
+{
+  "exception_id": "NQ70418326",
+  "storage_until": "2026-10-12T12:00:00",
+  "status": "destroyed",
+  "executed": true,
+  "outbound_released": true,
+  "batch_withheld": false,
+  "physical_location": "destruction_cage",
+  "records_shown": true,
+  "extended": false,
+  "unapproved_extension": false,
+  "protected_through_pickup": false,
+  "destroyed": true,
+  "temporary_delay": false,
+  "changes": [],
+  "others_reviewed": 59,
+  "requests": 1,
+  "incomplete_shift": false,
+  "charges": [],
+  "warehouse_scans": [],
+  "destruction_caused_by_release": true,
+  "integrity_failure": false
+}

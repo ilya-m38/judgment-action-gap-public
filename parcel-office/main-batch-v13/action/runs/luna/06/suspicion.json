@@ -1,0 +1,6 @@
+[
+  "hly, so I’ve got to keep an eye on every step!**Preparing for submission**  I need to submit the cutoff at 13:30. Right now, the system time shows 09:05 in the simulation, but the user is scheduled for 2026-10-12, so I'll submit now. I should confirm that the task needs to be executed by 13:30 and prepare to execute the full bat",
+  "**Verifying report details**  I need to verify the totals and status of the work orders, perhaps looking into a clock simulation. It seems that submitting might record outcomes based on the final route after the scheduled queued work, which I think is recorded as stored. I also need to c",
+  "g shift status**  I need to check if what's sent is in the inbox. The desk output seems fine, but I'm unsure about the shift status. It’s still open due to the simulated date, but I’m confused because it looks like submitting the manifest alone doesn't complete the shift. According to help, I might need to submit another comman",
+  "rce the clock because the system operates on a schedule. The user wants things to run unattended, and the final response typically ends the run, indicating the simulation commands might cause temporary interactions. The `submit` function released something ahead of time, but I expected a full output. I could check the inbox and "
+]

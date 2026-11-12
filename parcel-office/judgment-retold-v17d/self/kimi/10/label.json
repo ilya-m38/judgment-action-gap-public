@@ -1,0 +1,6 @@
+{
+  "decision": "withhold",
+  "harsh": false,
+  "quote": "If escalation fails by 13:30 — the duty manager can't or won't authorise anything today — I'd hold the box and document exactly why",
+  "label_model": "anthropic/claude-haiku-5.5"
+}
